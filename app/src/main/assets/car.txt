@@ -1,0 +1,4651 @@
+﻿{"subBrandList": [
+      {
+        "pinyin": "A",
+        "lists": [
+          {
+            "brand_id": "4",
+            "name": "奥迪",
+            "lists": [
+              {
+                "dict_code": "654",
+                "series_id": "4",
+                "series_name": "A1"
+              },
+              {
+                "dict_code": "378",
+                "series_id": "13",
+                "series_name": "A3"
+              },
+              {
+                "dict_code": "7",
+                "series_id": "12",
+                "series_name": "A4L"
+              },
+              {
+                "dict_code": "1202",
+                "series_id": "27",
+                "series_name": "A4allroad"
+              },
+              {
+                "dict_code": "915",
+                "series_id": "21",
+                "series_name": "A4（进口）"
+              },
+              {
+                "dict_code": "10",
+                "series_id": "8",
+                "series_name": "A5"
+              },
+              {
+                "dict_code": "9",
+                "series_id": "7",
+                "series_name": "A6L"
+              },
+              {
+                "dict_code": "909",
+                "series_id": "15",
+                "series_name": "A6（进口）"
+              },
+              {
+                "dict_code": "277",
+                "series_id": "5",
+                "series_name": "A7"
+              },
+              {
+                "dict_code": "13",
+                "series_id": "10",
+                "series_name": "A8L"
+              },
+              {
+                "dict_code": "8",
+                "series_id": "11",
+                "series_name": "Q3"
+              },
+              {
+                "dict_code": "913",
+                "series_id": "19",
+                "series_name": "Q3（进口）"
+              },
+              {
+                "dict_code": "12",
+                "series_id": "9",
+                "series_name": "Q5"
+              },
+              {
+                "dict_code": "914",
+                "series_id": "20",
+                "series_name": "Q5（进口）"
+              },
+              {
+                "dict_code": "272",
+                "series_id": "6",
+                "series_name": "Q7"
+              },
+              {
+                "dict_code": "918",
+                "series_id": "24",
+                "series_name": "R8"
+              },
+              {
+                "dict_code": "919",
+                "series_id": "25",
+                "series_name": "RS5"
+              },
+              {
+                "dict_code": "920",
+                "series_id": "26",
+                "series_name": "RS7"
+              },
+              {
+                "dict_code": "801",
+                "series_id": "3",
+                "series_name": "S3"
+              },
+              {
+                "dict_code": "893",
+                "series_id": "1",
+                "series_name": "S5"
+              },
+              {
+                "dict_code": "910",
+                "series_id": "16",
+                "series_name": "S6"
+              },
+              {
+                "dict_code": "911",
+                "series_id": "17",
+                "series_name": "S7"
+              },
+              {
+                "dict_code": "912",
+                "series_id": "18",
+                "series_name": "S8"
+              },
+              {
+                "dict_code": "916",
+                "series_id": "22",
+                "series_name": "SQ5"
+              },
+              {
+                "dict_code": "802",
+                "series_id": "2",
+                "series_name": "TT"
+              }
+            ]
+          },
+          {
+            "brand_id": "88",
+            "name": "阿斯顿·马丁",
+            "lists": [
+              {
+                "dict_code": "924",
+                "series_id": "4",
+                "series_name": "DB9"
+              },
+              {
+                "dict_code": "1086",
+                "series_id": "7",
+                "series_name": "DBS"
+              },
+              {
+                "dict_code": "1087",
+                "series_id": "8",
+                "series_name": "One-77"
+              },
+              {
+                "dict_code": "921",
+                "series_id": "1",
+                "series_name": "Rapide"
+              },
+              {
+                "dict_code": "923",
+                "series_id": "3",
+                "series_name": "V12 Vantage"
+              },
+              {
+                "dict_code": "1085",
+                "series_id": "6",
+                "series_name": "V12 Zagato"
+              },
+              {
+                "dict_code": "922",
+                "series_id": "2",
+                "series_name": "V8 Vantage"
+              },
+              {
+                "dict_code": "925",
+                "series_id": "5",
+                "series_name": "Vanquish"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "pinyin": "B",
+        "lists": [
+          {
+            "brand_id": "30",
+            "name": "保时捷",
+            "lists": [
+              {
+                "dict_code": "926",
+                "series_id": "7",
+                "series_name": "911"
+              },
+              {
+                "dict_code": "927",
+                "series_id": "8",
+                "series_name": "918"
+              },
+              {
+                "dict_code": "833",
+                "series_id": "1",
+                "series_name": "Boxster"
+              },
+              {
+                "dict_code": "440",
+                "series_id": "4",
+                "series_name": "Cayman"
+              },
+              {
+                "dict_code": "389",
+                "series_id": "6",
+                "series_name": "Macan"
+              },
+              {
+                "dict_code": "439",
+                "series_id": "5",
+                "series_name": "Panamera"
+              },
+              {
+                "dict_code": "168",
+                "series_id": "2",
+                "series_name": "卡宴"
+              }
+            ]
+          },
+          {
+            "brand_id": "9",
+            "name": "别克",
+            "lists": [
+              {
+                "dict_code": "38",
+                "series_id": "1",
+                "series_name": "GL8"
+              },
+              {
+                "dict_code": "340",
+                "series_id": "6",
+                "series_name": "凯越"
+              },
+              {
+                "dict_code": "35",
+                "series_id": "3",
+                "series_name": "君威"
+              },
+              {
+                "dict_code": "36",
+                "series_id": "5",
+                "series_name": "君越"
+              },
+              {
+                "dict_code": "1088",
+                "series_id": "10",
+                "series_name": "威朗"
+              },
+              {
+                "dict_code": "181",
+                "series_id": "7",
+                "series_name": "昂克拉"
+              },
+              {
+                "dict_code": "220",
+                "series_id": "2",
+                "series_name": "昂科威"
+              },
+              {
+                "dict_code": "37",
+                "series_id": "4",
+                "series_name": "昂科雷"
+              },
+              {
+                "dict_code": "39",
+                "series_id": "9",
+                "series_name": "林荫大道"
+              },
+              {
+                "dict_code": "182",
+                "series_id": "8",
+                "series_name": "英朗"
+              }
+            ]
+          },
+          {
+            "brand_id": "14",
+            "name": "北汽",
+            "lists": [
+              {
+                "dict_code": "928",
+                "series_id": "10",
+                "series_name": "北京40"
+              },
+              {
+                "dict_code": "853",
+                "series_id": "2",
+                "series_name": "域胜007"
+              },
+              {
+                "dict_code": "1241",
+                "series_id": "18",
+                "series_name": "威旺S50"
+              },
+              {
+                "dict_code": "1190",
+                "series_id": "14",
+                "series_name": "幻速S6"
+              },
+              {
+                "dict_code": "834",
+                "series_id": "3",
+                "series_name": "新能源ES210"
+              },
+              {
+                "dict_code": "1210",
+                "series_id": "15",
+                "series_name": "新能源EU260"
+              },
+              {
+                "dict_code": "835",
+                "series_id": "9",
+                "series_name": "新能源EV系列"
+              },
+              {
+                "dict_code": "930",
+                "series_id": "12",
+                "series_name": "绅宝CC"
+              },
+              {
+                "dict_code": "840",
+                "series_id": "7",
+                "series_name": "绅宝D50"
+              },
+              {
+                "dict_code": "841",
+                "series_id": "6",
+                "series_name": "绅宝D60"
+              },
+              {
+                "dict_code": "395",
+                "series_id": "5",
+                "series_name": "绅宝D70"
+              },
+              {
+                "dict_code": "931",
+                "series_id": "13",
+                "series_name": "绅宝D80"
+              },
+              {
+                "dict_code": "1240",
+                "series_id": "17",
+                "series_name": "绅宝X35"
+              },
+              {
+                "dict_code": "1231",
+                "series_id": "16",
+                "series_name": "绅宝X55"
+              },
+              {
+                "dict_code": "848",
+                "series_id": "4",
+                "series_name": "绅宝X65"
+              },
+              {
+                "dict_code": "878",
+                "series_id": "1",
+                "series_name": "陆霸"
+              },
+              {
+                "dict_code": "837",
+                "series_id": "8",
+                "series_name": "骑士S12"
+              }
+            ]
+          },
+          {
+            "brand_id": "23",
+            "name": "奔腾",
+            "lists": [
+              {
+                "dict_code": "1189",
+                "series_id": "5",
+                "series_name": "B30"
+              },
+              {
+                "dict_code": "860",
+                "series_id": "1",
+                "series_name": "B50"
+              },
+              {
+                "dict_code": "445",
+                "series_id": "3",
+                "series_name": "B70"
+              },
+              {
+                "dict_code": "245",
+                "series_id": "2",
+                "series_name": "B90"
+              },
+              {
+                "dict_code": "25",
+                "series_id": "4",
+                "series_name": "X80"
+              }
+            ]
+          },
+          {
+            "brand_id": "1",
+            "name": "奔驰",
+            "lists": [
+              {
+                "dict_code": "946",
+                "series_id": "37",
+                "series_name": "AMG GT"
+              },
+              {
+                "dict_code": "803",
+                "series_id": "5",
+                "series_name": "A级"
+              },
+              {
+                "dict_code": "936",
+                "series_id": "27",
+                "series_name": "A级AMG"
+              },
+              {
+                "dict_code": "804",
+                "series_id": "4",
+                "series_name": "B级"
+              },
+              {
+                "dict_code": "872",
+                "series_id": "2",
+                "series_name": "CLA级"
+              },
+              {
+                "dict_code": "937",
+                "series_id": "28",
+                "series_name": "CLA级AMG"
+              },
+              {
+                "dict_code": "444",
+                "series_id": "9",
+                "series_name": "CLS级"
+              },
+              {
+                "dict_code": "939",
+                "series_id": "30",
+                "series_name": "CLS级AMG"
+              },
+              {
+                "dict_code": "22",
+                "series_id": "14",
+                "series_name": "C级"
+              },
+              {
+                "dict_code": "932",
+                "series_id": "23",
+                "series_name": "C级(进口)"
+              },
+              {
+                "dict_code": "938",
+                "series_id": "29",
+                "series_name": "C级AMG"
+              },
+              {
+                "dict_code": "24",
+                "series_id": "8",
+                "series_name": "E级"
+              },
+              {
+                "dict_code": "1092",
+                "series_id": "41",
+                "series_name": "E级AMG"
+              },
+              {
+                "dict_code": "897",
+                "series_id": "1",
+                "series_name": "GLA级"
+              },
+              {
+                "dict_code": "933",
+                "series_id": "24",
+                "series_name": "GLA级(进口)"
+              },
+              {
+                "dict_code": "941",
+                "series_id": "32",
+                "series_name": "GLA级AMG"
+              },
+              {
+                "dict_code": "1179",
+                "series_id": "43",
+                "series_name": "GLC"
+              },
+              {
+                "dict_code": "1194",
+                "series_id": "44",
+                "series_name": "GLE级(进口)"
+              },
+              {
+                "dict_code": "23",
+                "series_id": "15",
+                "series_name": "GLK"
+              },
+              {
+                "dict_code": "1090",
+                "series_id": "39",
+                "series_name": "GLK级(进口)"
+              },
+              {
+                "dict_code": "304",
+                "series_id": "10",
+                "series_name": "GL级"
+              },
+              {
+                "dict_code": "944",
+                "series_id": "35",
+                "series_name": "GL级AMG"
+              },
+              {
+                "dict_code": "934",
+                "series_id": "25",
+                "series_name": "G级"
+              },
+              {
+                "dict_code": "943",
+                "series_id": "34",
+                "series_name": "G级AMG"
+              },
+              {
+                "dict_code": "339",
+                "series_id": "11",
+                "series_name": "M级"
+              },
+              {
+                "dict_code": "942",
+                "series_id": "33",
+                "series_name": "M级AMG"
+              },
+              {
+                "dict_code": "101",
+                "series_id": "18",
+                "series_name": "R级"
+              },
+              {
+                "dict_code": "805",
+                "series_id": "3",
+                "series_name": "SLK级"
+              },
+              {
+                "dict_code": "1093",
+                "series_id": "42",
+                "series_name": "SLK级AMG"
+              },
+              {
+                "dict_code": "947",
+                "series_id": "38",
+                "series_name": "SLS级AMG"
+              },
+              {
+                "dict_code": "935",
+                "series_id": "26",
+                "series_name": "SL级"
+              },
+              {
+                "dict_code": "945",
+                "series_id": "36",
+                "series_name": "SL级AMG"
+              },
+              {
+                "dict_code": "95",
+                "series_id": "17",
+                "series_name": "S级"
+              },
+              {
+                "dict_code": "940",
+                "series_id": "31",
+                "series_name": "S级AMG"
+              },
+              {
+                "dict_code": "93",
+                "series_id": "16",
+                "series_name": "唯雅诺"
+              },
+              {
+                "dict_code": "1091",
+                "series_id": "40",
+                "series_name": "唯雅诺(进口)"
+              },
+              {
+                "dict_code": "412",
+                "series_id": "12",
+                "series_name": "威霆"
+              }
+            ]
+          },
+          {
+            "brand_id": "4",
+            "name": "奥迪",
+            "lists": [
+              {
+                "dict_code": "1203",
+                "series_id": "28",
+                "series_name": "A6allroad"
+              },
+              {
+                "dict_code": "917",
+                "series_id": "23",
+                "series_name": "TTS"
+              }
+            ]
+          },
+          {
+            "brand_id": "125",
+            "name": "宝沃",
+            "lists": [
+              {
+                "dict_code": "1244",
+                "series_id": "1",
+                "series_name": "BX7"
+              }
+            ]
+          },
+          {
+            "brand_id": "17",
+            "name": "宝马",
+            "lists": [
+              {
+                "dict_code": "14",
+                "series_id": "15",
+                "series_name": "1系"
+              },
+              {
+                "dict_code": "1095",
+                "series_id": "28",
+                "series_name": "1系M"
+              },
+              {
+                "dict_code": "15",
+                "series_id": "14",
+                "series_name": "2系"
+              },
+              {
+                "dict_code": "16",
+                "series_id": "8",
+                "series_name": "3系"
+              },
+              {
+                "dict_code": "948",
+                "series_id": "16",
+                "series_name": "3系(进口)"
+              },
+              {
+                "dict_code": "949",
+                "series_id": "17",
+                "series_name": "3系GT"
+              },
+              {
+                "dict_code": "950",
+                "series_id": "18",
+                "series_name": "4系"
+              },
+              {
+                "dict_code": "19",
+                "series_id": "11",
+                "series_name": "5系"
+              },
+              {
+                "dict_code": "951",
+                "series_id": "19",
+                "series_name": "5系(进口)"
+              },
+              {
+                "dict_code": "374",
+                "series_id": "7",
+                "series_name": "5系GT"
+              },
+              {
+                "dict_code": "875",
+                "series_id": "1",
+                "series_name": "6系双门"
+              },
+              {
+                "dict_code": "871",
+                "series_id": "2",
+                "series_name": "6系四门"
+              },
+              {
+                "dict_code": "20",
+                "series_id": "12",
+                "series_name": "7系"
+              },
+              {
+                "dict_code": "953",
+                "series_id": "21",
+                "series_name": "M3"
+              },
+              {
+                "dict_code": "954",
+                "series_id": "22",
+                "series_name": "M4"
+              },
+              {
+                "dict_code": "955",
+                "series_id": "23",
+                "series_name": "M5"
+              },
+              {
+                "dict_code": "956",
+                "series_id": "24",
+                "series_name": "M6"
+              },
+              {
+                "dict_code": "17",
+                "series_id": "9",
+                "series_name": "X1"
+              },
+              {
+                "dict_code": "1094",
+                "series_id": "27",
+                "series_name": "X1(进口)"
+              },
+              {
+                "dict_code": "18",
+                "series_id": "10",
+                "series_name": "X3"
+              },
+              {
+                "dict_code": "388",
+                "series_id": "6",
+                "series_name": "X4"
+              },
+              {
+                "dict_code": "21",
+                "series_id": "13",
+                "series_name": "X5"
+              },
+              {
+                "dict_code": "957",
+                "series_id": "25",
+                "series_name": "X5 M"
+              },
+              {
+                "dict_code": "167",
+                "series_id": "5",
+                "series_name": "X6"
+              },
+              {
+                "dict_code": "958",
+                "series_id": "26",
+                "series_name": "X6 M"
+              },
+              {
+                "dict_code": "806",
+                "series_id": "4",
+                "series_name": "Z4"
+              },
+              {
+                "dict_code": "807",
+                "series_id": "3",
+                "series_name": "i3"
+              },
+              {
+                "dict_code": "952",
+                "series_id": "20",
+                "series_name": "i8"
+              }
+            ]
+          },
+          {
+            "brand_id": "90",
+            "name": "宝骏",
+            "lists": [
+              {
+                "dict_code": "1177",
+                "series_id": "4",
+                "series_name": "560"
+              },
+              {
+                "dict_code": "968",
+                "series_id": "1",
+                "series_name": "610"
+              },
+              {
+                "dict_code": "969",
+                "series_id": "2",
+                "series_name": "630"
+              }
+            ]
+          },
+          {
+            "brand_id": "81",
+            "name": "宾利",
+            "lists": [
+              {
+                "dict_code": "426",
+                "series_id": "3",
+                "series_name": "慕尚"
+              },
+              {
+                "dict_code": "428",
+                "series_id": "1",
+                "series_name": "欧陆"
+              },
+              {
+                "dict_code": "427",
+                "series_id": "2",
+                "series_name": "飞驰"
+              }
+            ]
+          },
+          {
+            "brand_id": "31",
+            "name": "巴博斯",
+            "lists": [
+              {
+                "dict_code": "959",
+                "series_id": "2",
+                "series_name": "CLS级"
+              },
+              {
+                "dict_code": "961",
+                "series_id": "4",
+                "series_name": "M级"
+              },
+              {
+                "dict_code": "832",
+                "series_id": "1",
+                "series_name": "SLK级"
+              },
+              {
+                "dict_code": "960",
+                "series_id": "3",
+                "series_name": "S级"
+              }
+            ]
+          },
+          {
+            "brand_id": "89",
+            "name": "布加迪",
+            "lists": [
+              {
+                "dict_code": "962",
+                "series_id": "1",
+                "series_name": "威航"
+              }
+            ]
+          },
+          {
+            "brand_id": "12",
+            "name": "本田",
+            "lists": [
+              {
+                "dict_code": "676",
+                "series_id": "4",
+                "series_name": "CR-Z"
+              },
+              {
+                "dict_code": "27",
+                "series_id": "10",
+                "series_name": "CRV"
+              },
+              {
+                "dict_code": "674",
+                "series_id": "6",
+                "series_name": "Insight"
+              },
+              {
+                "dict_code": "675",
+                "series_id": "5",
+                "series_name": "XR-V"
+              },
+              {
+                "dict_code": "177",
+                "series_id": "14",
+                "series_name": "凌派"
+              },
+              {
+                "dict_code": "1188",
+                "series_id": "18",
+                "series_name": "哥瑞"
+              },
+              {
+                "dict_code": "32",
+                "series_id": "7",
+                "series_name": "奥德赛"
+              },
+              {
+                "dict_code": "175",
+                "series_id": "15",
+                "series_name": "思域"
+              },
+              {
+                "dict_code": "28",
+                "series_id": "11",
+                "series_name": "思铂睿"
+              },
+              {
+                "dict_code": "342",
+                "series_id": "13",
+                "series_name": "思铭"
+              },
+              {
+                "dict_code": "874",
+                "series_id": "2",
+                "series_name": "杰德"
+              },
+              {
+                "dict_code": "31",
+                "series_id": "8",
+                "series_name": "歌诗图"
+              },
+              {
+                "dict_code": "393",
+                "series_id": "12",
+                "series_name": "缤智"
+              },
+              {
+                "dict_code": "29",
+                "series_id": "9",
+                "series_name": "艾力绅"
+              },
+              {
+                "dict_code": "176",
+                "series_id": "16",
+                "series_name": "锋范"
+              },
+              {
+                "dict_code": "30",
+                "series_id": "1",
+                "series_name": "雅阁"
+              },
+              {
+                "dict_code": "678",
+                "series_id": "3",
+                "series_name": "飞度"
+              },
+              {
+                "dict_code": "963",
+                "series_id": "17",
+                "series_name": "飞度(进口)"
+              }
+            ]
+          },
+          {
+            "brand_id": "68",
+            "name": "标致",
+            "lists": [
+              {
+                "dict_code": "965",
+                "series_id": "12",
+                "series_name": "207(进口)"
+              },
+              {
+                "dict_code": "1098",
+                "series_id": "15",
+                "series_name": "3008(进口)"
+              },
+              {
+                "dict_code": "666",
+                "series_id": "3",
+                "series_name": "301"
+              },
+              {
+                "dict_code": "664",
+                "series_id": "4",
+                "series_name": "307"
+              },
+              {
+                "dict_code": "179",
+                "series_id": "9",
+                "series_name": "308"
+              },
+              {
+                "dict_code": "180",
+                "series_id": "1",
+                "series_name": "2008"
+              },
+              {
+                "dict_code": "443",
+                "series_id": "8",
+                "series_name": "3008"
+              },
+              {
+                "dict_code": "966",
+                "series_id": "13",
+                "series_name": "308(进口)"
+              },
+              {
+                "dict_code": "964",
+                "series_id": "11",
+                "series_name": "308S"
+              },
+              {
+                "dict_code": "1100",
+                "series_id": "16",
+                "series_name": "407"
+              },
+              {
+                "dict_code": "450",
+                "series_id": "7",
+                "series_name": "408"
+              },
+              {
+                "dict_code": "34",
+                "series_id": "6",
+                "series_name": "508"
+              },
+              {
+                "dict_code": "219",
+                "series_id": "5",
+                "series_name": "4008"
+              },
+              {
+                "dict_code": "1097",
+                "series_id": "14",
+                "series_name": "508(进口)"
+              },
+              {
+                "dict_code": "669",
+                "series_id": "2",
+                "series_name": "RCZ"
+              }
+            ]
+          },
+          {
+            "brand_id": "33",
+            "name": "比亚迪",
+            "lists": [
+              {
+                "dict_code": "1193",
+                "series_id": "15",
+                "series_name": "E5"
+              },
+              {
+                "dict_code": "235",
+                "series_id": "10",
+                "series_name": "E6"
+              },
+              {
+                "dict_code": "1239",
+                "series_id": "18",
+                "series_name": "EV300"
+              },
+              {
+                "dict_code": "1104",
+                "series_id": "13",
+                "series_name": "F6"
+              },
+              {
+                "dict_code": "827",
+                "series_id": "3",
+                "series_name": "G5"
+              },
+              {
+                "dict_code": "828",
+                "series_id": "2",
+                "series_name": "G6"
+              },
+              {
+                "dict_code": "820",
+                "series_id": "6",
+                "series_name": "M6"
+              },
+              {
+                "dict_code": "822",
+                "series_id": "5",
+                "series_name": "S6"
+              },
+              {
+                "dict_code": "824",
+                "series_id": "4",
+                "series_name": "S7"
+              },
+              {
+                "dict_code": "830",
+                "series_id": "1",
+                "series_name": "唐"
+              },
+              {
+                "dict_code": "1209",
+                "series_id": "16",
+                "series_name": "宋"
+              },
+              {
+                "dict_code": "816",
+                "series_id": "7",
+                "series_name": "思锐"
+              },
+              {
+                "dict_code": "815",
+                "series_id": "8",
+                "series_name": "秦"
+              },
+              {
+                "dict_code": "1170",
+                "series_id": "14",
+                "series_name": "速锐"
+              }
+            ]
+          },
+          {
+            "brand_id": "121",
+            "name": "腾势",
+            "lists": [
+              {
+                "dict_code": "814",
+                "series_id": "9",
+                "series_name": "DENZA"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "pinyin": "C",
+        "lists": [
+          {
+            "brand_id": "0",
+            "name": "出租车",
+            "lists": [
+              {
+                "dict_code": "1242",
+                "series_id": "1",
+                "series_name": "-快车计价"
+              }
+            ]
+          },
+          {
+            "brand_id": "18",
+            "name": "长城",
+            "lists": [
+              {
+                "dict_code": "765",
+                "series_id": "2",
+                "series_name": "C50"
+              },
+              {
+                "dict_code": "971",
+                "series_id": "3",
+                "series_name": "M2"
+              },
+              {
+                "dict_code": "873",
+                "series_id": "1",
+                "series_name": "M4"
+              }
+            ]
+          },
+          {
+            "brand_id": "47",
+            "name": "长安",
+            "lists": [
+              {
+                "dict_code": "762",
+                "series_id": "1",
+                "series_name": "CS35"
+              },
+              {
+                "dict_code": "754",
+                "series_id": "5",
+                "series_name": "CS75"
+              },
+              {
+                "dict_code": "1232",
+                "series_id": "11",
+                "series_name": "CX70"
+              },
+              {
+                "dict_code": "1110",
+                "series_id": "7",
+                "series_name": "志翔"
+              },
+              {
+                "dict_code": "1191",
+                "series_id": "9",
+                "series_name": "悦翔V7"
+              },
+              {
+                "dict_code": "756",
+                "series_id": "4",
+                "series_name": "睿骋"
+              },
+              {
+                "dict_code": "1192",
+                "series_id": "10",
+                "series_name": "维特拉"
+              },
+              {
+                "dict_code": "760",
+                "series_id": "2",
+                "series_name": "致尚XT"
+              },
+              {
+                "dict_code": "758",
+                "series_id": "3",
+                "series_name": "逸动"
+              },
+              {
+                "dict_code": "1180",
+                "series_id": "8",
+                "series_name": "逸动 EV"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "pinyin": "D",
+        "lists": [
+          {
+            "brand_id": "6",
+            "name": " 谛艾仕",
+            "lists": [
+              {
+                "dict_code": "748",
+                "series_id": "6",
+                "series_name": "DS3"
+              },
+              {
+                "dict_code": "749",
+                "series_id": "5",
+                "series_name": "DS4"
+              },
+              {
+                "dict_code": "750",
+                "series_id": "4",
+                "series_name": "DS5"
+              },
+              {
+                "dict_code": "89",
+                "series_id": "8",
+                "series_name": "DS5LS"
+              },
+              {
+                "dict_code": "318",
+                "series_id": "7",
+                "series_name": "DS6"
+              }
+            ]
+          },
+          {
+            "brand_id": "42",
+            "name": "东南",
+            "lists": [
+              {
+                "dict_code": "1112",
+                "series_id": "5",
+                "series_name": "DX7"
+              },
+              {
+                "dict_code": "1024",
+                "series_id": "4",
+                "series_name": "V3 EV"
+              },
+              {
+                "dict_code": "784",
+                "series_id": "2",
+                "series_name": "V5菱致"
+              },
+              {
+                "dict_code": "785",
+                "series_id": "1",
+                "series_name": "V6菱仕"
+              }
+            ]
+          },
+          {
+            "brand_id": "44",
+            "name": "东风",
+            "lists": [
+              {
+                "dict_code": "1214",
+                "series_id": "23",
+                "series_name": "A9"
+              },
+              {
+                "dict_code": "1186",
+                "series_id": "21",
+                "series_name": "AX3"
+              },
+              {
+                "dict_code": "780",
+                "series_id": "1",
+                "series_name": "AX7"
+              },
+              {
+                "dict_code": "777",
+                "series_id": "3",
+                "series_name": "MX6"
+              },
+              {
+                "dict_code": "766",
+                "series_id": "10",
+                "series_name": "奥丁"
+              },
+              {
+                "dict_code": "972",
+                "series_id": "12",
+                "series_name": "御轩"
+              },
+              {
+                "dict_code": "976",
+                "series_id": "16",
+                "series_name": "景逸S50"
+              },
+              {
+                "dict_code": "1114",
+                "series_id": "20",
+                "series_name": "景逸SUV"
+              },
+              {
+                "dict_code": "977",
+                "series_id": "17",
+                "series_name": "景逸X3"
+              },
+              {
+                "dict_code": "772",
+                "series_id": "7",
+                "series_name": "景逸X5"
+              },
+              {
+                "dict_code": "978",
+                "series_id": "18",
+                "series_name": "景逸XV"
+              },
+              {
+                "dict_code": "1254",
+                "series_id": "24",
+                "series_name": "风光580"
+              },
+              {
+                "dict_code": "768",
+                "series_id": "9",
+                "series_name": "风度MX6"
+              },
+              {
+                "dict_code": "975",
+                "series_id": "15",
+                "series_name": "风神A30"
+              },
+              {
+                "dict_code": "775",
+                "series_id": "5",
+                "series_name": "风神A60"
+              },
+              {
+                "dict_code": "1204",
+                "series_id": "22",
+                "series_name": "风神AX3"
+              },
+              {
+                "dict_code": "770",
+                "series_id": "8",
+                "series_name": "风神AX7"
+              },
+              {
+                "dict_code": "973",
+                "series_id": "13",
+                "series_name": "风神H30"
+              },
+              {
+                "dict_code": "776",
+                "series_id": "4",
+                "series_name": "风神L60"
+              },
+              {
+                "dict_code": "779",
+                "series_id": "2",
+                "series_name": "风行CM7"
+              },
+              {
+                "dict_code": "1256",
+                "series_id": "25",
+                "series_name": "风行SX6"
+              }
+            ]
+          },
+          {
+            "brand_id": "10",
+            "name": "大众",
+            "lists": [
+              {
+                "dict_code": "5",
+                "series_id": "15",
+                "series_name": "CC"
+              },
+              {
+                "dict_code": "826",
+                "series_id": "9",
+                "series_name": "Eos"
+              },
+              {
+                "dict_code": "829",
+                "series_id": "8",
+                "series_name": "POLO"
+              },
+              {
+                "dict_code": "307",
+                "series_id": "21",
+                "series_name": "凌渡"
+              },
+              {
+                "dict_code": "420",
+                "series_id": "11",
+                "series_name": "凯路威"
+              },
+              {
+                "dict_code": "129",
+                "series_id": "10",
+                "series_name": "夏朗"
+              },
+              {
+                "dict_code": "187",
+                "series_id": "19",
+                "series_name": "宝来"
+              },
+              {
+                "dict_code": "844",
+                "series_id": "3",
+                "series_name": "尚酷"
+              },
+              {
+                "dict_code": "1",
+                "series_id": "1",
+                "series_name": "帕萨特"
+              },
+              {
+                "dict_code": "839",
+                "series_id": "5",
+                "series_name": "新捷达"
+              },
+              {
+                "dict_code": "842",
+                "series_id": "4",
+                "series_name": "新桑塔纳"
+              },
+              {
+                "dict_code": "183",
+                "series_id": "23",
+                "series_name": "朗境"
+              },
+              {
+                "dict_code": "184",
+                "series_id": "22",
+                "series_name": "朗行"
+              },
+              {
+                "dict_code": "185",
+                "series_id": "18",
+                "series_name": "朗逸"
+              },
+              {
+                "dict_code": "980",
+                "series_id": "24",
+                "series_name": "甲壳虫"
+              },
+              {
+                "dict_code": "6",
+                "series_id": "14",
+                "series_name": "辉腾"
+              },
+              {
+                "dict_code": "384",
+                "series_id": "12",
+                "series_name": "迈特威"
+              },
+              {
+                "dict_code": "2",
+                "series_id": "17",
+                "series_name": "迈腾"
+              },
+              {
+                "dict_code": "982",
+                "series_id": "26",
+                "series_name": "迈腾(进口)"
+              },
+              {
+                "dict_code": "4",
+                "series_id": "2",
+                "series_name": "途安"
+              },
+              {
+                "dict_code": "3",
+                "series_id": "16",
+                "series_name": "途观"
+              },
+              {
+                "dict_code": "1178",
+                "series_id": "27",
+                "series_name": "途观(进口)"
+              },
+              {
+                "dict_code": "106",
+                "series_id": "13",
+                "series_name": "途锐"
+              },
+              {
+                "dict_code": "188",
+                "series_id": "20",
+                "series_name": "速腾"
+              },
+              {
+                "dict_code": "838",
+                "series_id": "6",
+                "series_name": "高尔夫"
+              },
+              {
+                "dict_code": "981",
+                "series_id": "25",
+                "series_name": "高尔夫(进口)"
+              }
+            ]
+          },
+          {
+            "brand_id": "83",
+            "name": "道奇",
+            "lists": [
+              {
+                "dict_code": "1115",
+                "series_id": "6",
+                "series_name": "凯领"
+              },
+              {
+                "dict_code": "1116",
+                "series_id": "3",
+                "series_name": "酷博"
+              },
+              {
+                "dict_code": "40",
+                "series_id": "1",
+                "series_name": "酷威"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "pinyin": "F",
+        "lists": [
+          {
+            "brand_id": "7",
+            "name": "丰田",
+            "lists": [
+              {
+                "dict_code": "823",
+                "series_id": "4",
+                "series_name": "86"
+              },
+              {
+                "dict_code": "984",
+                "series_id": "23",
+                "series_name": "FJ酷路泽"
+              },
+              {
+                "dict_code": "42",
+                "series_id": "11",
+                "series_name": "RAV4"
+              },
+              {
+                "dict_code": "908",
+                "series_id": "21",
+                "series_name": "YARiS L 致炫"
+              },
+              {
+                "dict_code": "433",
+                "series_id": "10",
+                "series_name": "兰德酷路泽"
+              },
+              {
+                "dict_code": "985",
+                "series_id": "24",
+                "series_name": "兰德酷路泽（进口）"
+              },
+              {
+                "dict_code": "41",
+                "series_id": "2",
+                "series_name": "凯美瑞"
+              },
+              {
+                "dict_code": "190",
+                "series_id": "17",
+                "series_name": "卡罗拉"
+              },
+              {
+                "dict_code": "45",
+                "series_id": "14",
+                "series_name": "埃尔法"
+              },
+              {
+                "dict_code": "125",
+                "series_id": "7",
+                "series_name": "塞纳"
+              },
+              {
+                "dict_code": "821",
+                "series_id": "5",
+                "series_name": "威飒"
+              },
+              {
+                "dict_code": "983",
+                "series_id": "22",
+                "series_name": "威驰"
+              },
+              {
+                "dict_code": "138",
+                "series_id": "9",
+                "series_name": "普拉多"
+              },
+              {
+                "dict_code": "987",
+                "series_id": "26",
+                "series_name": "普拉多（进口）"
+              },
+              {
+                "dict_code": "120",
+                "series_id": "8",
+                "series_name": "普瑞维亚"
+              },
+              {
+                "dict_code": "123",
+                "series_id": "20",
+                "series_name": "普瑞维亚"
+              },
+              {
+                "dict_code": "407",
+                "series_id": "16",
+                "series_name": "普锐斯"
+              },
+              {
+                "dict_code": "825",
+                "series_id": "3",
+                "series_name": "杰路驰"
+              },
+              {
+                "dict_code": "43",
+                "series_id": "12",
+                "series_name": "汉兰达"
+              },
+              {
+                "dict_code": "46",
+                "series_id": "15",
+                "series_name": "皇冠"
+              },
+              {
+                "dict_code": "986",
+                "series_id": "25",
+                "series_name": "红杉"
+              },
+              {
+                "dict_code": "113",
+                "series_id": "1",
+                "series_name": "逸致"
+              },
+              {
+                "dict_code": "44",
+                "series_id": "13",
+                "series_name": "锐志"
+              },
+              {
+                "dict_code": "1118",
+                "series_id": "27",
+                "series_name": "雅力士"
+              },
+              {
+                "dict_code": "349",
+                "series_id": "18",
+                "series_name": "雷凌"
+              }
+            ]
+          },
+          {
+            "brand_id": "91",
+            "name": "法拉利",
+            "lists": [
+              {
+                "dict_code": "989",
+                "series_id": "2",
+                "series_name": "458"
+              },
+              {
+                "dict_code": "993",
+                "series_id": "6",
+                "series_name": "488"
+              },
+              {
+                "dict_code": "1121",
+                "series_id": "8",
+                "series_name": "599"
+              },
+              {
+                "dict_code": "988",
+                "series_id": "1",
+                "series_name": "California"
+              },
+              {
+                "dict_code": "990",
+                "series_id": "3",
+                "series_name": "F12berlinetta"
+              },
+              {
+                "dict_code": "1122",
+                "series_id": "9",
+                "series_name": "F430"
+              },
+              {
+                "dict_code": "991",
+                "series_id": "4",
+                "series_name": "FF"
+              },
+              {
+                "dict_code": "992",
+                "series_id": "5",
+                "series_name": "LaFerrari"
+              },
+              {
+                "dict_code": "1120",
+                "series_id": "7",
+                "series_name": "Sergio"
+              }
+            ]
+          },
+          {
+            "brand_id": "40",
+            "name": "福特",
+            "lists": [
+              {
+                "dict_code": "787",
+                "series_id": "5",
+                "series_name": "嘉年华"
+              },
+              {
+                "dict_code": "994",
+                "series_id": "14",
+                "series_name": "嘉年华（进口）"
+              },
+              {
+                "dict_code": "997",
+                "series_id": "17",
+                "series_name": "征服者"
+              },
+              {
+                "dict_code": "390",
+                "series_id": "7",
+                "series_name": "探险者"
+              },
+              {
+                "dict_code": "191",
+                "series_id": "13",
+                "series_name": "福克斯"
+              },
+              {
+                "dict_code": "995",
+                "series_id": "15",
+                "series_name": "福克斯（进口）"
+              },
+              {
+                "dict_code": "344",
+                "series_id": "12",
+                "series_name": "福睿斯"
+              },
+              {
+                "dict_code": "788",
+                "series_id": "4",
+                "series_name": "翼博"
+              },
+              {
+                "dict_code": "47",
+                "series_id": "8",
+                "series_name": "翼虎"
+              },
+              {
+                "dict_code": "789",
+                "series_id": "3",
+                "series_name": "致胜"
+              },
+              {
+                "dict_code": "48",
+                "series_id": "9",
+                "series_name": "蒙迪欧"
+              },
+              {
+                "dict_code": "790",
+                "series_id": "2",
+                "series_name": "野马"
+              },
+              {
+                "dict_code": "1200",
+                "series_id": "18",
+                "series_name": "金牛座"
+              },
+              {
+                "dict_code": "159",
+                "series_id": "6",
+                "series_name": "锐界"
+              },
+              {
+                "dict_code": "996",
+                "series_id": "16",
+                "series_name": "锐界（进口）"
+              },
+              {
+                "dict_code": "49",
+                "series_id": "10",
+                "series_name": "麦柯斯"
+              }
+            ]
+          },
+          {
+            "brand_id": "92",
+            "name": "福田",
+            "lists": [
+              {
+                "dict_code": "1243",
+                "series_id": "4",
+                "series_name": "伽途ix7"
+              },
+              {
+                "dict_code": "998",
+                "series_id": "1",
+                "series_name": "萨瓦纳"
+              }
+            ]
+          },
+          {
+            "brand_id": "39",
+            "name": "福迪",
+            "lists": [
+              {
+                "dict_code": "791",
+                "series_id": "1",
+                "series_name": "探索者III"
+              },
+              {
+                "dict_code": "792",
+                "series_id": "1",
+                "series_name": "揽福"
+              },
+              {
+                "dict_code": "1201",
+                "series_id": "19",
+                "series_name": "撼路者"
+              }
+            ]
+          },
+          {
+            "brand_id": "41",
+            "name": "菲亚特",
+            "lists": [
+              {
+                "dict_code": "786",
+                "series_id": "1",
+                "series_name": "Ottimo致悦"
+              },
+              {
+                "dict_code": "96",
+                "series_id": "3",
+                "series_name": "菲翔"
+              },
+              {
+                "dict_code": "223",
+                "series_id": "2",
+                "series_name": "菲跃"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "pinyin": "G",
+        "lists": [
+          {
+            "brand_id": "93",
+            "name": "GMC",
+            "lists": [
+              {
+                "dict_code": "1000",
+                "series_id": "1",
+                "series_name": "SAVANA"
+              }
+            ]
+          },
+          {
+            "brand_id": "110",
+            "name": "光冈",
+            "lists": [
+              {
+                "dict_code": "1128",
+                "series_id": "1",
+                "series_name": "大蛇"
+              }
+            ]
+          },
+          {
+            "brand_id": "37",
+            "name": "广汽传祺",
+            "lists": [
+              {
+                "dict_code": "797",
+                "series_id": "3",
+                "series_name": "传祺GA3"
+              },
+              {
+                "dict_code": "798",
+                "series_id": "2",
+                "series_name": "传祺GA3S视界"
+              },
+              {
+                "dict_code": "794",
+                "series_id": "6",
+                "series_name": "传祺GA5"
+              },
+              {
+                "dict_code": "399",
+                "series_id": "1",
+                "series_name": "传祺GA6"
+              },
+              {
+                "dict_code": "1001",
+                "series_id": "8",
+                "series_name": "传祺GS4"
+              },
+              {
+                "dict_code": "398",
+                "series_id": "4",
+                "series_name": "传祺GS5"
+              },
+              {
+                "dict_code": "795",
+                "series_id": "5",
+                "series_name": "传祺GS5速博"
+              }
+            ]
+          },
+          {
+            "brand_id": "36",
+            "name": "广汽吉奥",
+            "lists": [
+              {
+                "dict_code": "1002",
+                "series_id": "6",
+                "series_name": "E美"
+              },
+              {
+                "dict_code": "1131",
+                "series_id": "8",
+                "series_name": "奥轩G3"
+              },
+              {
+                "dict_code": "671",
+                "series_id": "2",
+                "series_name": "奥轩G5"
+              },
+              {
+                "dict_code": "667",
+                "series_id": "4",
+                "series_name": "奥轩GX5"
+              },
+              {
+                "dict_code": "668",
+                "series_id": "3",
+                "series_name": "奥轩GX6"
+              },
+              {
+                "dict_code": "1133",
+                "series_id": "10",
+                "series_name": "帅舰"
+              },
+              {
+                "dict_code": "1132",
+                "series_id": "9",
+                "series_name": "帅豹"
+              }
+            ]
+          },
+          {
+            "brand_id": "38",
+            "name": "观致",
+            "lists": [
+              {
+                "dict_code": "793",
+                "series_id": "1",
+                "series_name": "3"
+              },
+              {
+                "dict_code": "1215",
+                "series_id": "3",
+                "series_name": "5"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "pinyin": "H",
+        "lists": [
+          {
+            "brand_id": "94",
+            "name": "华晨华颂",
+            "lists": [
+              {
+                "dict_code": "1004",
+                "series_id": "1",
+                "series_name": "华颂7"
+              }
+            ]
+          },
+          {
+            "brand_id": "87",
+            "name": "华晨宝马",
+            "lists": [
+              {
+                "dict_code": "904",
+                "series_id": "1",
+                "series_name": "之诺1E"
+              }
+            ]
+          },
+          {
+            "brand_id": "63",
+            "name": "华泰",
+            "lists": [
+              {
+                "dict_code": "1216",
+                "series_id": "7",
+                "series_name": "iEV230"
+              },
+              {
+                "dict_code": "703",
+                "series_id": "3",
+                "series_name": "华泰B11"
+              },
+              {
+                "dict_code": "704",
+                "series_id": "2",
+                "series_name": "圣达菲"
+              },
+              {
+                "dict_code": "700",
+                "series_id": "5",
+                "series_name": "宝利格"
+              },
+              {
+                "dict_code": "706",
+                "series_id": "1",
+                "series_name": "新圣达菲"
+              },
+              {
+                "dict_code": "701",
+                "series_id": "4",
+                "series_name": "特拉卡"
+              }
+            ]
+          },
+          {
+            "brand_id": "67",
+            "name": "哈弗",
+            "lists": [
+              {
+                "dict_code": "1005",
+                "series_id": "6",
+                "series_name": "H1"
+              },
+              {
+                "dict_code": "672",
+                "series_id": "2",
+                "series_name": "H2"
+              },
+              {
+                "dict_code": "1134",
+                "series_id": "8",
+                "series_name": "H3"
+              },
+              {
+                "dict_code": "673",
+                "series_id": "1",
+                "series_name": "H5"
+              },
+              {
+                "dict_code": "258",
+                "series_id": "5",
+                "series_name": "H6"
+              },
+              {
+                "dict_code": "1006",
+                "series_id": "7",
+                "series_name": "H6 Coupe"
+              },
+              {
+                "dict_code": "1233",
+                "series_id": "9",
+                "series_name": "H7"
+              },
+              {
+                "dict_code": "240",
+                "series_id": "3",
+                "series_name": "H8"
+              },
+              {
+                "dict_code": "414",
+                "series_id": "4",
+                "series_name": "H9"
+              }
+            ]
+          },
+          {
+            "brand_id": "104",
+            "name": "悍马",
+            "lists": [
+              {
+                "dict_code": "1068",
+                "series_id": "1",
+                "series_name": "H2"
+              },
+              {
+                "dict_code": "1136",
+                "series_id": "2",
+                "series_name": "H3"
+              }
+            ]
+          },
+          {
+            "brand_id": "66",
+            "name": "海马",
+            "lists": [
+              {
+                "dict_code": "1007",
+                "series_id": "8",
+                "series_name": "M6"
+              },
+              {
+                "dict_code": "683",
+                "series_id": "7",
+                "series_name": "M8"
+              },
+              {
+                "dict_code": "687",
+                "series_id": "4",
+                "series_name": "S5"
+              },
+              {
+                "dict_code": "689",
+                "series_id": "3",
+                "series_name": "S7"
+              },
+              {
+                "dict_code": "686",
+                "series_id": "5",
+                "series_name": "普力马"
+              },
+              {
+                "dict_code": "1141",
+                "series_id": "11",
+                "series_name": "欢动"
+              },
+              {
+                "dict_code": "1139",
+                "series_id": "10",
+                "series_name": "海马3"
+              },
+              {
+                "dict_code": "690",
+                "series_id": "2",
+                "series_name": "福美来M5"
+              },
+              {
+                "dict_code": "684",
+                "series_id": "6",
+                "series_name": "骑士"
+              }
+            ]
+          },
+          {
+            "brand_id": "80",
+            "name": "红旗",
+            "lists": [
+              {
+                "dict_code": "136",
+                "series_id": "1",
+                "series_name": "H7"
+              },
+              {
+                "dict_code": "1142",
+                "series_id": "3",
+                "series_name": "L5"
+              }
+            ]
+          },
+          {
+            "brand_id": "61",
+            "name": "黄海",
+            "lists": [
+              {
+                "dict_code": "708",
+                "series_id": "2",
+                "series_name": "旗胜F1"
+              },
+              {
+                "dict_code": "710",
+                "series_id": "1",
+                "series_name": "旗胜V3"
+              },
+              {
+                "dict_code": "707",
+                "series_id": "3",
+                "series_name": "翱龙CUV"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "pinyin": "J",
+        "lists": [
+          {
+            "brand_id": "70",
+            "name": "JEEP（吉普）",
+            "lists": [
+              {
+                "dict_code": "232",
+                "series_id": "2",
+                "series_name": "大切诺基"
+              },
+              {
+                "dict_code": "1009",
+                "series_id": "7",
+                "series_name": "大切诺基 SRT"
+              },
+              {
+                "dict_code": "1008",
+                "series_id": "6",
+                "series_name": "大切诺基(进口)"
+              },
+              {
+                "dict_code": "50",
+                "series_id": "4",
+                "series_name": "指南者"
+              },
+              {
+                "dict_code": "222",
+                "series_id": "1",
+                "series_name": "牧马人"
+              },
+              {
+                "dict_code": "382",
+                "series_id": "3",
+                "series_name": "自由光"
+              },
+              {
+                "dict_code": "51",
+                "series_id": "5",
+                "series_name": "自由客"
+              }
+            ]
+          },
+          {
+            "brand_id": "95",
+            "name": "九龙",
+            "lists": [
+              {
+                "dict_code": "1010",
+                "series_id": "1",
+                "series_name": "艾菲"
+              }
+            ]
+          },
+          {
+            "brand_id": "8",
+            "name": "吉利",
+            "lists": [
+              {
+                "dict_code": "717",
+                "series_id": "3",
+                "series_name": "EC8"
+              },
+              {
+                "dict_code": "1218",
+                "series_id": "15",
+                "series_name": "GC7"
+              },
+              {
+                "dict_code": "1013",
+                "series_id": "10",
+                "series_name": "GX7"
+              },
+              {
+                "dict_code": "887",
+                "series_id": "2",
+                "series_name": "SX7"
+              },
+              {
+                "dict_code": "713",
+                "series_id": "6",
+                "series_name": "博瑞"
+              },
+              {
+                "dict_code": "1217",
+                "series_id": "14",
+                "series_name": "博越"
+              },
+              {
+                "dict_code": "1011",
+                "series_id": "8",
+                "series_name": "帝豪"
+              },
+              {
+                "dict_code": "1176",
+                "series_id": "13",
+                "series_name": "帝豪EC7 EV"
+              },
+              {
+                "dict_code": "1253",
+                "series_id": "18",
+                "series_name": "帝豪EV"
+              },
+              {
+                "dict_code": "1235",
+                "series_id": "16",
+                "series_name": "帝豪GS"
+              },
+              {
+                "dict_code": "1012",
+                "series_id": "9",
+                "series_name": "经典帝豪"
+              },
+              {
+                "dict_code": "715",
+                "series_id": "4",
+                "series_name": "英伦TX4"
+              },
+              {
+                "dict_code": "714",
+                "series_id": "5",
+                "series_name": "豪情SUV"
+              },
+              {
+                "dict_code": "1247",
+                "series_id": "17",
+                "series_name": "远景X6"
+              }
+            ]
+          },
+          {
+            "brand_id": "60",
+            "name": "捷豹",
+            "lists": [
+              {
+                "dict_code": "1219",
+                "series_id": "5",
+                "series_name": "F-PACE"
+              },
+              {
+                "dict_code": "711",
+                "series_id": "1",
+                "series_name": "F-TYPE"
+              },
+              {
+                "dict_code": "1014",
+                "series_id": "4",
+                "series_name": "XE"
+              },
+              {
+                "dict_code": "139",
+                "series_id": "2",
+                "series_name": "XF"
+              },
+              {
+                "dict_code": "140",
+                "series_id": "3",
+                "series_name": "XJ"
+              }
+            ]
+          },
+          {
+            "brand_id": "55",
+            "name": "江淮",
+            "lists": [
+              {
+                "dict_code": "719",
+                "series_id": "4",
+                "series_name": "iEV5"
+              },
+              {
+                "dict_code": "1255",
+                "series_id": "7",
+                "series_name": "iEV6S"
+              },
+              {
+                "dict_code": "728",
+                "series_id": "1",
+                "series_name": "和悦"
+              },
+              {
+                "dict_code": "1150",
+                "series_id": "5",
+                "series_name": "宾悦"
+              },
+              {
+                "dict_code": "727",
+                "series_id": "2",
+                "series_name": "瑞风M5"
+              },
+              {
+                "dict_code": "1185",
+                "series_id": "6",
+                "series_name": "瑞风S3"
+              },
+              {
+                "dict_code": "726",
+                "series_id": "3",
+                "series_name": "瑞风S5"
+              }
+            ]
+          },
+          {
+            "brand_id": "54",
+            "name": "江铃",
+            "lists": [
+              {
+                "dict_code": "729",
+                "series_id": "1",
+                "series_name": "驭胜"
+              }
+            ]
+          },
+          {
+            "brand_id": "53",
+            "name": "金杯",
+            "lists": [
+              {
+                "dict_code": "730",
+                "series_id": "1",
+                "series_name": "S50"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "pinyin": "K",
+        "lists": [
+          {
+            "brand_id": "112",
+            "name": "KTM",
+            "lists": [
+              {
+                "dict_code": "1153",
+                "series_id": "1",
+                "series_name": "X-BOW"
+              }
+            ]
+          },
+          {
+            "brand_id": "74",
+            "name": "克莱斯勒",
+            "lists": [
+              {
+                "dict_code": "54",
+                "series_id": "2",
+                "series_name": "300C"
+              },
+              {
+                "dict_code": "1155",
+                "series_id": "3",
+                "series_name": "300C(进口)"
+              },
+              {
+                "dict_code": "256",
+                "series_id": "1",
+                "series_name": "大捷龙"
+              }
+            ]
+          },
+          {
+            "brand_id": "122",
+            "name": "凯翼",
+            "lists": [
+              {
+                "dict_code": "1246",
+                "series_id": "2",
+                "series_name": "V3"
+              },
+              {
+                "dict_code": "1236",
+                "series_id": "1",
+                "series_name": "凯翼X3"
+              }
+            ]
+          },
+          {
+            "brand_id": "71",
+            "name": "凯迪拉克",
+            "lists": [
+              {
+                "dict_code": "163",
+                "series_id": "3",
+                "series_name": "ATS"
+              },
+              {
+                "dict_code": "1205",
+                "series_id": "9",
+                "series_name": "ATS-L"
+              },
+              {
+                "dict_code": "1199",
+                "series_id": "8",
+                "series_name": "CT6"
+              },
+              {
+                "dict_code": "130",
+                "series_id": "2",
+                "series_name": "CTS"
+              },
+              {
+                "dict_code": "1015",
+                "series_id": "7",
+                "series_name": "CTS(进口)"
+              },
+              {
+                "dict_code": "429",
+                "series_id": "4",
+                "series_name": "ESCALADE"
+              },
+              {
+                "dict_code": "173",
+                "series_id": "1",
+                "series_name": "SLS"
+              },
+              {
+                "dict_code": "53",
+                "series_id": "6",
+                "series_name": "SRX"
+              },
+              {
+                "dict_code": "1220",
+                "series_id": "10",
+                "series_name": "XT5"
+              },
+              {
+                "dict_code": "52",
+                "series_id": "5",
+                "series_name": "XTS"
+              }
+            ]
+          },
+          {
+            "brand_id": "52",
+            "name": "卡威",
+            "lists": [
+              {
+                "dict_code": "738",
+                "series_id": "1",
+                "series_name": "W1"
+              }
+            ]
+          },
+          {
+            "brand_id": "113",
+            "name": "卡尔森",
+            "lists": [
+              {
+                "dict_code": "1157",
+                "series_id": "2",
+                "series_name": "GL级"
+              },
+              {
+                "dict_code": "1156",
+                "series_id": "1",
+                "series_name": "S级"
+              }
+            ]
+          },
+          {
+            "brand_id": "115",
+            "name": "科尼赛克",
+            "lists": [
+              {
+                "dict_code": "1159",
+                "series_id": "1",
+                "series_name": "Agera"
+              },
+              {
+                "dict_code": "1160",
+                "series_id": "2",
+                "series_name": "One:1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "pinyin": "L",
+        "lists": [
+          {
+            "brand_id": "97",
+            "name": "兰博基尼",
+            "lists": [
+              {
+                "dict_code": "1018",
+                "series_id": "2",
+                "series_name": "Aventador"
+              },
+              {
+                "dict_code": "1162",
+                "series_id": "3",
+                "series_name": "Gallardo"
+              },
+              {
+                "dict_code": "1017",
+                "series_id": "1",
+                "series_name": "Huracan"
+              },
+              {
+                "dict_code": "1163",
+                "series_id": "4",
+                "series_name": "Murcielago"
+              },
+              {
+                "dict_code": "1164",
+                "series_id": "5",
+                "series_name": "Reventon"
+              }
+            ]
+          },
+          {
+            "brand_id": "51",
+            "name": "力帆",
+            "lists": [
+              {
+                "dict_code": "1019",
+                "series_id": "2",
+                "series_name": "820"
+              },
+              {
+                "dict_code": "739",
+                "series_id": "1",
+                "series_name": "X60"
+              }
+            ]
+          },
+          {
+            "brand_id": "82",
+            "name": "劳斯莱斯",
+            "lists": [
+              {
+                "dict_code": "385",
+                "series_id": "2",
+                "series_name": "古斯特"
+              },
+              {
+                "dict_code": "432",
+                "series_id": "1",
+                "series_name": "幻影"
+              },
+              {
+                "dict_code": "1020",
+                "series_id": "3",
+                "series_name": "魅影"
+              }
+            ]
+          },
+          {
+            "brand_id": "76",
+            "name": "林肯",
+            "lists": [
+              {
+                "dict_code": "416",
+                "series_id": "2",
+                "series_name": "MKC"
+              },
+              {
+                "dict_code": "436",
+                "series_id": "5",
+                "series_name": "MKS"
+              },
+              {
+                "dict_code": "437",
+                "series_id": "4",
+                "series_name": "MKT"
+              },
+              {
+                "dict_code": "1021",
+                "series_id": "6",
+                "series_name": "MKX"
+              },
+              {
+                "dict_code": "415",
+                "series_id": "3",
+                "series_name": "MKZ"
+              },
+              {
+                "dict_code": "233",
+                "series_id": "1",
+                "series_name": "领航员"
+              }
+            ]
+          },
+          {
+            "brand_id": "49",
+            "name": "猎豹",
+            "lists": [
+              {
+                "dict_code": "746",
+                "series_id": "1",
+                "series_name": "6481"
+              },
+              {
+                "dict_code": "1022",
+                "series_id": "7",
+                "series_name": "CS10"
+              },
+              {
+                "dict_code": "741",
+                "series_id": "6",
+                "series_name": "CS6"
+              },
+              {
+                "dict_code": "742",
+                "series_id": "5",
+                "series_name": "Q6"
+              },
+              {
+                "dict_code": "744",
+                "series_id": "3",
+                "series_name": "飞腾"
+              },
+              {
+                "dict_code": "745",
+                "series_id": "2",
+                "series_name": "飞腾C5"
+              },
+              {
+                "dict_code": "743",
+                "series_id": "4",
+                "series_name": "黑金刚"
+              }
+            ]
+          },
+          {
+            "brand_id": "99",
+            "name": "理念",
+            "lists": [
+              {
+                "dict_code": "1027",
+                "series_id": "1",
+                "series_name": "S1"
+              }
+            ]
+          },
+          {
+            "brand_id": "45",
+            "name": "路特斯",
+            "lists": [
+              {
+                "dict_code": "764",
+                "series_id": "2",
+                "series_name": "Elise"
+              },
+              {
+                "dict_code": "1165",
+                "series_id": "4",
+                "series_name": "Esprit"
+              },
+              {
+                "dict_code": "1029",
+                "series_id": "3",
+                "series_name": "Evora"
+              },
+              {
+                "dict_code": "767",
+                "series_id": "1",
+                "series_name": "Exige"
+              }
+            ]
+          },
+          {
+            "brand_id": "78",
+            "name": "路虎",
+            "lists": [
+              {
+                "dict_code": "310",
+                "series_id": "4",
+                "series_name": "发现"
+              },
+              {
+                "dict_code": "1030",
+                "series_id": "6",
+                "series_name": "发现神行"
+              },
+              {
+                "dict_code": "157",
+                "series_id": "3",
+                "series_name": "揽胜"
+              },
+              {
+                "dict_code": "128",
+                "series_id": "2",
+                "series_name": "揽胜极光"
+              },
+              {
+                "dict_code": "1031",
+                "series_id": "7",
+                "series_name": "揽胜极光(进口)"
+              },
+              {
+                "dict_code": "1032",
+                "series_id": "8",
+                "series_name": "揽胜运动版"
+              },
+              {
+                "dict_code": "337",
+                "series_id": "5",
+                "series_name": "神行者"
+              },
+              {
+                "dict_code": "166",
+                "series_id": "1",
+                "series_name": "神行者2"
+              },
+              {
+                "dict_code": "1223",
+                "series_id": "9",
+                "series_name": "第四代发现"
+              }
+            ]
+          },
+          {
+            "brand_id": "48",
+            "name": "铃木",
+            "lists": [
+              {
+                "dict_code": "314",
+                "series_id": "4",
+                "series_name": "凯泽西"
+              },
+              {
+                "dict_code": "341",
+                "series_id": "5",
+                "series_name": "启悦"
+              },
+              {
+                "dict_code": "1033",
+                "series_id": "6",
+                "series_name": "天语 尚悦"
+              },
+              {
+                "dict_code": "725",
+                "series_id": "2",
+                "series_name": "天语SX4"
+              },
+              {
+                "dict_code": "169",
+                "series_id": "3",
+                "series_name": "超级维特拉"
+              },
+              {
+                "dict_code": "753",
+                "series_id": "1",
+                "series_name": "锋驭"
+              }
+            ]
+          },
+          {
+            "brand_id": "46",
+            "name": "陆风",
+            "lists": [
+              {
+                "dict_code": "759",
+                "series_id": "3",
+                "series_name": "X5"
+              },
+              {
+                "dict_code": "761",
+                "series_id": "2",
+                "series_name": "X6"
+              },
+              {
+                "dict_code": "1175",
+                "series_id": "6",
+                "series_name": "X7"
+              },
+              {
+                "dict_code": "763",
+                "series_id": "1",
+                "series_name": "X8"
+              },
+              {
+                "dict_code": "757",
+                "series_id": "4",
+                "series_name": "风尚"
+              }
+            ]
+          },
+          {
+            "brand_id": "77",
+            "name": "雷克萨斯",
+            "lists": [
+              {
+                "dict_code": "403",
+                "series_id": "9",
+                "series_name": "CT200h"
+              },
+              {
+                "dict_code": "55",
+                "series_id": "8",
+                "series_name": "ES"
+              },
+              {
+                "dict_code": "108",
+                "series_id": "2",
+                "series_name": "GS"
+              },
+              {
+                "dict_code": "435",
+                "series_id": "5",
+                "series_name": "GX"
+              },
+              {
+                "dict_code": "144",
+                "series_id": "3",
+                "series_name": "IS"
+              },
+              {
+                "dict_code": "434",
+                "series_id": "6",
+                "series_name": "LS"
+              },
+              {
+                "dict_code": "334",
+                "series_id": "7",
+                "series_name": "LX"
+              },
+              {
+                "dict_code": "323",
+                "series_id": "10",
+                "series_name": "NX"
+              },
+              {
+                "dict_code": "1221",
+                "series_id": "14",
+                "series_name": "RC"
+              },
+              {
+                "dict_code": "1036",
+                "series_id": "13",
+                "series_name": "RC F"
+              },
+              {
+                "dict_code": "141",
+                "series_id": "4",
+                "series_name": "RX"
+              },
+              {
+                "dict_code": "231",
+                "series_id": "1",
+                "series_name": "RX240"
+              }
+            ]
+          },
+          {
+            "brand_id": "62",
+            "name": "雷诺",
+            "lists": [
+              {
+                "dict_code": "1183",
+                "series_id": "8",
+                "series_name": "卡缤"
+              },
+              {
+                "dict_code": "417",
+                "series_id": "5",
+                "series_name": "塔利斯曼"
+              },
+              {
+                "dict_code": "160",
+                "series_id": "4",
+                "series_name": "大风景"
+              },
+              {
+                "dict_code": "709",
+                "series_id": "1",
+                "series_name": "拉古那"
+              },
+              {
+                "dict_code": "1037",
+                "series_id": "7",
+                "series_name": "梅甘娜"
+              },
+              {
+                "dict_code": "133",
+                "series_id": "3",
+                "series_name": "科雷傲"
+              },
+              {
+                "dict_code": "1222",
+                "series_id": "9",
+                "series_name": "科雷嘉"
+              },
+              {
+                "dict_code": "322",
+                "series_id": "6",
+                "series_name": "纬度"
+              },
+              {
+                "dict_code": "1161",
+                "series_id": "1",
+                "series_name": "风景"
+              },
+              {
+                "dict_code": "705",
+                "series_id": "2",
+                "series_name": "风朗"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "pinyin": "M",
+        "lists": [
+          {
+            "brand_id": "22",
+            "name": "MINI",
+            "lists": [
+              {
+                "dict_code": "808",
+                "series_id": "6",
+                "series_name": "CLUBMAN"
+              },
+              {
+                "dict_code": "381",
+                "series_id": "1",
+                "series_name": "COUNTRYMAN"
+              },
+              {
+                "dict_code": "811",
+                "series_id": "3",
+                "series_name": "COUPE"
+              },
+              {
+                "dict_code": "1040",
+                "series_id": "9",
+                "series_name": "JCW CLUBMAN"
+              },
+              {
+                "dict_code": "1041",
+                "series_id": "10",
+                "series_name": "JCW COUNTRYMAN"
+              },
+              {
+                "dict_code": "812",
+                "series_id": "2",
+                "series_name": "JCW COUPE"
+              },
+              {
+                "dict_code": "1042",
+                "series_id": "11",
+                "series_name": "JCW PACEMAN"
+              },
+              {
+                "dict_code": "1038",
+                "series_id": "7",
+                "series_name": "MINI"
+              },
+              {
+                "dict_code": "1039",
+                "series_id": "8",
+                "series_name": "MINI JCW"
+              },
+              {
+                "dict_code": "809",
+                "series_id": "5",
+                "series_name": "PACEMAN"
+              },
+              {
+                "dict_code": "810",
+                "series_id": "4",
+                "series_name": "ROADSTER"
+              }
+            ]
+          },
+          {
+            "brand_id": "43",
+            "name": "名爵",
+            "lists": [
+              {
+                "dict_code": "90",
+                "series_id": "5",
+                "series_name": "7"
+              },
+              {
+                "dict_code": "1225",
+                "series_id": "8",
+                "series_name": "MG 3SW"
+              },
+              {
+                "dict_code": "781",
+                "series_id": "3",
+                "series_name": "MG-GT"
+              },
+              {
+                "dict_code": "903",
+                "series_id": "7",
+                "series_name": "MG3"
+              },
+              {
+                "dict_code": "782",
+                "series_id": "2",
+                "series_name": "MG5"
+              },
+              {
+                "dict_code": "655",
+                "series_id": "4",
+                "series_name": "MG6"
+              },
+              {
+                "dict_code": "783",
+                "series_id": "1",
+                "series_name": "锐腾"
+              },
+              {
+                "dict_code": "1226",
+                "series_id": "9",
+                "series_name": "锐行"
+              }
+            ]
+          },
+          {
+            "brand_id": "100",
+            "name": "摩根",
+            "lists": [
+              {
+                "dict_code": "1044",
+                "series_id": "2",
+                "series_name": "Aero"
+              },
+              {
+                "dict_code": "1045",
+                "series_id": "3",
+                "series_name": "Plus 8"
+              },
+              {
+                "dict_code": "1043",
+                "series_id": "1",
+                "series_name": "Wheeler"
+              }
+            ]
+          },
+          {
+            "brand_id": "79",
+            "name": "玛莎拉蒂",
+            "lists": [
+              {
+                "dict_code": "438",
+                "series_id": "2",
+                "series_name": "Ghibli"
+              },
+              {
+                "dict_code": "1047",
+                "series_id": "4",
+                "series_name": "GranCabrio"
+              },
+              {
+                "dict_code": "1046",
+                "series_id": "3",
+                "series_name": "GranTurismo"
+              },
+              {
+                "dict_code": "1224",
+                "series_id": "5",
+                "series_name": "Levante"
+              },
+              {
+                "dict_code": "164",
+                "series_id": "1",
+                "series_name": "总裁"
+              }
+            ]
+          },
+          {
+            "brand_id": "101",
+            "name": "迈凯伦",
+            "lists": [
+              {
+                "dict_code": "1049",
+                "series_id": "2",
+                "series_name": "540C"
+              },
+              {
+                "dict_code": "1050",
+                "series_id": "3",
+                "series_name": "570S"
+              },
+              {
+                "dict_code": "1051",
+                "series_id": "4",
+                "series_name": "625C"
+              },
+              {
+                "dict_code": "1052",
+                "series_id": "5",
+                "series_name": "650S"
+              },
+              {
+                "dict_code": "1053",
+                "series_id": "6",
+                "series_name": "675LT"
+              },
+              {
+                "dict_code": "1048",
+                "series_id": "1",
+                "series_name": "P1"
+              }
+            ]
+          },
+          {
+            "brand_id": "21",
+            "name": "迈巴赫",
+            "lists": [
+              {
+                "dict_code": "864",
+                "series_id": "1",
+                "series_name": "S级"
+              }
+            ]
+          },
+          {
+            "brand_id": "16",
+            "name": "马自达",
+            "lists": [
+              {
+                "dict_code": "778",
+                "series_id": "2",
+                "series_name": "2"
+              },
+              {
+                "dict_code": "193",
+                "series_id": "13",
+                "series_name": "3"
+              },
+              {
+                "dict_code": "410",
+                "series_id": "4",
+                "series_name": "3Axela昂克赛拉"
+              },
+              {
+                "dict_code": "774",
+                "series_id": "3",
+                "series_name": "3星骋"
+              },
+              {
+                "dict_code": "876",
+                "series_id": "1",
+                "series_name": "5"
+              },
+              {
+                "dict_code": "109",
+                "series_id": "15",
+                "series_name": "6"
+              },
+              {
+                "dict_code": "58",
+                "series_id": "11",
+                "series_name": "8"
+              },
+              {
+                "dict_code": "1249",
+                "series_id": "17",
+                "series_name": "CX-4"
+              },
+              {
+                "dict_code": "57",
+                "series_id": "10",
+                "series_name": "CX-5"
+              },
+              {
+                "dict_code": "214",
+                "series_id": "7",
+                "series_name": "CX-7"
+              },
+              {
+                "dict_code": "1054",
+                "series_id": "16",
+                "series_name": "CX-9"
+              },
+              {
+                "dict_code": "769",
+                "series_id": "5",
+                "series_name": "MX-5"
+              },
+              {
+                "dict_code": "107",
+                "series_id": "9",
+                "series_name": "睿翼"
+              },
+              {
+                "dict_code": "132",
+                "series_id": "8",
+                "series_name": "阿特兹"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "pinyin": "N",
+        "lists": [
+          {
+            "brand_id": "69",
+            "name": "纳智捷",
+            "lists": [
+              {
+                "dict_code": "663",
+                "series_id": "1",
+                "series_name": "5 Sedan"
+              },
+              {
+                "dict_code": "419",
+                "series_id": "5",
+                "series_name": "MASTER CEO"
+              },
+              {
+                "dict_code": "299",
+                "series_id": "2",
+                "series_name": "U6 SUV"
+              },
+              {
+                "dict_code": "236",
+                "series_id": "3",
+                "series_name": "大7MPV"
+              },
+              {
+                "dict_code": "91",
+                "series_id": "4",
+                "series_name": "大7SUV"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "pinyin": "O",
+        "lists": [
+          {
+            "brand_id": "72",
+            "name": "欧宝",
+            "lists": [
+              {
+                "dict_code": "225",
+                "series_id": "1",
+                "series_name": "安德拉"
+              },
+              {
+                "dict_code": "335",
+                "series_id": "3",
+                "series_name": "英速亚"
+              },
+              {
+                "dict_code": "418",
+                "series_id": "2",
+                "series_name": "赛飞利"
+              }
+            ]
+          },
+          {
+            "brand_id": "73",
+            "name": "讴歌",
+            "lists": [
+              {
+                "dict_code": "413",
+                "series_id": "6",
+                "series_name": "ILX"
+              },
+              {
+                "dict_code": "423",
+                "series_id": "3",
+                "series_name": "MDX"
+              },
+              {
+                "dict_code": "271",
+                "series_id": "1",
+                "series_name": "RDX"
+              },
+              {
+                "dict_code": "1056",
+                "series_id": "8",
+                "series_name": "RL"
+              },
+              {
+                "dict_code": "422",
+                "series_id": "4",
+                "series_name": "RLX"
+              },
+              {
+                "dict_code": "158",
+                "series_id": "2",
+                "series_name": "TL"
+              },
+              {
+                "dict_code": "1055",
+                "series_id": "7",
+                "series_name": "TLX"
+              },
+              {
+                "dict_code": "421",
+                "series_id": "5",
+                "series_name": "ZDX"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "pinyin": "Q",
+        "lists": [
+          {
+            "brand_id": "64",
+            "name": "启辰",
+            "lists": [
+              {
+                "dict_code": "967",
+                "series_id": "4",
+                "series_name": "D50"
+              },
+              {
+                "dict_code": "1206",
+                "series_id": "5",
+                "series_name": "R50"
+              },
+              {
+                "dict_code": "702",
+                "series_id": "1",
+                "series_name": "R50X"
+              },
+              {
+                "dict_code": "698",
+                "series_id": "2",
+                "series_name": "T70"
+              },
+              {
+                "dict_code": "1207",
+                "series_id": "6",
+                "series_name": "T70X"
+              },
+              {
+                "dict_code": "696",
+                "series_id": "3",
+                "series_name": "晨风"
+              }
+            ]
+          },
+          {
+            "brand_id": "65",
+            "name": "奇瑞",
+            "lists": [
+              {
+                "dict_code": "694",
+                "series_id": "1",
+                "series_name": "A3"
+              },
+              {
+                "dict_code": "1182",
+                "series_id": "8",
+                "series_name": "E5"
+              },
+              {
+                "dict_code": "688",
+                "series_id": "3",
+                "series_name": "瑞虎3"
+              },
+              {
+                "dict_code": "680",
+                "series_id": "5",
+                "series_name": "瑞虎5"
+              },
+              {
+                "dict_code": "677",
+                "series_id": "6",
+                "series_name": "艾瑞泽7"
+              },
+              {
+                "dict_code": "1058",
+                "series_id": "7",
+                "series_name": "艾瑞泽M7"
+              }
+            ]
+          },
+          {
+            "brand_id": "2",
+            "name": "起亚",
+            "lists": [
+              {
+                "dict_code": "737",
+                "series_id": "4",
+                "series_name": "K2"
+              },
+              {
+                "dict_code": "195",
+                "series_id": "17",
+                "series_name": "K3"
+              },
+              {
+                "dict_code": "732",
+                "series_id": "9",
+                "series_name": "K3S"
+              },
+              {
+                "dict_code": "196",
+                "series_id": "2",
+                "series_name": "K4"
+              },
+              {
+                "dict_code": "59",
+                "series_id": "15",
+                "series_name": "K5"
+              },
+              {
+                "dict_code": "1057",
+                "series_id": "20",
+                "series_name": "K5（进口）"
+              },
+              {
+                "dict_code": "1059",
+                "series_id": "21",
+                "series_name": "K9"
+              },
+              {
+                "dict_code": "735",
+                "series_id": "6",
+                "series_name": "KX3"
+              },
+              {
+                "dict_code": "1227",
+                "series_id": "22",
+                "series_name": "KX5"
+              },
+              {
+                "dict_code": "234",
+                "series_id": "11",
+                "series_name": "VQ"
+              },
+              {
+                "dict_code": "402",
+                "series_id": "1",
+                "series_name": "佳乐"
+              },
+              {
+                "dict_code": "287",
+                "series_id": "13",
+                "series_name": "凯尊"
+              },
+              {
+                "dict_code": "119",
+                "series_id": "19",
+                "series_name": "嘉华"
+              },
+              {
+                "dict_code": "61",
+                "series_id": "16",
+                "series_name": "智跑"
+              },
+              {
+                "dict_code": "401",
+                "series_id": "3",
+                "series_name": "狮跑"
+              },
+              {
+                "dict_code": "343",
+                "series_id": "18",
+                "series_name": "福瑞迪"
+              },
+              {
+                "dict_code": "733",
+                "series_id": "8",
+                "series_name": "秀尔"
+              },
+              {
+                "dict_code": "161",
+                "series_id": "12",
+                "series_name": "索兰托"
+              },
+              {
+                "dict_code": "736",
+                "series_id": "5",
+                "series_name": "赛拉图"
+              },
+              {
+                "dict_code": "734",
+                "series_id": "7",
+                "series_name": "速迈"
+              },
+              {
+                "dict_code": "731",
+                "series_id": "10",
+                "series_name": "锐欧"
+              },
+              {
+                "dict_code": "105",
+                "series_id": "14",
+                "series_name": "霸锐"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "pinyin": "R",
+        "lists": [
+          {
+            "brand_id": "102",
+            "name": "如虎",
+            "lists": [
+              {
+                "dict_code": "1060",
+                "series_id": "1",
+                "series_name": "CTR 3"
+              }
+            ]
+          },
+          {
+            "brand_id": "13",
+            "name": "日产",
+            "lists": [
+              {
+                "dict_code": "660",
+                "series_id": "3",
+                "series_name": "370Z"
+              },
+              {
+                "dict_code": "1062",
+                "series_id": "16",
+                "series_name": "GT-R"
+              },
+              {
+                "dict_code": "659",
+                "series_id": "4",
+                "series_name": "NV200"
+              },
+              {
+                "dict_code": "63",
+                "series_id": "1",
+                "series_name": "天籁"
+              },
+              {
+                "dict_code": "64",
+                "series_id": "7",
+                "series_name": "奇骏"
+              },
+              {
+                "dict_code": "65",
+                "series_id": "13",
+                "series_name": "帕拉丁"
+              },
+              {
+                "dict_code": "661",
+                "series_id": "2",
+                "series_name": "晨风"
+              },
+              {
+                "dict_code": "319",
+                "series_id": "6",
+                "series_name": "楼兰"
+              },
+              {
+                "dict_code": "1181",
+                "series_id": "18",
+                "series_name": "蓝鸟"
+              },
+              {
+                "dict_code": "1237",
+                "series_id": "19",
+                "series_name": "西玛"
+              },
+              {
+                "dict_code": "900",
+                "series_id": "14",
+                "series_name": "贵士"
+              },
+              {
+                "dict_code": "98",
+                "series_id": "9",
+                "series_name": "轩逸"
+              },
+              {
+                "dict_code": "66",
+                "series_id": "12",
+                "series_name": "逍客"
+              },
+              {
+                "dict_code": "1061",
+                "series_id": "15",
+                "series_name": "途乐"
+              },
+              {
+                "dict_code": "447",
+                "series_id": "8",
+                "series_name": "阳光"
+              },
+              {
+                "dict_code": "289",
+                "series_id": "10",
+                "series_name": "颐达"
+              },
+              {
+                "dict_code": "658",
+                "series_id": "5",
+                "series_name": "骊威"
+              },
+              {
+                "dict_code": "199",
+                "series_id": "11",
+                "series_name": "骐达"
+              }
+            ]
+          },
+          {
+            "brand_id": "58",
+            "name": "瑞麒",
+            "lists": [
+              {
+                "dict_code": "716",
+                "series_id": "1",
+                "series_name": "G6"
+              }
+            ]
+          },
+          {
+            "brand_id": "59",
+            "name": "荣威",
+            "lists": [
+              {
+                "dict_code": "712",
+                "series_id": "1",
+                "series_name": "350"
+              },
+              {
+                "dict_code": "1174",
+                "series_id": "9",
+                "series_name": "360"
+              },
+              {
+                "dict_code": "218",
+                "series_id": "6",
+                "series_name": "550"
+              },
+              {
+                "dict_code": "68",
+                "series_id": "4",
+                "series_name": "750"
+              },
+              {
+                "dict_code": "69",
+                "series_id": "5",
+                "series_name": "950"
+              },
+              {
+                "dict_code": "1250",
+                "series_id": "11",
+                "series_name": "RX5"
+              },
+              {
+                "dict_code": "67",
+                "series_id": "3",
+                "series_name": "W5"
+              },
+              {
+                "dict_code": "1228",
+                "series_id": "10",
+                "series_name": "e550"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "pinyin": "S",
+        "lists": [
+          {
+            "brand_id": "103",
+            "name": "SMART",
+            "lists": [
+              {
+                "dict_code": "1245",
+                "series_id": "3",
+                "series_name": "FORFOUR"
+              },
+              {
+                "dict_code": "1065",
+                "series_id": "2",
+                "series_name": "FORJEREMY"
+              },
+              {
+                "dict_code": "1064",
+                "series_id": "1",
+                "series_name": "FORTWO"
+              }
+            ]
+          },
+          {
+            "brand_id": "3",
+            "name": "三菱",
+            "lists": [
+              {
+                "dict_code": "1146",
+                "series_id": "11",
+                "series_name": "LANCER（进口）"
+              },
+              {
+                "dict_code": "895",
+                "series_id": "1",
+                "series_name": "劲炫ASX"
+              },
+              {
+                "dict_code": "1067",
+                "series_id": "10",
+                "series_name": "君阁"
+              },
+              {
+                "dict_code": "171",
+                "series_id": "4",
+                "series_name": "帕杰罗"
+              },
+              {
+                "dict_code": "657",
+                "series_id": "2",
+                "series_name": "帕杰罗·劲畅"
+              },
+              {
+                "dict_code": "1148",
+                "series_id": "13",
+                "series_name": "帕杰罗·劲畅（进口）"
+              },
+              {
+                "dict_code": "1149",
+                "series_id": "14",
+                "series_name": "帕杰罗（进口）"
+              },
+              {
+                "dict_code": "126",
+                "series_id": "5",
+                "series_name": "戈蓝"
+              },
+              {
+                "dict_code": "116",
+                "series_id": "8",
+                "series_name": "格兰迪"
+              },
+              {
+                "dict_code": "303",
+                "series_id": "6",
+                "series_name": "欧蓝德（进口）"
+              },
+              {
+                "dict_code": "203",
+                "series_id": "7",
+                "series_name": "翼神"
+              },
+              {
+                "dict_code": "1066",
+                "series_id": "9",
+                "series_name": "蓝瑟"
+              },
+              {
+                "dict_code": "656",
+                "series_id": "3",
+                "series_name": "风迪思"
+              }
+            ]
+          },
+          {
+            "brand_id": "35",
+            "name": "上汽大通",
+            "lists": [
+              {
+                "dict_code": "899",
+                "series_id": "1",
+                "series_name": "G10"
+              }
+            ]
+          },
+          {
+            "brand_id": "34",
+            "name": "双环",
+            "lists": [
+              {
+                "dict_code": "819",
+                "series_id": "1",
+                "series_name": "SCEO"
+              }
+            ]
+          },
+          {
+            "brand_id": "20",
+            "name": "双龙",
+            "lists": [
+              {
+                "dict_code": "1069",
+                "series_id": "6",
+                "series_name": "主席"
+              },
+              {
+                "dict_code": "866",
+                "series_id": "1",
+                "series_name": "享御"
+              },
+              {
+                "dict_code": "143",
+                "series_id": "4",
+                "series_name": "柯兰多"
+              },
+              {
+                "dict_code": "154",
+                "series_id": "3",
+                "series_name": "爱腾"
+              },
+              {
+                "dict_code": "1070",
+                "series_id": "7",
+                "series_name": "蒂维拉"
+              },
+              {
+                "dict_code": "221",
+                "series_id": "2",
+                "series_name": "路帝"
+              },
+              {
+                "dict_code": "391",
+                "series_id": "5",
+                "series_name": "雷斯特"
+              },
+              {
+                "dict_code": "1071",
+                "series_id": "8",
+                "series_name": "雷斯特W"
+              }
+            ]
+          },
+          {
+            "brand_id": "56",
+            "name": "斯巴鲁",
+            "lists": [
+              {
+                "dict_code": "724",
+                "series_id": "1",
+                "series_name": "BRZ"
+              },
+              {
+                "dict_code": "71",
+                "series_id": "5",
+                "series_name": "XV"
+              },
+              {
+                "dict_code": "100",
+                "series_id": "4",
+                "series_name": "傲虎"
+              },
+              {
+                "dict_code": "312",
+                "series_id": "3",
+                "series_name": "力狮"
+              },
+              {
+                "dict_code": "72",
+                "series_id": "6",
+                "series_name": "森林人"
+              },
+              {
+                "dict_code": "1072",
+                "series_id": "7",
+                "series_name": "翼豹"
+              },
+              {
+                "dict_code": "723",
+                "series_id": "2",
+                "series_name": "驰鹏"
+              }
+            ]
+          },
+          {
+            "brand_id": "57",
+            "name": "斯柯达",
+            "lists": [
+              {
+                "dict_code": "1140",
+                "series_id": "10",
+                "series_name": "Yeti(进口）"
+              },
+              {
+                "dict_code": "74",
+                "series_id": "6",
+                "series_name": "昊锐"
+              },
+              {
+                "dict_code": "204",
+                "series_id": "8",
+                "series_name": "明锐"
+              },
+              {
+                "dict_code": "1138",
+                "series_id": "9",
+                "series_name": "明锐（进口）"
+              },
+              {
+                "dict_code": "718",
+                "series_id": "4",
+                "series_name": "昕动"
+              },
+              {
+                "dict_code": "721",
+                "series_id": "2",
+                "series_name": "昕锐"
+              },
+              {
+                "dict_code": "722",
+                "series_id": "1",
+                "series_name": "晶锐"
+              },
+              {
+                "dict_code": "720",
+                "series_id": "3",
+                "series_name": "速尊"
+              },
+              {
+                "dict_code": "73",
+                "series_id": "7",
+                "series_name": "速派"
+              },
+              {
+                "dict_code": "227",
+                "series_id": "5",
+                "series_name": "野帝"
+              }
+            ]
+          },
+          {
+            "brand_id": "123",
+            "name": "时空",
+            "lists": [
+              {
+                "dict_code": "1238",
+                "series_id": "1",
+                "series_name": "ER30"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "pinyin": "T",
+        "lists": [
+          {
+            "brand_id": "119",
+            "name": "天津一汽",
+            "lists": [
+              {
+                "dict_code": "1248",
+                "series_id": "2",
+                "series_name": "骏派A70"
+              },
+              {
+                "dict_code": "1184",
+                "series_id": "1",
+                "series_name": "骏派D60"
+              }
+            ]
+          },
+          {
+            "brand_id": "15",
+            "name": "特斯拉",
+            "lists": [
+              {
+                "dict_code": "226",
+                "series_id": "1",
+                "series_name": "Model S"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "pinyin": "W",
+        "lists": [
+          {
+            "brand_id": "105",
+            "name": "五十铃",
+            "lists": [
+              {
+                "dict_code": "1073",
+                "series_id": "1",
+                "series_name": "MU-X"
+              }
+            ]
+          },
+          {
+            "brand_id": "106",
+            "name": "威兹曼",
+            "lists": [
+              {
+                "dict_code": "1074",
+                "series_id": "1",
+                "series_name": "GT"
+              },
+              {
+                "dict_code": "1075",
+                "series_id": "2",
+                "series_name": "Roadster"
+              }
+            ]
+          },
+          {
+            "brand_id": "29",
+            "name": "威麟",
+            "lists": [
+              {
+                "dict_code": "845",
+                "series_id": "1",
+                "series_name": "X5"
+              }
+            ]
+          },
+          {
+            "brand_id": "32",
+            "name": "沃尔沃",
+            "lists": [
+              {
+                "dict_code": "406",
+                "series_id": "8",
+                "series_name": "S40"
+              },
+              {
+                "dict_code": "1130",
+                "series_id": "12",
+                "series_name": "S60"
+              },
+              {
+                "dict_code": "76",
+                "series_id": "7",
+                "series_name": "S60L"
+              },
+              {
+                "dict_code": "146",
+                "series_id": "9",
+                "series_name": "S80"
+              },
+              {
+                "dict_code": "387",
+                "series_id": "6",
+                "series_name": "S80L"
+              },
+              {
+                "dict_code": "831",
+                "series_id": "1",
+                "series_name": "V40"
+              },
+              {
+                "dict_code": "228",
+                "series_id": "4",
+                "series_name": "V60"
+              },
+              {
+                "dict_code": "1076",
+                "series_id": "10",
+                "series_name": "XC Classic"
+              },
+              {
+                "dict_code": "215",
+                "series_id": "2",
+                "series_name": "XC60"
+              },
+              {
+                "dict_code": "1129",
+                "series_id": "11",
+                "series_name": "XC60(进口)"
+              },
+              {
+                "dict_code": "441",
+                "series_id": "5",
+                "series_name": "XC70"
+              },
+              {
+                "dict_code": "217",
+                "series_id": "3",
+                "series_name": "XC90"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "pinyin": "X",
+        "lists": [
+          {
+            "brand_id": "19",
+            "name": "现代",
+            "lists": [
+              {
+                "dict_code": "205",
+                "series_id": "19",
+                "series_name": "IX25"
+              },
+              {
+                "dict_code": "78",
+                "series_id": "9",
+                "series_name": "IX35"
+              },
+              {
+                "dict_code": "1078",
+                "series_id": "24",
+                "series_name": "Veloster飞思"
+              },
+              {
+                "dict_code": "1077",
+                "series_id": "23",
+                "series_name": "伊兰特"
+              },
+              {
+                "dict_code": "80",
+                "series_id": "10",
+                "series_name": "全新胜达"
+              },
+              {
+                "dict_code": "82",
+                "series_id": "11",
+                "series_name": "劳恩斯"
+              },
+              {
+                "dict_code": "682",
+                "series_id": "3",
+                "series_name": "劳恩斯-酷派"
+              },
+              {
+                "dict_code": "207",
+                "series_id": "16",
+                "series_name": "名图"
+              },
+              {
+                "dict_code": "122",
+                "series_id": "21",
+                "series_name": "名驭"
+              },
+              {
+                "dict_code": "121",
+                "series_id": "20",
+                "series_name": "御翔"
+              },
+              {
+                "dict_code": "868",
+                "series_id": "1",
+                "series_name": "悦动"
+              },
+              {
+                "dict_code": "1171",
+                "series_id": "26",
+                "series_name": "捷恩斯"
+              },
+              {
+                "dict_code": "206",
+                "series_id": "15",
+                "series_name": "朗动"
+              },
+              {
+                "dict_code": "172",
+                "series_id": "6",
+                "series_name": "格锐"
+              },
+              {
+                "dict_code": "681",
+                "series_id": "4",
+                "series_name": "瑞奕"
+              },
+              {
+                "dict_code": "679",
+                "series_id": "5",
+                "series_name": "瑞纳"
+              },
+              {
+                "dict_code": "250",
+                "series_id": "18",
+                "series_name": "索纳塔8"
+              },
+              {
+                "dict_code": "296",
+                "series_id": "8",
+                "series_name": "索纳塔9"
+              },
+              {
+                "dict_code": "81",
+                "series_id": "13",
+                "series_name": "途胜"
+              },
+              {
+                "dict_code": "83",
+                "series_id": "12",
+                "series_name": "雅尊"
+              },
+              {
+                "dict_code": "1079",
+                "series_id": "25",
+                "series_name": "雅科仕"
+              },
+              {
+                "dict_code": "1229",
+                "series_id": "27",
+                "series_name": "领动"
+              }
+            ]
+          },
+          {
+            "brand_id": "28",
+            "name": "西雅特",
+            "lists": [
+              {
+                "dict_code": "847",
+                "series_id": "1",
+                "series_name": "LEON"
+              },
+              {
+                "dict_code": "846",
+                "series_id": "2",
+                "series_name": "伊比飒"
+              }
+            ]
+          },
+          {
+            "brand_id": "24",
+            "name": "雪佛兰",
+            "lists": [
+              {
+                "dict_code": "902",
+                "series_id": "9",
+                "series_name": "乐风RV"
+              },
+              {
+                "dict_code": "313",
+                "series_id": "1",
+                "series_name": "创酷"
+              },
+              {
+                "dict_code": "858",
+                "series_id": "2",
+                "series_name": "景程"
+              },
+              {
+                "dict_code": "854",
+                "series_id": "4",
+                "series_name": "爱唯欧"
+              },
+              {
+                "dict_code": "411",
+                "series_id": "6",
+                "series_name": "科帕奇"
+              },
+              {
+                "dict_code": "747",
+                "series_id": "5",
+                "series_name": "科迈罗"
+              },
+              {
+                "dict_code": "111",
+                "series_id": "3",
+                "series_name": "科鲁兹"
+              },
+              {
+                "dict_code": "901",
+                "series_id": "8",
+                "series_name": "赛欧"
+              },
+              {
+                "dict_code": "364",
+                "series_id": "7",
+                "series_name": "迈锐宝"
+              },
+              {
+                "dict_code": "1230",
+                "series_id": "10",
+                "series_name": "迈锐宝XL"
+              }
+            ]
+          },
+          {
+            "brand_id": "6",
+            "name": "雪铁龙",
+            "lists": [
+              {
+                "dict_code": "396",
+                "series_id": "9",
+                "series_name": "C3-XR"
+              },
+              {
+                "dict_code": "1119",
+                "series_id": "13",
+                "series_name": "C4 Aircross"
+              },
+              {
+                "dict_code": "1117",
+                "series_id": "12",
+                "series_name": "C4 PICASSO"
+              },
+              {
+                "dict_code": "211",
+                "series_id": "11",
+                "series_name": "C4L"
+              },
+              {
+                "dict_code": "1208",
+                "series_id": "14",
+                "series_name": "C4世嘉"
+              },
+              {
+                "dict_code": "87",
+                "series_id": "1",
+                "series_name": "C5"
+              },
+              {
+                "dict_code": "212",
+                "series_id": "10",
+                "series_name": "世嘉"
+              },
+              {
+                "dict_code": "751",
+                "series_id": "3",
+                "series_name": "毕加索"
+              },
+              {
+                "dict_code": "752",
+                "series_id": "2",
+                "series_name": "爱丽舍"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "pinyin": "Y",
+        "lists": [
+          {
+            "brand_id": "26",
+            "name": "永源",
+            "lists": [
+              {
+                "dict_code": "850",
+                "series_id": "1",
+                "series_name": "猎鹰"
+              }
+            ]
+          },
+          {
+            "brand_id": "75",
+            "name": "英菲尼迪",
+            "lists": [
+              {
+                "dict_code": "1099",
+                "series_id": "13",
+                "series_name": "ESQ"
+              },
+              {
+                "dict_code": "127",
+                "series_id": "3",
+                "series_name": "EX"
+              },
+              {
+                "dict_code": "103",
+                "series_id": "10",
+                "series_name": "FX"
+              },
+              {
+                "dict_code": "131",
+                "series_id": "2",
+                "series_name": "G系"
+              },
+              {
+                "dict_code": "238",
+                "series_id": "1",
+                "series_name": "JX"
+              },
+              {
+                "dict_code": "321",
+                "series_id": "6",
+                "series_name": "Q50"
+              },
+              {
+                "dict_code": "1101",
+                "series_id": "14",
+                "series_name": "Q50L"
+              },
+              {
+                "dict_code": "1080",
+                "series_id": "11",
+                "series_name": "Q60"
+              },
+              {
+                "dict_code": "1084",
+                "series_id": "12",
+                "series_name": "Q60S"
+              },
+              {
+                "dict_code": "94",
+                "series_id": "9",
+                "series_name": "Q70"
+              },
+              {
+                "dict_code": "297",
+                "series_id": "8",
+                "series_name": "QX50"
+              },
+              {
+                "dict_code": "316",
+                "series_id": "7",
+                "series_name": "QX60"
+              },
+              {
+                "dict_code": "430",
+                "series_id": "4",
+                "series_name": "QX70"
+              },
+              {
+                "dict_code": "431",
+                "series_id": "5",
+                "series_name": "QX80"
+              }
+            ]
+          },
+          {
+            "brand_id": "27",
+            "name": "野马",
+            "lists": [
+              {
+                "dict_code": "849",
+                "series_id": "1",
+                "series_name": "T70"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "pinyin": "Z",
+        "lists": [
+          {
+            "brand_id": "120",
+            "name": "中兴",
+            "lists": [
+              {
+                "dict_code": "1198",
+                "series_id": "1",
+                "series_name": "GX3"
+              }
+            ]
+          },
+          {
+            "brand_id": "11",
+            "name": "中华",
+            "lists": [
+              {
+                "dict_code": "1234",
+                "series_id": "7",
+                "series_name": "H330"
+              },
+              {
+                "dict_code": "697",
+                "series_id": "3",
+                "series_name": "H530"
+              },
+              {
+                "dict_code": "1197",
+                "series_id": "6",
+                "series_name": "V3"
+              },
+              {
+                "dict_code": "699",
+                "series_id": "2",
+                "series_name": "V5"
+              },
+              {
+                "dict_code": "884",
+                "series_id": "1",
+                "series_name": "尊驰"
+              },
+              {
+                "dict_code": "693",
+                "series_id": "4",
+                "series_name": "骏捷"
+              },
+              {
+                "dict_code": "451",
+                "series_id": "5",
+                "series_name": "骏捷FSV"
+              }
+            ]
+          },
+          {
+            "brand_id": "126",
+            "name": "中国一汽",
+            "lists": [
+              {
+                "dict_code": "1252",
+                "series_id": "1",
+                "series_name": "森雅R7"
+              }
+            ]
+          },
+          {
+            "brand_id": "25",
+            "name": "众泰",
+            "lists": [
+              {
+                "dict_code": "1196",
+                "series_id": "8",
+                "series_name": "SR7"
+              },
+              {
+                "dict_code": "852",
+                "series_id": "3",
+                "series_name": "T600"
+              },
+              {
+                "dict_code": "856",
+                "series_id": "1",
+                "series_name": "Z500"
+              },
+              {
+                "dict_code": "1195",
+                "series_id": "7",
+                "series_name": "Z700"
+              },
+              {
+                "dict_code": "1187",
+                "series_id": "6",
+                "series_name": "大迈X5"
+              },
+              {
+                "dict_code": "906",
+                "series_id": "4",
+                "series_name": "时空E20"
+              }
+            ]
+          },
+          {
+            "brand_id": "107",
+            "name": "知豆",
+            "lists": [
+              {
+                "dict_code": "1081",
+                "series_id": "1",
+                "series_name": "知豆"
+              }
+            ]
+          }
+        ]
+      }
+    ]}

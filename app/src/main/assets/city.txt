@@ -1,0 +1,3361 @@
+﻿{"cityList": [
+      {
+        "pinyin": "A",
+        "lists": [
+          {
+            "name": "阿拉尔市",
+            "en_name": "alaer",
+            "car_prefix": "新N",
+            "openEconomy": false,
+            "pinyin": "A",
+            "city_id": 356,
+            "pre_plate_no": "新"
+          },
+          {
+            "name": "阿勒泰地区",
+            "en_name": "aletaidiqu",
+            "car_prefix": "新H",
+            "openEconomy": true,
+            "pinyin": "A",
+            "city_id": 355,
+            "pre_plate_no": "新"
+          },
+          {
+            "name": "阿克苏地区",
+            "en_name": "akesudiqu",
+            "car_prefix": "新N",
+            "openEconomy": false,
+            "pinyin": "A",
+            "city_id": 348,
+            "pre_plate_no": "新"
+          },
+          {
+            "name": "安康市",
+            "en_name": "ankang",
+            "car_prefix": "陕G",
+            "openEconomy": true,
+            "pinyin": "A",
+            "city_id": 320,
+            "pre_plate_no": "陕"
+          },
+          {
+            "name": "阿里地区",
+            "en_name": "alidiqu",
+            "car_prefix": "藏F",
+            "openEconomy": false,
+            "pinyin": "A",
+            "city_id": 316,
+            "pre_plate_no": "藏"
+          },
+          {
+            "name": "安顺市",
+            "en_name": "anshun",
+            "car_prefix": "贵G",
+            "openEconomy": true,
+            "pinyin": "A",
+            "city_id": 294,
+            "pre_plate_no": "贵"
+          },
+          {
+            "name": "阿坝州",
+            "en_name": "abazhou",
+            "car_prefix": "川U",
+            "openEconomy": true,
+            "pinyin": "A",
+            "city_id": 290,
+            "pre_plate_no": "川"
+          },
+          {
+            "name": "阿拉善盟",
+            "en_name": "alashanmeng",
+            "car_prefix": "蒙M",
+            "openEconomy": true,
+            "pinyin": "A",
+            "city_id": 202,
+            "pre_plate_no": "蒙"
+          },
+          {
+            "name": "安阳市",
+            "en_name": "anyang",
+            "car_prefix": "豫E",
+            "openEconomy": true,
+            "pinyin": "A",
+            "city_id": 174,
+            "pre_plate_no": "豫"
+          },
+          {
+            "name": "安庆市",
+            "en_name": "anqing",
+            "car_prefix": "皖H",
+            "openEconomy": true,
+            "pinyin": "A",
+            "city_id": 149,
+            "pre_plate_no": "皖"
+          },
+          {
+            "name": "鞍山市",
+            "en_name": "anshan",
+            "car_prefix": "辽C",
+            "openEconomy": true,
+            "pinyin": "A",
+            "city_id": 64,
+            "pre_plate_no": "辽"
+          }
+        ]
+      },
+      {
+        "pinyin": "B",
+        "lists": [
+          {
+            "name": "保亭黎族苗族自治县",
+            "en_name": "baotinglizu",
+            "car_prefix": "琼D",
+            "openEconomy": true,
+            "pinyin": "B",
+            "city_id": 364,
+            "pre_plate_no": "琼"
+          },
+          {
+            "name": "博尔塔拉州",
+            "en_name": "boertalazhou",
+            "car_prefix": "新E",
+            "openEconomy": true,
+            "pinyin": "B",
+            "city_id": 352,
+            "pre_plate_no": "新"
+          },
+          {
+            "name": "巴音郭楞州",
+            "en_name": "bayinguolengzhou",
+            "car_prefix": "新M",
+            "openEconomy": true,
+            "pinyin": "B",
+            "city_id": 350,
+            "pre_plate_no": "新"
+          },
+          {
+            "name": "白银市",
+            "en_name": "baiyin",
+            "car_prefix": "甘D",
+            "openEconomy": true,
+            "pinyin": "B",
+            "city_id": 323,
+            "pre_plate_no": "甘"
+          },
+          {
+            "name": "保山市",
+            "en_name": "baoshan",
+            "car_prefix": "云M",
+            "openEconomy": true,
+            "pinyin": "B",
+            "city_id": 301,
+            "pre_plate_no": "云"
+          },
+          {
+            "name": "毕节地区",
+            "en_name": "bijiediqu",
+            "car_prefix": "贵F",
+            "openEconomy": true,
+            "pinyin": "B",
+            "city_id": 296,
+            "pre_plate_no": "贵"
+          },
+          {
+            "name": "巴中市",
+            "en_name": "bazhong",
+            "car_prefix": "川Y",
+            "openEconomy": true,
+            "pinyin": "B",
+            "city_id": 288,
+            "pre_plate_no": "川"
+          },
+          {
+            "name": "白沙黎族自治县",
+            "en_name": "baishalizuzizhixian",
+            "car_prefix": "琼D4",
+            "openEconomy": true,
+            "pinyin": "B",
+            "city_id": 278,
+            "pre_plate_no": "琼"
+          },
+          {
+            "name": "百色市",
+            "en_name": "baise",
+            "car_prefix": "桂L",
+            "openEconomy": true,
+            "pinyin": "B",
+            "city_id": 263,
+            "pre_plate_no": "桂"
+          },
+          {
+            "name": "白城市",
+            "en_name": "baicheng",
+            "car_prefix": "吉G",
+            "openEconomy": true,
+            "pinyin": "B",
+            "city_id": 210,
+            "pre_plate_no": "吉"
+          },
+          {
+            "name": "白山市",
+            "en_name": "baishan",
+            "car_prefix": "吉F,吉K",
+            "openEconomy": true,
+            "pinyin": "B",
+            "city_id": 208,
+            "pre_plate_no": "吉"
+          },
+          {
+            "name": "巴彦淖尔市",
+            "en_name": "bayannaoer",
+            "car_prefix": "蒙L",
+            "openEconomy": true,
+            "pinyin": "B",
+            "city_id": 199,
+            "pre_plate_no": "蒙"
+          },
+          {
+            "name": "亳州市",
+            "en_name": "bozhou",
+            "car_prefix": "皖S",
+            "openEconomy": true,
+            "pinyin": "B",
+            "city_id": 189,
+            "pre_plate_no": "皖"
+          },
+          {
+            "name": "宝鸡市",
+            "en_name": "baoji",
+            "car_prefix": "陕C",
+            "openEconomy": true,
+            "pinyin": "B",
+            "city_id": 170,
+            "pre_plate_no": "陕"
+          },
+          {
+            "name": "滨州市",
+            "en_name": "binzhou",
+            "car_prefix": "鲁M",
+            "openEconomy": true,
+            "pinyin": "B",
+            "city_id": 166,
+            "pre_plate_no": "鲁"
+          },
+          {
+            "name": "北海市",
+            "en_name": "beihai",
+            "car_prefix": "桂E",
+            "openEconomy": true,
+            "pinyin": "B",
+            "city_id": 161,
+            "pre_plate_no": "桂"
+          },
+          {
+            "name": "蚌埠市",
+            "en_name": "bangbu",
+            "car_prefix": "皖C",
+            "openEconomy": true,
+            "pinyin": "B",
+            "city_id": 100,
+            "pre_plate_no": "皖"
+          },
+          {
+            "name": "本溪市",
+            "en_name": "benxi",
+            "car_prefix": "辽E",
+            "openEconomy": true,
+            "pinyin": "B",
+            "city_id": 77,
+            "pre_plate_no": "辽"
+          },
+          {
+            "name": "包头市",
+            "en_name": "baotou",
+            "car_prefix": "蒙B",
+            "openEconomy": true,
+            "pinyin": "B",
+            "city_id": 63,
+            "pre_plate_no": "蒙"
+          },
+          {
+            "name": "保定市",
+            "en_name": "baoding",
+            "car_prefix": "冀F",
+            "openEconomy": true,
+            "pinyin": "B",
+            "city_id": 62,
+            "pre_plate_no": "冀"
+          },
+          {
+            "name": "北京市",
+            "en_name": "beijing",
+            "car_prefix": "京",
+            "openEconomy": true,
+            "pinyin": "B",
+            "city_id": 1,
+            "pre_plate_no": "京"
+          }
+        ]
+      },
+      {
+        "pinyin": "C",
+        "lists": [
+          {
+            "name": "昌江黎族自治县",
+            "en_name": "changjianglizu",
+            "car_prefix": "琼D",
+            "openEconomy": true,
+            "pinyin": "C",
+            "city_id": 363,
+            "pre_plate_no": "琼"
+          },
+          {
+            "name": "昌吉州",
+            "en_name": "changjizhou",
+            "car_prefix": "新B",
+            "openEconomy": true,
+            "pinyin": "C",
+            "city_id": 351,
+            "pre_plate_no": "新"
+          },
+          {
+            "name": "昌都地区",
+            "en_name": "changdudiqu",
+            "car_prefix": "藏B",
+            "openEconomy": true,
+            "pinyin": "C",
+            "city_id": 313,
+            "pre_plate_no": "藏"
+          },
+          {
+            "name": "楚雄州",
+            "en_name": "chuxiongzhou",
+            "car_prefix": "云E",
+            "openEconomy": true,
+            "pinyin": "C",
+            "city_id": 308,
+            "pre_plate_no": "云"
+          },
+          {
+            "name": "澄迈县",
+            "en_name": "chengmaixian",
+            "car_prefix": "琼C5",
+            "openEconomy": true,
+            "pinyin": "C",
+            "city_id": 274,
+            "pre_plate_no": "琼"
+          },
+          {
+            "name": "崇左市",
+            "en_name": "chongzuo",
+            "car_prefix": "桂F",
+            "openEconomy": true,
+            "pinyin": "C",
+            "city_id": 267,
+            "pre_plate_no": "桂"
+          },
+          {
+            "name": "潮州市",
+            "en_name": "chaozhou",
+            "car_prefix": "粤U",
+            "openEconomy": true,
+            "pinyin": "C",
+            "city_id": 257,
+            "pre_plate_no": "粤"
+          },
+          {
+            "name": "朝阳市",
+            "en_name": "chaoyang",
+            "car_prefix": "辽N",
+            "openEconomy": false,
+            "pinyin": "C",
+            "city_id": 205,
+            "pre_plate_no": "辽"
+          },
+          {
+            "name": "巢湖市",
+            "en_name": "chaohu",
+            "car_prefix": "皖Q",
+            "openEconomy": false,
+            "pinyin": "C",
+            "city_id": 204,
+            "pre_plate_no": "皖"
+          },
+          {
+            "name": "赤峰市",
+            "en_name": "chifeng",
+            "car_prefix": "蒙D",
+            "openEconomy": true,
+            "pinyin": "C",
+            "city_id": 196,
+            "pre_plate_no": "蒙"
+          },
+          {
+            "name": "池州市",
+            "en_name": "chizhou",
+            "car_prefix": "皖R",
+            "openEconomy": true,
+            "pinyin": "C",
+            "city_id": 187,
+            "pre_plate_no": "皖"
+          },
+          {
+            "name": "滁州市",
+            "en_name": "chuzhou",
+            "car_prefix": "皖M",
+            "openEconomy": true,
+            "pinyin": "C",
+            "city_id": 148,
+            "pre_plate_no": "皖"
+          },
+          {
+            "name": "长治市",
+            "en_name": "changzhi",
+            "car_prefix": "晋D",
+            "openEconomy": true,
+            "pinyin": "C",
+            "city_id": 127,
+            "pre_plate_no": "晋"
+          },
+          {
+            "name": "郴州市",
+            "en_name": "chenzhou",
+            "car_prefix": "湘L",
+            "openEconomy": true,
+            "pinyin": "C",
+            "city_id": 107,
+            "pre_plate_no": "湘"
+          },
+          {
+            "name": "常德市",
+            "en_name": "changde",
+            "car_prefix": "湘J",
+            "openEconomy": true,
+            "pinyin": "C",
+            "city_id": 106,
+            "pre_plate_no": "湘"
+          },
+          {
+            "name": "承德市",
+            "en_name": "chengde",
+            "car_prefix": "冀H",
+            "openEconomy": true,
+            "pinyin": "C",
+            "city_id": 72,
+            "pre_plate_no": "冀"
+          },
+          {
+            "name": "沧州市",
+            "en_name": "cangzhou",
+            "car_prefix": "冀J",
+            "openEconomy": true,
+            "pinyin": "C",
+            "city_id": 59,
+            "pre_plate_no": "冀"
+          },
+          {
+            "name": "常州市",
+            "en_name": "changzhou",
+            "car_prefix": "苏D",
+            "openEconomy": true,
+            "pinyin": "C",
+            "city_id": 45,
+            "pre_plate_no": "苏"
+          },
+          {
+            "name": "长春市",
+            "en_name": "changchun",
+            "car_prefix": "吉A",
+            "openEconomy": true,
+            "pinyin": "C",
+            "city_id": 25,
+            "pre_plate_no": "吉"
+          },
+          {
+            "name": "长沙市",
+            "en_name": "changsha",
+            "car_prefix": "湘A",
+            "openEconomy": true,
+            "pinyin": "C",
+            "city_id": 24,
+            "pre_plate_no": "湘"
+          },
+          {
+            "name": "重庆市",
+            "en_name": "chongqing",
+            "car_prefix": "渝",
+            "openEconomy": true,
+            "pinyin": "C",
+            "city_id": 18,
+            "pre_plate_no": "渝"
+          },
+          {
+            "name": "成都市",
+            "en_name": "chengdu",
+            "car_prefix": "川A",
+            "openEconomy": true,
+            "pinyin": "C",
+            "city_id": 17,
+            "pre_plate_no": "川"
+          }
+        ]
+      },
+      {
+        "pinyin": "D",
+        "lists": [
+          {
+            "name": "定西市",
+            "en_name": "dingxi",
+            "car_prefix": "甘J",
+            "openEconomy": true,
+            "pinyin": "D",
+            "city_id": 330,
+            "pre_plate_no": "甘"
+          },
+          {
+            "name": "迪庆州",
+            "en_name": "diqingzhou",
+            "car_prefix": "云R",
+            "openEconomy": true,
+            "pinyin": "D",
+            "city_id": 311,
+            "pre_plate_no": "云"
+          },
+          {
+            "name": "德宏州",
+            "en_name": "dehongzhou",
+            "car_prefix": "云N",
+            "openEconomy": true,
+            "pinyin": "D",
+            "city_id": 309,
+            "pre_plate_no": "云"
+          },
+          {
+            "name": "达州市",
+            "en_name": "dazhou",
+            "car_prefix": "川S",
+            "openEconomy": true,
+            "pinyin": "D",
+            "city_id": 285,
+            "pre_plate_no": "川"
+          },
+          {
+            "name": "定安县",
+            "en_name": "dinganxian",
+            "car_prefix": "琼C3",
+            "openEconomy": true,
+            "pinyin": "D",
+            "city_id": 275,
+            "pre_plate_no": "琼"
+          },
+          {
+            "name": "东方市",
+            "en_name": "dongfang",
+            "car_prefix": "琼D6",
+            "openEconomy": true,
+            "pinyin": "D",
+            "city_id": 273,
+            "pre_plate_no": "琼"
+          },
+          {
+            "name": "儋州市",
+            "en_name": "danzhou",
+            "car_prefix": "琼C2",
+            "openEconomy": true,
+            "pinyin": "D",
+            "city_id": 270,
+            "pre_plate_no": "琼"
+          },
+          {
+            "name": "大兴安岭地区",
+            "en_name": "daxinganlingdiqu",
+            "car_prefix": "黑P",
+            "openEconomy": true,
+            "pinyin": "D",
+            "city_id": 218,
+            "pre_plate_no": "黑"
+          },
+          {
+            "name": "德阳市",
+            "en_name": "deyang",
+            "car_prefix": "川F",
+            "openEconomy": true,
+            "pinyin": "D",
+            "city_id": 173,
+            "pre_plate_no": "川"
+          },
+          {
+            "name": "丹东市",
+            "en_name": "dandong",
+            "car_prefix": "辽F",
+            "openEconomy": true,
+            "pinyin": "D",
+            "city_id": 163,
+            "pre_plate_no": "辽"
+          },
+          {
+            "name": "大理州",
+            "en_name": "dalizhou",
+            "car_prefix": "云L",
+            "openEconomy": true,
+            "pinyin": "D",
+            "city_id": 136,
+            "pre_plate_no": "云"
+          },
+          {
+            "name": "大同市",
+            "en_name": "datong",
+            "car_prefix": "晋B",
+            "openEconomy": true,
+            "pinyin": "D",
+            "city_id": 125,
+            "pre_plate_no": "晋"
+          },
+          {
+            "name": "德州市",
+            "en_name": "dezhou",
+            "car_prefix": "鲁N",
+            "openEconomy": true,
+            "pinyin": "D",
+            "city_id": 120,
+            "pre_plate_no": "鲁"
+          },
+          {
+            "name": "东营市",
+            "en_name": "dongying",
+            "car_prefix": "鲁E",
+            "openEconomy": true,
+            "pinyin": "D",
+            "city_id": 73,
+            "pre_plate_no": "鲁"
+          },
+          {
+            "name": "大庆市",
+            "en_name": "daqing",
+            "car_prefix": "黑E",
+            "openEconomy": true,
+            "pinyin": "D",
+            "city_id": 48,
+            "pre_plate_no": "黑"
+          },
+          {
+            "name": "东莞市",
+            "en_name": "dongwan",
+            "car_prefix": "粤S",
+            "openEconomy": true,
+            "pinyin": "D",
+            "city_id": 21,
+            "pre_plate_no": "粤"
+          },
+          {
+            "name": "大连市",
+            "en_name": "dalian",
+            "car_prefix": "辽B",
+            "openEconomy": true,
+            "pinyin": "D",
+            "city_id": 14,
+            "pre_plate_no": "辽"
+          }
+        ]
+      },
+      {
+        "pinyin": "E",
+        "lists": [
+          {
+            "name": "恩施州",
+            "en_name": "enshizhou",
+            "car_prefix": "鄂Q",
+            "openEconomy": true,
+            "pinyin": "E",
+            "city_id": 235,
+            "pre_plate_no": "鄂"
+          },
+          {
+            "name": "鄂州市",
+            "en_name": "ezhou",
+            "car_prefix": "鄂G",
+            "openEconomy": true,
+            "pinyin": "E",
+            "city_id": 230,
+            "pre_plate_no": "鄂"
+          },
+          {
+            "name": "鄂尔多斯市",
+            "en_name": "eerduosi",
+            "car_prefix": "蒙K",
+            "openEconomy": true,
+            "pinyin": "E",
+            "city_id": 43,
+            "pre_plate_no": "蒙"
+          }
+        ]
+      },
+      {
+        "pinyin": "F",
+        "lists": [
+          {
+            "name": "防城港市",
+            "en_name": "fangchenggang",
+            "car_prefix": "桂P",
+            "openEconomy": true,
+            "pinyin": "F",
+            "city_id": 260,
+            "pre_plate_no": "桂"
+          },
+          {
+            "name": "抚州市",
+            "en_name": "fuzhou",
+            "car_prefix": "赣F",
+            "openEconomy": true,
+            "pinyin": "F",
+            "city_id": 223,
+            "pre_plate_no": "赣"
+          },
+          {
+            "name": "阜阳市",
+            "en_name": "fuyang",
+            "car_prefix": "皖K",
+            "openEconomy": true,
+            "pinyin": "F",
+            "city_id": 188,
+            "pre_plate_no": "皖"
+          },
+          {
+            "name": "阜新市",
+            "en_name": "fuxin",
+            "car_prefix": "辽J",
+            "openEconomy": true,
+            "pinyin": "F",
+            "city_id": 164,
+            "pre_plate_no": "辽"
+          },
+          {
+            "name": "抚顺市",
+            "en_name": "fushun",
+            "car_prefix": "辽D",
+            "openEconomy": true,
+            "pinyin": "F",
+            "city_id": 66,
+            "pre_plate_no": "辽"
+          },
+          {
+            "name": "佛山市",
+            "en_name": "foshan",
+            "car_prefix": "粤E,粤X,粤Y",
+            "openEconomy": true,
+            "pinyin": "F",
+            "city_id": 36,
+            "pre_plate_no": "粤"
+          },
+          {
+            "name": "福州市",
+            "en_name": "fuzhou",
+            "car_prefix": "闽A",
+            "openEconomy": true,
+            "pinyin": "F",
+            "city_id": 34,
+            "pre_plate_no": "闽"
+          }
+        ]
+      },
+      {
+        "pinyin": "G",
+        "lists": [
+          {
+            "name": "果洛州",
+            "en_name": "guoluozhou",
+            "car_prefix": "青F",
+            "openEconomy": true,
+            "pinyin": "G",
+            "city_id": 342,
+            "pre_plate_no": "青"
+          },
+          {
+            "name": "固原市",
+            "en_name": "guyuan",
+            "car_prefix": "宁D",
+            "openEconomy": true,
+            "pinyin": "G",
+            "city_id": 336,
+            "pre_plate_no": "宁"
+          },
+          {
+            "name": "甘南州",
+            "en_name": "gannanzhou",
+            "car_prefix": "甘P",
+            "openEconomy": true,
+            "pinyin": "G",
+            "city_id": 333,
+            "pre_plate_no": "甘"
+          },
+          {
+            "name": "甘孜州",
+            "en_name": "ganzizhou",
+            "car_prefix": "川V",
+            "openEconomy": true,
+            "pinyin": "G",
+            "city_id": 291,
+            "pre_plate_no": "川"
+          },
+          {
+            "name": "广安市",
+            "en_name": "guangan",
+            "car_prefix": "川X",
+            "openEconomy": true,
+            "pinyin": "G",
+            "city_id": 284,
+            "pre_plate_no": "川"
+          },
+          {
+            "name": "广元市",
+            "en_name": "guangyuan",
+            "car_prefix": "川H",
+            "openEconomy": true,
+            "pinyin": "G",
+            "city_id": 280,
+            "pre_plate_no": "川"
+          },
+          {
+            "name": "贵港市",
+            "en_name": "guigang",
+            "car_prefix": "桂R",
+            "openEconomy": true,
+            "pinyin": "G",
+            "city_id": 262,
+            "pre_plate_no": "桂"
+          },
+          {
+            "name": "桂林市",
+            "en_name": "guilin",
+            "car_prefix": "桂C,桂H",
+            "openEconomy": true,
+            "pinyin": "G",
+            "city_id": 135,
+            "pre_plate_no": "桂"
+          },
+          {
+            "name": "赣州市",
+            "en_name": "ganzhou",
+            "car_prefix": "赣B",
+            "openEconomy": true,
+            "pinyin": "G",
+            "city_id": 102,
+            "pre_plate_no": "赣"
+          },
+          {
+            "name": "贵阳市",
+            "en_name": "guiyang",
+            "car_prefix": "贵A",
+            "openEconomy": true,
+            "pinyin": "G",
+            "city_id": 82,
+            "pre_plate_no": "贵"
+          },
+          {
+            "name": "广州市",
+            "en_name": "guangzhou",
+            "car_prefix": "粤A",
+            "openEconomy": true,
+            "pinyin": "G",
+            "city_id": 3,
+            "pre_plate_no": "粤"
+          }
+        ]
+      },
+      {
+        "pinyin": "H",
+        "lists": [
+          {
+            "name": "和田地区",
+            "en_name": "hetiandiqu",
+            "car_prefix": "新R",
+            "openEconomy": false,
+            "pinyin": "H",
+            "city_id": 347,
+            "pre_plate_no": "新"
+          },
+          {
+            "name": "哈密地区",
+            "en_name": "hamidiqu",
+            "car_prefix": "新L",
+            "openEconomy": true,
+            "pinyin": "H",
+            "city_id": 346,
+            "pre_plate_no": "新"
+          },
+          {
+            "name": "海西州",
+            "en_name": "haixizhou",
+            "car_prefix": "青H",
+            "openEconomy": true,
+            "pinyin": "H",
+            "city_id": 344,
+            "pre_plate_no": "青"
+          },
+          {
+            "name": "海南州",
+            "en_name": "hainanzhou",
+            "car_prefix": "青E",
+            "openEconomy": true,
+            "pinyin": "H",
+            "city_id": 341,
+            "pre_plate_no": "青"
+          },
+          {
+            "name": "黄南州",
+            "en_name": "huangnanzhou",
+            "car_prefix": "青D",
+            "openEconomy": true,
+            "pinyin": "H",
+            "city_id": 340,
+            "pre_plate_no": "青"
+          },
+          {
+            "name": "海北州",
+            "en_name": "haibeizhou",
+            "car_prefix": "青C",
+            "openEconomy": true,
+            "pinyin": "H",
+            "city_id": 339,
+            "pre_plate_no": "青"
+          },
+          {
+            "name": "海东地区",
+            "en_name": "haidongdiqu",
+            "car_prefix": "青B",
+            "openEconomy": true,
+            "pinyin": "H",
+            "city_id": 338,
+            "pre_plate_no": "青"
+          },
+          {
+            "name": "红河州",
+            "en_name": "honghezhou",
+            "car_prefix": "云G",
+            "openEconomy": true,
+            "pinyin": "H",
+            "city_id": 306,
+            "pre_plate_no": "云"
+          },
+          {
+            "name": "河池市",
+            "en_name": "hechi",
+            "car_prefix": "桂M",
+            "openEconomy": true,
+            "pinyin": "H",
+            "city_id": 265,
+            "pre_plate_no": "桂"
+          },
+          {
+            "name": "贺州市",
+            "en_name": "hezhou",
+            "car_prefix": "桂J",
+            "openEconomy": true,
+            "pinyin": "H",
+            "city_id": 264,
+            "pre_plate_no": "桂"
+          },
+          {
+            "name": "河源市",
+            "en_name": "heyuan",
+            "car_prefix": "粤P",
+            "openEconomy": true,
+            "pinyin": "H",
+            "city_id": 254,
+            "pre_plate_no": "粤"
+          },
+          {
+            "name": "鹤壁市",
+            "en_name": "hebi",
+            "car_prefix": "豫F",
+            "openEconomy": true,
+            "pinyin": "H",
+            "city_id": 247,
+            "pre_plate_no": "豫"
+          },
+          {
+            "name": "怀化市",
+            "en_name": "huaihua",
+            "car_prefix": "湘N",
+            "openEconomy": true,
+            "pinyin": "H",
+            "city_id": 244,
+            "pre_plate_no": "湘"
+          },
+          {
+            "name": "黄冈市",
+            "en_name": "huanggang",
+            "car_prefix": "鄂J",
+            "openEconomy": true,
+            "pinyin": "H",
+            "city_id": 232,
+            "pre_plate_no": "鄂"
+          },
+          {
+            "name": "黄石市",
+            "en_name": "huangshi",
+            "car_prefix": "鄂B",
+            "openEconomy": true,
+            "pinyin": "H",
+            "city_id": 227,
+            "pre_plate_no": "鄂"
+          },
+          {
+            "name": "黑河市",
+            "en_name": "heihe",
+            "car_prefix": "黑N",
+            "openEconomy": true,
+            "pinyin": "H",
+            "city_id": 217,
+            "pre_plate_no": "黑"
+          },
+          {
+            "name": "鹤岗市",
+            "en_name": "hegang",
+            "car_prefix": "黑H",
+            "openEconomy": true,
+            "pinyin": "H",
+            "city_id": 212,
+            "pre_plate_no": "黑"
+          },
+          {
+            "name": "呼伦贝尔市",
+            "en_name": "hulunbeier",
+            "car_prefix": "蒙E",
+            "openEconomy": true,
+            "pinyin": "H",
+            "city_id": 198,
+            "pre_plate_no": "蒙"
+          },
+          {
+            "name": "淮北市",
+            "en_name": "huaibei",
+            "car_prefix": "皖F",
+            "openEconomy": true,
+            "pinyin": "H",
+            "city_id": 183,
+            "pre_plate_no": "皖"
+          },
+          {
+            "name": "淮南市",
+            "en_name": "huainan",
+            "car_prefix": "皖D",
+            "openEconomy": true,
+            "pinyin": "H",
+            "city_id": 150,
+            "pre_plate_no": "皖"
+          },
+          {
+            "name": "黄山市",
+            "en_name": "huangshan",
+            "car_prefix": "皖J",
+            "openEconomy": true,
+            "pinyin": "H",
+            "city_id": 141,
+            "pre_plate_no": "皖"
+          },
+          {
+            "name": "惠州市",
+            "en_name": "huizhou",
+            "car_prefix": "粤L",
+            "openEconomy": true,
+            "pinyin": "H",
+            "city_id": 133,
+            "pre_plate_no": "粤"
+          },
+          {
+            "name": "菏泽市",
+            "en_name": "heze",
+            "car_prefix": "鲁R",
+            "openEconomy": true,
+            "pinyin": "H",
+            "city_id": 124,
+            "pre_plate_no": "鲁"
+          },
+          {
+            "name": "汉中市",
+            "en_name": "hanzhong",
+            "car_prefix": "陕F",
+            "openEconomy": true,
+            "pinyin": "H",
+            "city_id": 115,
+            "pre_plate_no": "陕"
+          },
+          {
+            "name": "衡阳市",
+            "en_name": "hengyang",
+            "car_prefix": "湘D",
+            "openEconomy": true,
+            "pinyin": "H",
+            "city_id": 105,
+            "pre_plate_no": "湘"
+          },
+          {
+            "name": "淮安市",
+            "en_name": "huaian",
+            "car_prefix": "苏H",
+            "openEconomy": true,
+            "pinyin": "H",
+            "city_id": 97,
+            "pre_plate_no": "苏"
+          },
+          {
+            "name": "湖州市",
+            "en_name": "huzhou",
+            "car_prefix": "浙E",
+            "openEconomy": true,
+            "pinyin": "H",
+            "city_id": 90,
+            "pre_plate_no": "浙"
+          },
+          {
+            "name": "海口市",
+            "en_name": "haikou",
+            "car_prefix": "琼A",
+            "openEconomy": true,
+            "pinyin": "H",
+            "city_id": 83,
+            "pre_plate_no": "琼"
+          },
+          {
+            "name": "衡水市",
+            "en_name": "hengshui",
+            "car_prefix": "冀T",
+            "openEconomy": true,
+            "pinyin": "H",
+            "city_id": 80,
+            "pre_plate_no": "冀"
+          },
+          {
+            "name": "葫芦岛市",
+            "en_name": "huludao",
+            "car_prefix": "辽P",
+            "openEconomy": true,
+            "pinyin": "H",
+            "city_id": 70,
+            "pre_plate_no": "辽"
+          },
+          {
+            "name": "邯郸市",
+            "en_name": "handan",
+            "car_prefix": "冀D",
+            "openEconomy": true,
+            "pinyin": "H",
+            "city_id": 60,
+            "pre_plate_no": "冀"
+          },
+          {
+            "name": "呼和浩特市",
+            "en_name": "huhehaote",
+            "car_prefix": "蒙A",
+            "openEconomy": true,
+            "pinyin": "H",
+            "city_id": 41,
+            "pre_plate_no": "蒙"
+          },
+          {
+            "name": "哈尔滨市",
+            "en_name": "haerbin",
+            "car_prefix": "黑A,黑L",
+            "openEconomy": true,
+            "pinyin": "H",
+            "city_id": 16,
+            "pre_plate_no": "黑"
+          },
+          {
+            "name": "合肥市",
+            "en_name": "hefei",
+            "car_prefix": "皖A",
+            "openEconomy": true,
+            "pinyin": "H",
+            "city_id": 15,
+            "pre_plate_no": "皖"
+          },
+          {
+            "name": "杭州市",
+            "en_name": "hangzhou",
+            "car_prefix": "浙A",
+            "openEconomy": true,
+            "pinyin": "H",
+            "city_id": 5,
+            "pre_plate_no": "浙"
+          }
+        ]
+      },
+      {
+        "pinyin": "J",
+        "lists": [
+          {
+            "name": "酒泉市",
+            "en_name": "jiuquan",
+            "car_prefix": "甘F",
+            "openEconomy": true,
+            "pinyin": "J",
+            "city_id": 328,
+            "pre_plate_no": "甘"
+          },
+          {
+            "name": "嘉峪关市",
+            "en_name": "jiayuguan",
+            "car_prefix": "甘B",
+            "openEconomy": true,
+            "pinyin": "J",
+            "city_id": 324,
+            "pre_plate_no": "甘"
+          },
+          {
+            "name": "金昌市",
+            "en_name": "jinchang",
+            "car_prefix": "甘C",
+            "openEconomy": true,
+            "pinyin": "J",
+            "city_id": 322,
+            "pre_plate_no": "甘"
+          },
+          {
+            "name": "济源市",
+            "en_name": "jiyuan",
+            "car_prefix": "豫U",
+            "openEconomy": true,
+            "pinyin": "J",
+            "city_id": 252,
+            "pre_plate_no": "豫"
+          },
+          {
+            "name": "荆门市",
+            "en_name": "jingmen",
+            "car_prefix": "鄂H",
+            "openEconomy": true,
+            "pinyin": "J",
+            "city_id": 229,
+            "pre_plate_no": "鄂"
+          },
+          {
+            "name": "吉安市",
+            "en_name": "jian",
+            "car_prefix": "赣D",
+            "openEconomy": true,
+            "pinyin": "J",
+            "city_id": 221,
+            "pre_plate_no": "赣"
+          },
+          {
+            "name": "佳木斯市",
+            "en_name": "jiamusi",
+            "car_prefix": "黑D",
+            "openEconomy": true,
+            "pinyin": "J",
+            "city_id": 215,
+            "pre_plate_no": "黑"
+          },
+          {
+            "name": "鸡西市",
+            "en_name": "jixi",
+            "car_prefix": "黑G",
+            "openEconomy": true,
+            "pinyin": "J",
+            "city_id": 211,
+            "pre_plate_no": "黑"
+          },
+          {
+            "name": "晋城市",
+            "en_name": "jincheng",
+            "car_prefix": "晋E",
+            "openEconomy": true,
+            "pinyin": "J",
+            "city_id": 190,
+            "pre_plate_no": "晋"
+          },
+          {
+            "name": "焦作市",
+            "en_name": "jiaozuo",
+            "car_prefix": "豫H",
+            "openEconomy": true,
+            "pinyin": "J",
+            "city_id": 175,
+            "pre_plate_no": "豫"
+          },
+          {
+            "name": "揭阳市",
+            "en_name": "jieyang",
+            "car_prefix": "粤V",
+            "openEconomy": true,
+            "pinyin": "J",
+            "city_id": 154,
+            "pre_plate_no": "粤"
+          },
+          {
+            "name": "江门市",
+            "en_name": "jiangmen",
+            "car_prefix": "粤J",
+            "openEconomy": true,
+            "pinyin": "J",
+            "city_id": 153,
+            "pre_plate_no": "粤"
+          },
+          {
+            "name": "景德镇市",
+            "en_name": "jingdezhen",
+            "car_prefix": "赣H",
+            "openEconomy": true,
+            "pinyin": "J",
+            "city_id": 151,
+            "pre_plate_no": "赣"
+          },
+          {
+            "name": "荆州市",
+            "en_name": "jingzhou",
+            "car_prefix": "鄂D",
+            "openEconomy": true,
+            "pinyin": "J",
+            "city_id": 109,
+            "pre_plate_no": "鄂"
+          },
+          {
+            "name": "九江市",
+            "en_name": "jiujiang",
+            "car_prefix": "赣G",
+            "openEconomy": true,
+            "pinyin": "J",
+            "city_id": 101,
+            "pre_plate_no": "赣"
+          },
+          {
+            "name": "嘉兴市",
+            "en_name": "jiaxing",
+            "car_prefix": "浙F",
+            "openEconomy": true,
+            "pinyin": "J",
+            "city_id": 88,
+            "pre_plate_no": "浙"
+          },
+          {
+            "name": "金华市",
+            "en_name": "jinhua",
+            "car_prefix": "浙G",
+            "openEconomy": true,
+            "pinyin": "J",
+            "city_id": 86,
+            "pre_plate_no": "浙"
+          },
+          {
+            "name": "济宁市",
+            "en_name": "jining",
+            "car_prefix": "鲁H",
+            "openEconomy": true,
+            "pinyin": "J",
+            "city_id": 79,
+            "pre_plate_no": "鲁"
+          },
+          {
+            "name": "吉林市",
+            "en_name": "jilin",
+            "car_prefix": "吉B",
+            "openEconomy": true,
+            "pinyin": "J",
+            "city_id": 74,
+            "pre_plate_no": "吉"
+          },
+          {
+            "name": "晋中市",
+            "en_name": "jinzhong",
+            "car_prefix": "晋K",
+            "openEconomy": true,
+            "pinyin": "J",
+            "city_id": 71,
+            "pre_plate_no": "晋"
+          },
+          {
+            "name": "锦州市",
+            "en_name": "jinzhou",
+            "car_prefix": "辽G",
+            "openEconomy": true,
+            "pinyin": "J",
+            "city_id": 68,
+            "pre_plate_no": "辽"
+          },
+          {
+            "name": "济南市",
+            "en_name": "jinan",
+            "car_prefix": "鲁A",
+            "openEconomy": true,
+            "pinyin": "J",
+            "city_id": 12,
+            "pre_plate_no": "鲁"
+          }
+        ]
+      },
+      {
+        "pinyin": "K",
+        "lists": [
+          {
+            "name": "克孜勒苏柯州",
+            "en_name": "kezilesukezhou",
+            "car_prefix": "新P",
+            "openEconomy": false,
+            "pinyin": "K",
+            "city_id": 349,
+            "pre_plate_no": "新"
+          },
+          {
+            "name": "克拉玛依市",
+            "en_name": "kelamayi",
+            "car_prefix": "新J",
+            "openEconomy": true,
+            "pinyin": "K",
+            "city_id": 180,
+            "pre_plate_no": "新"
+          },
+          {
+            "name": "喀什地区",
+            "en_name": "kashidiqu",
+            "car_prefix": "新Q",
+            "openEconomy": false,
+            "pinyin": "K",
+            "city_id": 179,
+            "pre_plate_no": "新"
+          },
+          {
+            "name": "开封市",
+            "en_name": "kaifeng",
+            "car_prefix": "豫B",
+            "openEconomy": true,
+            "pinyin": "K",
+            "city_id": 110,
+            "pre_plate_no": "豫"
+          },
+          {
+            "name": "昆明市",
+            "en_name": "kunming",
+            "car_prefix": "云A",
+            "openEconomy": true,
+            "pinyin": "K",
+            "city_id": 19,
+            "pre_plate_no": "云"
+          }
+        ]
+      },
+      {
+        "pinyin": "L",
+        "lists": [
+          {
+            "name": "乐东黎族自治县",
+            "en_name": "ledonglizu",
+            "car_prefix": "琼D",
+            "openEconomy": true,
+            "pinyin": "L",
+            "city_id": 362,
+            "pre_plate_no": "琼"
+          },
+          {
+            "name": "陵水黎族自治县",
+            "en_name": "lingshuilizu",
+            "car_prefix": "琼D",
+            "openEconomy": true,
+            "pinyin": "L",
+            "city_id": 360,
+            "pre_plate_no": "琼"
+          },
+          {
+            "name": "临夏州",
+            "en_name": "linxiazhou",
+            "car_prefix": "甘N",
+            "openEconomy": true,
+            "pinyin": "L",
+            "city_id": 332,
+            "pre_plate_no": "甘"
+          },
+          {
+            "name": "陇南市",
+            "en_name": "longnan",
+            "car_prefix": "甘K",
+            "openEconomy": true,
+            "pinyin": "L",
+            "city_id": 331,
+            "pre_plate_no": "甘"
+          },
+          {
+            "name": "林芝地区",
+            "en_name": "linzhidiqu",
+            "car_prefix": "藏G",
+            "openEconomy": true,
+            "pinyin": "L",
+            "city_id": 317,
+            "pre_plate_no": "藏"
+          },
+          {
+            "name": "临沧市",
+            "en_name": "lincang",
+            "car_prefix": "云S",
+            "openEconomy": true,
+            "pinyin": "L",
+            "city_id": 304,
+            "pre_plate_no": "云"
+          },
+          {
+            "name": "六盘水市",
+            "en_name": "liupanshui",
+            "car_prefix": "贵B",
+            "openEconomy": true,
+            "pinyin": "L",
+            "city_id": 293,
+            "pre_plate_no": "贵"
+          },
+          {
+            "name": "凉山州",
+            "en_name": "liangshanzhou",
+            "car_prefix": "川W",
+            "openEconomy": true,
+            "pinyin": "L",
+            "city_id": 292,
+            "pre_plate_no": "川"
+          },
+          {
+            "name": "乐山市",
+            "en_name": "leshan",
+            "car_prefix": "川L",
+            "openEconomy": true,
+            "pinyin": "L",
+            "city_id": 283,
+            "pre_plate_no": "川"
+          },
+          {
+            "name": "临高县",
+            "en_name": "lingaoxian",
+            "car_prefix": "琼C6",
+            "openEconomy": true,
+            "pinyin": "L",
+            "city_id": 277,
+            "pre_plate_no": "琼"
+          },
+          {
+            "name": "来宾市",
+            "en_name": "laibin",
+            "car_prefix": "桂G",
+            "openEconomy": true,
+            "pinyin": "L",
+            "city_id": 266,
+            "pre_plate_no": "桂"
+          },
+          {
+            "name": "漯河市",
+            "en_name": "luohe",
+            "car_prefix": "豫L",
+            "openEconomy": true,
+            "pinyin": "L",
+            "city_id": 248,
+            "pre_plate_no": "豫"
+          },
+          {
+            "name": "娄底市",
+            "en_name": "loudi",
+            "car_prefix": "湘K",
+            "openEconomy": true,
+            "pinyin": "L",
+            "city_id": 245,
+            "pre_plate_no": "湘"
+          },
+          {
+            "name": "龙岩市",
+            "en_name": "longyan",
+            "car_prefix": "闽F",
+            "openEconomy": true,
+            "pinyin": "L",
+            "city_id": 226,
+            "pre_plate_no": "闽"
+          },
+          {
+            "name": "辽源市",
+            "en_name": "liaoyuan",
+            "car_prefix": "吉D",
+            "openEconomy": true,
+            "pinyin": "L",
+            "city_id": 206,
+            "pre_plate_no": "吉"
+          },
+          {
+            "name": "吕梁市",
+            "en_name": "lvliang",
+            "car_prefix": "晋J",
+            "openEconomy": true,
+            "pinyin": "L",
+            "city_id": 194,
+            "pre_plate_no": "晋"
+          },
+          {
+            "name": "临汾市",
+            "en_name": "linfen",
+            "car_prefix": "晋L",
+            "openEconomy": true,
+            "pinyin": "L",
+            "city_id": 193,
+            "pre_plate_no": "晋"
+          },
+          {
+            "name": "六安市",
+            "en_name": "liuan",
+            "car_prefix": "皖N",
+            "openEconomy": true,
+            "pinyin": "L",
+            "city_id": 186,
+            "pre_plate_no": "皖"
+          },
+          {
+            "name": "拉萨市",
+            "en_name": "lasa",
+            "car_prefix": "藏A",
+            "openEconomy": true,
+            "pinyin": "L",
+            "city_id": 178,
+            "pre_plate_no": "藏"
+          },
+          {
+            "name": "丽水市",
+            "en_name": "lishui",
+            "car_prefix": "浙K",
+            "openEconomy": true,
+            "pinyin": "L",
+            "city_id": 139,
+            "pre_plate_no": "浙"
+          },
+          {
+            "name": "丽江市",
+            "en_name": "lijiang",
+            "car_prefix": "云P",
+            "openEconomy": true,
+            "pinyin": "L",
+            "city_id": 137,
+            "pre_plate_no": "云"
+          },
+          {
+            "name": "柳州市",
+            "en_name": "liuzhou",
+            "car_prefix": "桂B",
+            "openEconomy": true,
+            "pinyin": "L",
+            "city_id": 134,
+            "pre_plate_no": "桂"
+          },
+          {
+            "name": "聊城市",
+            "en_name": "liaocheng",
+            "car_prefix": "鲁P",
+            "openEconomy": true,
+            "pinyin": "L",
+            "city_id": 123,
+            "pre_plate_no": "鲁"
+          },
+          {
+            "name": "莱芜市",
+            "en_name": "laiwu",
+            "car_prefix": "鲁S",
+            "openEconomy": true,
+            "pinyin": "L",
+            "city_id": 122,
+            "pre_plate_no": "鲁"
+          },
+          {
+            "name": "泸州市",
+            "en_name": "luzhou",
+            "car_prefix": "川E",
+            "openEconomy": true,
+            "pinyin": "L",
+            "city_id": 117,
+            "pre_plate_no": "川"
+          },
+          {
+            "name": "连云港市",
+            "en_name": "lianyungang",
+            "car_prefix": "苏G",
+            "openEconomy": true,
+            "pinyin": "L",
+            "city_id": 96,
+            "pre_plate_no": "苏"
+          },
+          {
+            "name": "辽阳市",
+            "en_name": "liaoyang",
+            "car_prefix": "辽K",
+            "openEconomy": true,
+            "pinyin": "L",
+            "city_id": 75,
+            "pre_plate_no": "辽"
+          },
+          {
+            "name": "临沂市",
+            "en_name": "linyi",
+            "car_prefix": "鲁Q",
+            "openEconomy": true,
+            "pinyin": "L",
+            "city_id": 58,
+            "pre_plate_no": "鲁"
+          },
+          {
+            "name": "廊坊市",
+            "en_name": "langfang",
+            "car_prefix": "冀R",
+            "openEconomy": true,
+            "pinyin": "L",
+            "city_id": 46,
+            "pre_plate_no": "冀"
+          },
+          {
+            "name": "兰州市",
+            "en_name": "lanzhou",
+            "car_prefix": "甘A",
+            "openEconomy": true,
+            "pinyin": "L",
+            "city_id": 30,
+            "pre_plate_no": "甘"
+          },
+          {
+            "name": "洛阳市",
+            "en_name": "luoyang",
+            "car_prefix": "豫C",
+            "openEconomy": true,
+            "pinyin": "L",
+            "city_id": 27,
+            "pre_plate_no": "豫"
+          }
+        ]
+      },
+      {
+        "pinyin": "M",
+        "lists": [
+          {
+            "name": "眉山市",
+            "en_name": "meishan",
+            "car_prefix": "川Z",
+            "openEconomy": true,
+            "pinyin": "M",
+            "city_id": 286,
+            "pre_plate_no": "川"
+          },
+          {
+            "name": "梅州市",
+            "en_name": "meizhou",
+            "car_prefix": "粤M",
+            "openEconomy": true,
+            "pinyin": "M",
+            "city_id": 156,
+            "pre_plate_no": "粤"
+          },
+          {
+            "name": "茂名市",
+            "en_name": "maoming",
+            "car_prefix": "粤K",
+            "openEconomy": true,
+            "pinyin": "M",
+            "city_id": 155,
+            "pre_plate_no": "粤"
+          },
+          {
+            "name": "牡丹江市",
+            "en_name": "mudanjiang",
+            "car_prefix": "黑C",
+            "openEconomy": true,
+            "pinyin": "M",
+            "city_id": 129,
+            "pre_plate_no": "黑"
+          },
+          {
+            "name": "马鞍山市",
+            "en_name": "maanshan",
+            "car_prefix": "皖E",
+            "openEconomy": true,
+            "pinyin": "M",
+            "city_id": 99,
+            "pre_plate_no": "皖"
+          },
+          {
+            "name": "绵阳市",
+            "en_name": "mianyang",
+            "car_prefix": "川B",
+            "openEconomy": true,
+            "pinyin": "M",
+            "city_id": 50,
+            "pre_plate_no": "川"
+          }
+        ]
+      },
+      {
+        "pinyin": "N",
+        "lists": [
+          {
+            "name": "那曲地区",
+            "en_name": "naqudiqu",
+            "car_prefix": "藏E",
+            "openEconomy": true,
+            "pinyin": "N",
+            "city_id": 312,
+            "pre_plate_no": "藏"
+          },
+          {
+            "name": "怒江州",
+            "en_name": "nujiangzhou",
+            "car_prefix": "云Q",
+            "openEconomy": true,
+            "pinyin": "N",
+            "city_id": 310,
+            "pre_plate_no": "云"
+          },
+          {
+            "name": "内江市",
+            "en_name": "neijiang",
+            "car_prefix": "川K",
+            "openEconomy": true,
+            "pinyin": "N",
+            "city_id": 282,
+            "pre_plate_no": "川"
+          },
+          {
+            "name": "南平市",
+            "en_name": "nanping",
+            "car_prefix": "闽H",
+            "openEconomy": true,
+            "pinyin": "N",
+            "city_id": 145,
+            "pre_plate_no": "闽"
+          },
+          {
+            "name": "宁德市",
+            "en_name": "ningde",
+            "car_prefix": "闽J",
+            "openEconomy": true,
+            "pinyin": "N",
+            "city_id": 144,
+            "pre_plate_no": "闽"
+          },
+          {
+            "name": "南阳市",
+            "en_name": "nanyang",
+            "car_prefix": "豫R",
+            "openEconomy": true,
+            "pinyin": "N",
+            "city_id": 113,
+            "pre_plate_no": "豫"
+          },
+          {
+            "name": "南通市",
+            "en_name": "nantong",
+            "car_prefix": "苏F",
+            "openEconomy": true,
+            "pinyin": "N",
+            "city_id": 92,
+            "pre_plate_no": "苏"
+          },
+          {
+            "name": "南充市",
+            "en_name": "nanchong",
+            "car_prefix": "川R",
+            "openEconomy": true,
+            "pinyin": "N",
+            "city_id": 53,
+            "pre_plate_no": "川"
+          },
+          {
+            "name": "南昌市",
+            "en_name": "nanchang",
+            "car_prefix": "赣A,赣M",
+            "openEconomy": true,
+            "pinyin": "N",
+            "city_id": 38,
+            "pre_plate_no": "赣"
+          },
+          {
+            "name": "南宁市",
+            "en_name": "nanning",
+            "car_prefix": "桂A",
+            "openEconomy": true,
+            "pinyin": "N",
+            "city_id": 33,
+            "pre_plate_no": "桂"
+          },
+          {
+            "name": "宁波市",
+            "en_name": "ningbo",
+            "car_prefix": "浙B",
+            "openEconomy": true,
+            "pinyin": "N",
+            "city_id": 20,
+            "pre_plate_no": "浙"
+          },
+          {
+            "name": "南京市",
+            "en_name": "nanjing",
+            "car_prefix": "苏A",
+            "openEconomy": true,
+            "pinyin": "N",
+            "city_id": 11,
+            "pre_plate_no": "苏"
+          }
+        ]
+      },
+      {
+        "pinyin": "P",
+        "lists": [
+          {
+            "name": "平凉市",
+            "en_name": "pingliang",
+            "car_prefix": "甘L",
+            "openEconomy": true,
+            "pinyin": "P",
+            "city_id": 327,
+            "pre_plate_no": "甘"
+          },
+          {
+            "name": "普洱市",
+            "en_name": "puer",
+            "car_prefix": "云J",
+            "openEconomy": true,
+            "pinyin": "P",
+            "city_id": 303,
+            "pre_plate_no": "云"
+          },
+          {
+            "name": "萍乡市",
+            "en_name": "pingxiang",
+            "car_prefix": "赣J",
+            "openEconomy": true,
+            "pinyin": "P",
+            "city_id": 219,
+            "pre_plate_no": "赣"
+          },
+          {
+            "name": "濮阳市",
+            "en_name": "puyang",
+            "car_prefix": "豫J",
+            "openEconomy": true,
+            "pinyin": "P",
+            "city_id": 176,
+            "pre_plate_no": "豫"
+          },
+          {
+            "name": "盘锦市",
+            "en_name": "panjin",
+            "car_prefix": "辽L",
+            "openEconomy": true,
+            "pinyin": "P",
+            "city_id": 165,
+            "pre_plate_no": "辽"
+          },
+          {
+            "name": "莆田市",
+            "en_name": "putian",
+            "car_prefix": "闽B",
+            "openEconomy": true,
+            "pinyin": "P",
+            "city_id": 143,
+            "pre_plate_no": "闽"
+          },
+          {
+            "name": "攀枝花市",
+            "en_name": "panzhihua",
+            "car_prefix": "川D",
+            "openEconomy": true,
+            "pinyin": "P",
+            "city_id": 119,
+            "pre_plate_no": "川"
+          },
+          {
+            "name": "平顶山市",
+            "en_name": "pingdingshan",
+            "car_prefix": "豫D",
+            "openEconomy": true,
+            "pinyin": "P",
+            "city_id": 103,
+            "pre_plate_no": "豫"
+          }
+        ]
+      },
+      {
+        "pinyin": "Q",
+        "lists": [
+          {
+            "name": "琼中黎族苗族自治县",
+            "en_name": "qiongzhonglizu",
+            "car_prefix": "琼D",
+            "openEconomy": true,
+            "pinyin": "Q",
+            "city_id": 365,
+            "pre_plate_no": "琼"
+          },
+          {
+            "name": "庆阳市",
+            "en_name": "qingyang",
+            "car_prefix": "甘M",
+            "openEconomy": true,
+            "pinyin": "Q",
+            "city_id": 329,
+            "pre_plate_no": "甘"
+          },
+          {
+            "name": "黔南州",
+            "en_name": "qiannanzhou",
+            "car_prefix": "贵J",
+            "openEconomy": true,
+            "pinyin": "Q",
+            "city_id": 299,
+            "pre_plate_no": "贵"
+          },
+          {
+            "name": "黔东南州",
+            "en_name": "qiandongnanzhou",
+            "car_prefix": "贵H",
+            "openEconomy": true,
+            "pinyin": "Q",
+            "city_id": 298,
+            "pre_plate_no": "贵"
+          },
+          {
+            "name": "黔西南州",
+            "en_name": "qianxinanzhou",
+            "car_prefix": "贵E",
+            "openEconomy": true,
+            "pinyin": "Q",
+            "city_id": 297,
+            "pre_plate_no": "贵"
+          },
+          {
+            "name": "琼海市",
+            "en_name": "qionghai",
+            "car_prefix": "琼C1",
+            "openEconomy": true,
+            "pinyin": "Q",
+            "city_id": 269,
+            "pre_plate_no": "琼"
+          },
+          {
+            "name": "钦州市",
+            "en_name": "qinzhou",
+            "car_prefix": "桂N",
+            "openEconomy": true,
+            "pinyin": "Q",
+            "city_id": 261,
+            "pre_plate_no": "桂"
+          },
+          {
+            "name": "潜江市",
+            "en_name": "qianjiang",
+            "car_prefix": "鄂N",
+            "openEconomy": true,
+            "pinyin": "Q",
+            "city_id": 238,
+            "pre_plate_no": "鄂"
+          },
+          {
+            "name": "七台河市",
+            "en_name": "qitaihe",
+            "car_prefix": "黑K",
+            "openEconomy": true,
+            "pinyin": "Q",
+            "city_id": 216,
+            "pre_plate_no": "黑"
+          },
+          {
+            "name": "清远市",
+            "en_name": "qingyuan",
+            "car_prefix": "粤R",
+            "openEconomy": true,
+            "pinyin": "Q",
+            "city_id": 157,
+            "pre_plate_no": "粤"
+          },
+          {
+            "name": "衢州市",
+            "en_name": "quzhou",
+            "car_prefix": "浙H",
+            "openEconomy": true,
+            "pinyin": "Q",
+            "city_id": 140,
+            "pre_plate_no": "浙"
+          },
+          {
+            "name": "曲靖市",
+            "en_name": "qujing",
+            "car_prefix": "云D",
+            "openEconomy": true,
+            "pinyin": "Q",
+            "city_id": 138,
+            "pre_plate_no": "云"
+          },
+          {
+            "name": "齐齐哈尔市",
+            "en_name": "qiqihaer",
+            "car_prefix": "黑B",
+            "openEconomy": true,
+            "pinyin": "Q",
+            "city_id": 65,
+            "pre_plate_no": "黑"
+          },
+          {
+            "name": "秦皇岛市",
+            "en_name": "qinhuangdao",
+            "car_prefix": "冀C",
+            "openEconomy": true,
+            "pinyin": "Q",
+            "city_id": 61,
+            "pre_plate_no": "冀"
+          },
+          {
+            "name": "泉州市",
+            "en_name": "quanzhou",
+            "car_prefix": "闽C",
+            "openEconomy": true,
+            "pinyin": "Q",
+            "city_id": 35,
+            "pre_plate_no": "闽"
+          },
+          {
+            "name": "青岛市",
+            "en_name": "qingdao",
+            "car_prefix": "鲁B",
+            "openEconomy": true,
+            "pinyin": "Q",
+            "city_id": 13,
+            "pre_plate_no": "鲁"
+          }
+        ]
+      },
+      {
+        "pinyin": "R",
+        "lists": [
+          {
+            "name": "日喀则地区",
+            "en_name": "rikazediqu",
+            "car_prefix": "藏D",
+            "openEconomy": true,
+            "pinyin": "R",
+            "city_id": 315,
+            "pre_plate_no": "藏"
+          },
+          {
+            "name": "日照市",
+            "en_name": "rizhao",
+            "car_prefix": "鲁L",
+            "openEconomy": true,
+            "pinyin": "R",
+            "city_id": 167,
+            "pre_plate_no": "鲁"
+          }
+        ]
+      },
+      {
+        "pinyin": "S",
+        "lists": [
+          {
+            "name": "三沙市",
+            "en_name": "sansha",
+            "car_prefix": "琼D",
+            "openEconomy": true,
+            "pinyin": "S",
+            "city_id": 361,
+            "pre_plate_no": "琼"
+          },
+          {
+            "name": "石嘴山市",
+            "en_name": "shizuishan",
+            "car_prefix": "宁B",
+            "openEconomy": true,
+            "pinyin": "S",
+            "city_id": 334,
+            "pre_plate_no": "宁"
+          },
+          {
+            "name": "商洛市",
+            "en_name": "shangluo",
+            "car_prefix": "陕H",
+            "openEconomy": true,
+            "pinyin": "S",
+            "city_id": 321,
+            "pre_plate_no": "陕"
+          },
+          {
+            "name": "山南地区",
+            "en_name": "shannandiqu",
+            "car_prefix": "藏C",
+            "openEconomy": true,
+            "pinyin": "S",
+            "city_id": 314,
+            "pre_plate_no": "藏"
+          },
+          {
+            "name": "遂宁市",
+            "en_name": "suining",
+            "car_prefix": "川J",
+            "openEconomy": true,
+            "pinyin": "S",
+            "city_id": 281,
+            "pre_plate_no": "川"
+          },
+          {
+            "name": "汕尾市",
+            "en_name": "shanwei",
+            "car_prefix": "粤N",
+            "openEconomy": true,
+            "pinyin": "S",
+            "city_id": 255,
+            "pre_plate_no": "粤"
+          },
+          {
+            "name": "韶关市",
+            "en_name": "shaoguan",
+            "car_prefix": "粤F",
+            "openEconomy": true,
+            "pinyin": "S",
+            "city_id": 253,
+            "pre_plate_no": "粤"
+          },
+          {
+            "name": "三门峡市",
+            "en_name": "sanmenxia",
+            "car_prefix": "豫M",
+            "openEconomy": true,
+            "pinyin": "S",
+            "city_id": 249,
+            "pre_plate_no": "豫"
+          },
+          {
+            "name": "邵阳市",
+            "en_name": "shaoyang",
+            "car_prefix": "湘E",
+            "openEconomy": true,
+            "pinyin": "S",
+            "city_id": 240,
+            "pre_plate_no": "湘"
+          },
+          {
+            "name": "神农架林区",
+            "en_name": "shennongjialinqu",
+            "car_prefix": "鄂P",
+            "openEconomy": true,
+            "pinyin": "S",
+            "city_id": 239,
+            "pre_plate_no": "鄂"
+          },
+          {
+            "name": "随州市",
+            "en_name": "suizhou",
+            "car_prefix": "鄂S",
+            "openEconomy": true,
+            "pinyin": "S",
+            "city_id": 234,
+            "pre_plate_no": "鄂"
+          },
+          {
+            "name": "十堰市",
+            "en_name": "shiyan",
+            "car_prefix": "鄂C",
+            "openEconomy": true,
+            "pinyin": "S",
+            "city_id": 228,
+            "pre_plate_no": "鄂"
+          },
+          {
+            "name": "三明市",
+            "en_name": "sanming",
+            "car_prefix": "闽G",
+            "openEconomy": true,
+            "pinyin": "S",
+            "city_id": 225,
+            "pre_plate_no": "闽"
+          },
+          {
+            "name": "上饶市",
+            "en_name": "shangrao",
+            "car_prefix": "赣E",
+            "openEconomy": true,
+            "pinyin": "S",
+            "city_id": 224,
+            "pre_plate_no": "赣"
+          },
+          {
+            "name": "双鸭山市",
+            "en_name": "shuangyashan",
+            "car_prefix": "黑J",
+            "openEconomy": true,
+            "pinyin": "S",
+            "city_id": 213,
+            "pre_plate_no": "黑"
+          },
+          {
+            "name": "松原市",
+            "en_name": "songyuan",
+            "car_prefix": "吉J",
+            "openEconomy": true,
+            "pinyin": "S",
+            "city_id": 209,
+            "pre_plate_no": "吉"
+          },
+          {
+            "name": "朔州市",
+            "en_name": "shuozhou",
+            "car_prefix": "晋F",
+            "openEconomy": true,
+            "pinyin": "S",
+            "city_id": 191,
+            "pre_plate_no": "晋"
+          },
+          {
+            "name": "宿州市",
+            "en_name": "suzhou",
+            "car_prefix": "皖L",
+            "openEconomy": true,
+            "pinyin": "S",
+            "city_id": 185,
+            "pre_plate_no": "皖"
+          },
+          {
+            "name": "石河子市",
+            "en_name": "shihezi",
+            "car_prefix": "新C",
+            "openEconomy": true,
+            "pinyin": "S",
+            "city_id": 181,
+            "pre_plate_no": "新"
+          },
+          {
+            "name": "商丘市",
+            "en_name": "shangqiu",
+            "car_prefix": "豫N",
+            "openEconomy": true,
+            "pinyin": "S",
+            "city_id": 177,
+            "pre_plate_no": "豫"
+          },
+          {
+            "name": "汕头市",
+            "en_name": "shantou",
+            "car_prefix": "粤D",
+            "openEconomy": true,
+            "pinyin": "S",
+            "city_id": 158,
+            "pre_plate_no": "粤"
+          },
+          {
+            "name": "宿迁市",
+            "en_name": "suqian",
+            "car_prefix": "苏N",
+            "openEconomy": true,
+            "pinyin": "S",
+            "city_id": 147,
+            "pre_plate_no": "苏"
+          },
+          {
+            "name": "四平市",
+            "en_name": "siping",
+            "car_prefix": "吉C",
+            "openEconomy": true,
+            "pinyin": "S",
+            "city_id": 130,
+            "pre_plate_no": "吉"
+          },
+          {
+            "name": "绥化市",
+            "en_name": "suihua",
+            "car_prefix": "黑M",
+            "openEconomy": true,
+            "pinyin": "S",
+            "city_id": 128,
+            "pre_plate_no": "黑"
+          },
+          {
+            "name": "绍兴市",
+            "en_name": "shaoxing",
+            "car_prefix": "浙D",
+            "openEconomy": true,
+            "pinyin": "S",
+            "city_id": 89,
+            "pre_plate_no": "浙"
+          },
+          {
+            "name": "三亚市",
+            "en_name": "sanya",
+            "car_prefix": "琼B",
+            "openEconomy": true,
+            "pinyin": "S",
+            "city_id": 37,
+            "pre_plate_no": "琼"
+          },
+          {
+            "name": "苏州市",
+            "en_name": "suzhou",
+            "car_prefix": "苏E",
+            "openEconomy": true,
+            "pinyin": "S",
+            "city_id": 23,
+            "pre_plate_no": "苏"
+          },
+          {
+            "name": "石家庄市",
+            "en_name": "shijiazhuang",
+            "car_prefix": "冀A",
+            "openEconomy": true,
+            "pinyin": "S",
+            "city_id": 22,
+            "pre_plate_no": "冀"
+          },
+          {
+            "name": "沈阳市",
+            "en_name": "shenyang",
+            "car_prefix": "辽A",
+            "openEconomy": true,
+            "pinyin": "S",
+            "city_id": 8,
+            "pre_plate_no": "辽"
+          },
+          {
+            "name": "上海市",
+            "en_name": "shanghai",
+            "car_prefix": "沪",
+            "openEconomy": true,
+            "pinyin": "S",
+            "city_id": 4,
+            "pre_plate_no": "沪"
+          },
+          {
+            "name": "深圳市",
+            "en_name": "shenzhen",
+            "car_prefix": "粤B",
+            "openEconomy": true,
+            "pinyin": "S",
+            "city_id": 2,
+            "pre_plate_no": "粤"
+          }
+        ]
+      },
+      {
+        "pinyin": "T",
+        "lists": [
+          {
+            "name": "塔城地区",
+            "en_name": "tachengdiqu",
+            "car_prefix": "新G",
+            "openEconomy": true,
+            "pinyin": "T",
+            "city_id": 354,
+            "pre_plate_no": "新"
+          },
+          {
+            "name": "吐鲁番地区",
+            "en_name": "tulufandiqu",
+            "car_prefix": "新K",
+            "openEconomy": true,
+            "pinyin": "T",
+            "city_id": 345,
+            "pre_plate_no": "新"
+          },
+          {
+            "name": "铜川市",
+            "en_name": "tongchuan",
+            "car_prefix": "陕B",
+            "openEconomy": true,
+            "pinyin": "T",
+            "city_id": 318,
+            "pre_plate_no": "陕"
+          },
+          {
+            "name": "铜仁地区",
+            "en_name": "tongrendiqu",
+            "car_prefix": "贵D",
+            "openEconomy": true,
+            "pinyin": "T",
+            "city_id": 295,
+            "pre_plate_no": "贵"
+          },
+          {
+            "name": "屯昌县",
+            "en_name": "tunchangxian",
+            "car_prefix": "琼C4",
+            "openEconomy": true,
+            "pinyin": "T",
+            "city_id": 276,
+            "pre_plate_no": "琼"
+          },
+          {
+            "name": "天门市",
+            "en_name": "tianmen",
+            "car_prefix": "鄂R",
+            "openEconomy": true,
+            "pinyin": "T",
+            "city_id": 237,
+            "pre_plate_no": "鄂"
+          },
+          {
+            "name": "通化市",
+            "en_name": "tonghua",
+            "car_prefix": "吉E",
+            "openEconomy": true,
+            "pinyin": "T",
+            "city_id": 207,
+            "pre_plate_no": "吉"
+          },
+          {
+            "name": "通辽市",
+            "en_name": "tongliao",
+            "car_prefix": "蒙G",
+            "openEconomy": true,
+            "pinyin": "T",
+            "city_id": 197,
+            "pre_plate_no": "蒙"
+          },
+          {
+            "name": "铜陵市",
+            "en_name": "tongling",
+            "car_prefix": "皖G",
+            "openEconomy": true,
+            "pinyin": "T",
+            "city_id": 184,
+            "pre_plate_no": "皖"
+          },
+          {
+            "name": "天水市",
+            "en_name": "tianshui",
+            "car_prefix": "甘E",
+            "openEconomy": true,
+            "pinyin": "T",
+            "city_id": 169,
+            "pre_plate_no": "甘"
+          },
+          {
+            "name": "泰安市",
+            "en_name": "taian",
+            "car_prefix": "鲁J",
+            "openEconomy": true,
+            "pinyin": "T",
+            "city_id": 121,
+            "pre_plate_no": "鲁"
+          },
+          {
+            "name": "泰州市",
+            "en_name": "taizhou",
+            "car_prefix": "苏M",
+            "openEconomy": true,
+            "pinyin": "T",
+            "city_id": 95,
+            "pre_plate_no": "苏"
+          },
+          {
+            "name": "台州市",
+            "en_name": "taizhou",
+            "car_prefix": "浙J",
+            "openEconomy": true,
+            "pinyin": "T",
+            "city_id": 87,
+            "pre_plate_no": "浙"
+          },
+          {
+            "name": "铁岭市",
+            "en_name": "tieling",
+            "car_prefix": "辽M",
+            "openEconomy": true,
+            "pinyin": "T",
+            "city_id": 69,
+            "pre_plate_no": "辽"
+          },
+          {
+            "name": "唐山市",
+            "en_name": "tangshan",
+            "car_prefix": "冀B",
+            "openEconomy": true,
+            "pinyin": "T",
+            "city_id": 40,
+            "pre_plate_no": "冀"
+          },
+          {
+            "name": "太原市",
+            "en_name": "taiyuan",
+            "car_prefix": "晋A",
+            "openEconomy": true,
+            "pinyin": "T",
+            "city_id": 26,
+            "pre_plate_no": "晋"
+          },
+          {
+            "name": "天津市",
+            "en_name": "tianjin",
+            "car_prefix": "津",
+            "openEconomy": true,
+            "pinyin": "T",
+            "city_id": 7,
+            "pre_plate_no": "津"
+          }
+        ]
+      },
+      {
+        "pinyin": "W",
+        "lists": [
+          {
+            "name": "吴忠市",
+            "en_name": "wuzhong",
+            "car_prefix": "宁C",
+            "openEconomy": true,
+            "pinyin": "W",
+            "city_id": 335,
+            "pre_plate_no": "宁"
+          },
+          {
+            "name": "武威市",
+            "en_name": "wuwei",
+            "car_prefix": "甘H",
+            "openEconomy": true,
+            "pinyin": "W",
+            "city_id": 325,
+            "pre_plate_no": "甘"
+          },
+          {
+            "name": "渭南市",
+            "en_name": "weinan",
+            "car_prefix": "陕E",
+            "openEconomy": true,
+            "pinyin": "W",
+            "city_id": 319,
+            "pre_plate_no": "陕"
+          },
+          {
+            "name": "文山州",
+            "en_name": "wenshanzhou",
+            "car_prefix": "云H",
+            "openEconomy": true,
+            "pinyin": "W",
+            "city_id": 305,
+            "pre_plate_no": "云"
+          },
+          {
+            "name": "万宁市",
+            "en_name": "wanning",
+            "car_prefix": "琼C8",
+            "openEconomy": true,
+            "pinyin": "W",
+            "city_id": 272,
+            "pre_plate_no": "琼"
+          },
+          {
+            "name": "文昌市",
+            "en_name": "wenchang",
+            "car_prefix": "琼C7",
+            "openEconomy": true,
+            "pinyin": "W",
+            "city_id": 271,
+            "pre_plate_no": "琼"
+          },
+          {
+            "name": "五指山市",
+            "en_name": "wuzhishan",
+            "car_prefix": "琼D",
+            "openEconomy": true,
+            "pinyin": "W",
+            "city_id": 268,
+            "pre_plate_no": "琼"
+          },
+          {
+            "name": "梧州市",
+            "en_name": "wuzhou",
+            "car_prefix": "桂D",
+            "openEconomy": true,
+            "pinyin": "W",
+            "city_id": 259,
+            "pre_plate_no": "桂"
+          },
+          {
+            "name": "乌兰察布市",
+            "en_name": "wulanchabu",
+            "car_prefix": "蒙J",
+            "openEconomy": true,
+            "pinyin": "W",
+            "city_id": 200,
+            "pre_plate_no": "蒙"
+          },
+          {
+            "name": "乌海市",
+            "en_name": "wuhai",
+            "car_prefix": "蒙C",
+            "openEconomy": true,
+            "pinyin": "W",
+            "city_id": 195,
+            "pre_plate_no": "蒙"
+          },
+          {
+            "name": "芜湖市",
+            "en_name": "wuhu",
+            "car_prefix": "皖B",
+            "openEconomy": true,
+            "pinyin": "W",
+            "city_id": 98,
+            "pre_plate_no": "皖"
+          },
+          {
+            "name": "温州市",
+            "en_name": "wenzhou",
+            "car_prefix": "浙C",
+            "openEconomy": true,
+            "pinyin": "W",
+            "city_id": 85,
+            "pre_plate_no": "浙"
+          },
+          {
+            "name": "潍坊市",
+            "en_name": "weifang",
+            "car_prefix": "鲁G,鲁V",
+            "openEconomy": true,
+            "pinyin": "W",
+            "city_id": 81,
+            "pre_plate_no": "鲁"
+          },
+          {
+            "name": "乌鲁木齐市",
+            "en_name": "wulumuqi",
+            "car_prefix": "新A",
+            "openEconomy": true,
+            "pinyin": "W",
+            "city_id": 52,
+            "pre_plate_no": "新"
+          },
+          {
+            "name": "无锡市",
+            "en_name": "wuxi",
+            "car_prefix": "苏B",
+            "openEconomy": true,
+            "pinyin": "W",
+            "city_id": 47,
+            "pre_plate_no": "苏"
+          },
+          {
+            "name": "威海市",
+            "en_name": "weihai",
+            "car_prefix": "鲁K",
+            "openEconomy": true,
+            "pinyin": "W",
+            "city_id": 42,
+            "pre_plate_no": "鲁"
+          },
+          {
+            "name": "武汉市",
+            "en_name": "wuhan",
+            "car_prefix": "鄂A",
+            "openEconomy": true,
+            "pinyin": "W",
+            "city_id": 6,
+            "pre_plate_no": "鄂"
+          }
+        ]
+      },
+      {
+        "pinyin": "X",
+        "lists": [
+          {
+            "name": "西双版纳州",
+            "en_name": "xishuangbannazhou",
+            "car_prefix": "云K",
+            "openEconomy": true,
+            "pinyin": "X",
+            "city_id": 307,
+            "pre_plate_no": "云"
+          },
+          {
+            "name": "信阳市",
+            "en_name": "xinyang",
+            "car_prefix": "豫S",
+            "openEconomy": true,
+            "pinyin": "X",
+            "city_id": 250,
+            "pre_plate_no": "豫"
+          },
+          {
+            "name": "湘西州",
+            "en_name": "xiangxizhou",
+            "car_prefix": "湘U",
+            "openEconomy": true,
+            "pinyin": "X",
+            "city_id": 246,
+            "pre_plate_no": "湘"
+          },
+          {
+            "name": "仙桃市",
+            "en_name": "xiantao",
+            "car_prefix": "鄂M",
+            "openEconomy": true,
+            "pinyin": "X",
+            "city_id": 236,
+            "pre_plate_no": "鄂"
+          },
+          {
+            "name": "咸宁市",
+            "en_name": "xianning",
+            "car_prefix": "鄂L",
+            "openEconomy": true,
+            "pinyin": "X",
+            "city_id": 233,
+            "pre_plate_no": "鄂"
+          },
+          {
+            "name": "孝感市",
+            "en_name": "xiaogan",
+            "car_prefix": "鄂K",
+            "openEconomy": true,
+            "pinyin": "X",
+            "city_id": 231,
+            "pre_plate_no": "鄂"
+          },
+          {
+            "name": "兴安盟",
+            "en_name": "xinganmeng",
+            "car_prefix": "蒙F",
+            "openEconomy": true,
+            "pinyin": "X",
+            "city_id": 203,
+            "pre_plate_no": "蒙"
+          },
+          {
+            "name": "锡林郭勒盟",
+            "en_name": "xilinguolemeng",
+            "car_prefix": "蒙H",
+            "openEconomy": true,
+            "pinyin": "X",
+            "city_id": 201,
+            "pre_plate_no": "蒙"
+          },
+          {
+            "name": "忻州市",
+            "en_name": "xinzhou",
+            "car_prefix": "晋H",
+            "openEconomy": true,
+            "pinyin": "X",
+            "city_id": 192,
+            "pre_plate_no": "晋"
+          },
+          {
+            "name": "宣城市",
+            "en_name": "xuancheng",
+            "car_prefix": "皖P",
+            "openEconomy": true,
+            "pinyin": "X",
+            "city_id": 182,
+            "pre_plate_no": "皖"
+          },
+          {
+            "name": "新余市",
+            "en_name": "xinyu",
+            "car_prefix": "赣K",
+            "openEconomy": true,
+            "pinyin": "X",
+            "city_id": 152,
+            "pre_plate_no": "赣"
+          },
+          {
+            "name": "咸阳市",
+            "en_name": "xianyang",
+            "car_prefix": "陕D",
+            "openEconomy": true,
+            "pinyin": "X",
+            "city_id": 116,
+            "pre_plate_no": "陕"
+          },
+          {
+            "name": "许昌市",
+            "en_name": "xuchang",
+            "car_prefix": "豫K",
+            "openEconomy": true,
+            "pinyin": "X",
+            "city_id": 112,
+            "pre_plate_no": "豫"
+          },
+          {
+            "name": "新乡市",
+            "en_name": "xinxiang",
+            "car_prefix": "豫G",
+            "openEconomy": true,
+            "pinyin": "X",
+            "city_id": 111,
+            "pre_plate_no": "豫"
+          },
+          {
+            "name": "襄阳市",
+            "en_name": "xiangyang",
+            "car_prefix": "鄂F",
+            "openEconomy": true,
+            "pinyin": "X",
+            "city_id": 108,
+            "pre_plate_no": "鄂"
+          },
+          {
+            "name": "邢台市",
+            "en_name": "xingtai",
+            "car_prefix": "冀E",
+            "openEconomy": true,
+            "pinyin": "X",
+            "city_id": 67,
+            "pre_plate_no": "冀"
+          },
+          {
+            "name": "湘潭市",
+            "en_name": "xiangtan",
+            "car_prefix": "湘C",
+            "openEconomy": true,
+            "pinyin": "X",
+            "city_id": 55,
+            "pre_plate_no": "湘"
+          },
+          {
+            "name": "徐州市",
+            "en_name": "xuzhou",
+            "car_prefix": "苏C",
+            "openEconomy": true,
+            "pinyin": "X",
+            "city_id": 39,
+            "pre_plate_no": "苏"
+          },
+          {
+            "name": "厦门市",
+            "en_name": "xiamen",
+            "car_prefix": "闽D",
+            "openEconomy": true,
+            "pinyin": "X",
+            "city_id": 32,
+            "pre_plate_no": "闽"
+          },
+          {
+            "name": "西宁市",
+            "en_name": "xining",
+            "car_prefix": "青A",
+            "openEconomy": true,
+            "pinyin": "X",
+            "city_id": 28,
+            "pre_plate_no": "青"
+          },
+          {
+            "name": "西安市",
+            "en_name": "xian",
+            "car_prefix": "陕A",
+            "openEconomy": true,
+            "pinyin": "X",
+            "city_id": 10,
+            "pre_plate_no": "陕"
+          }
+        ]
+      },
+      {
+        "pinyin": "Y",
+        "lists": [
+          {
+            "name": "伊犁州",
+            "en_name": "yilizhou",
+            "car_prefix": "新F",
+            "openEconomy": true,
+            "pinyin": "Y",
+            "city_id": 353,
+            "pre_plate_no": "新"
+          },
+          {
+            "name": "玉树州",
+            "en_name": "yushuzhou",
+            "car_prefix": "青G",
+            "openEconomy": true,
+            "pinyin": "Y",
+            "city_id": 343,
+            "pre_plate_no": "青"
+          },
+          {
+            "name": "玉溪市",
+            "en_name": "yuxi",
+            "car_prefix": "云F",
+            "openEconomy": true,
+            "pinyin": "Y",
+            "city_id": 300,
+            "pre_plate_no": "云"
+          },
+          {
+            "name": "雅安市",
+            "en_name": "yaan",
+            "car_prefix": "川T",
+            "openEconomy": true,
+            "pinyin": "Y",
+            "city_id": 287,
+            "pre_plate_no": "川"
+          },
+          {
+            "name": "云浮市",
+            "en_name": "yunfu",
+            "car_prefix": "粤W",
+            "openEconomy": true,
+            "pinyin": "Y",
+            "city_id": 258,
+            "pre_plate_no": "粤"
+          },
+          {
+            "name": "阳江市",
+            "en_name": "yangjiang",
+            "car_prefix": "粤Q",
+            "openEconomy": true,
+            "pinyin": "Y",
+            "city_id": 256,
+            "pre_plate_no": "粤"
+          },
+          {
+            "name": "永州市",
+            "en_name": "yongzhou",
+            "car_prefix": "湘M",
+            "openEconomy": true,
+            "pinyin": "Y",
+            "city_id": 243,
+            "pre_plate_no": "湘"
+          },
+          {
+            "name": "益阳市",
+            "en_name": "yiyang",
+            "car_prefix": "湘H",
+            "openEconomy": true,
+            "pinyin": "Y",
+            "city_id": 242,
+            "pre_plate_no": "湘"
+          },
+          {
+            "name": "宜春市",
+            "en_name": "yichun",
+            "car_prefix": "赣C",
+            "openEconomy": true,
+            "pinyin": "Y",
+            "city_id": 222,
+            "pre_plate_no": "赣"
+          },
+          {
+            "name": "鹰潭市",
+            "en_name": "yingtan",
+            "car_prefix": "赣L",
+            "openEconomy": true,
+            "pinyin": "Y",
+            "city_id": 220,
+            "pre_plate_no": "赣"
+          },
+          {
+            "name": "伊春市",
+            "en_name": "yichun",
+            "car_prefix": "黑F",
+            "openEconomy": true,
+            "pinyin": "Y",
+            "city_id": 214,
+            "pre_plate_no": "黑"
+          },
+          {
+            "name": "榆林市",
+            "en_name": "yulin",
+            "car_prefix": "陕K",
+            "openEconomy": true,
+            "pinyin": "Y",
+            "city_id": 172,
+            "pre_plate_no": "陕"
+          },
+          {
+            "name": "延安市",
+            "en_name": "yanan",
+            "car_prefix": "陕J",
+            "openEconomy": true,
+            "pinyin": "Y",
+            "city_id": 171,
+            "pre_plate_no": "陕"
+          },
+          {
+            "name": "玉林市",
+            "en_name": "yulin",
+            "car_prefix": "桂K",
+            "openEconomy": true,
+            "pinyin": "Y",
+            "city_id": 162,
+            "pre_plate_no": "桂"
+          },
+          {
+            "name": "延吉市",
+            "en_name": "yanji",
+            "car_prefix": "吉H",
+            "openEconomy": true,
+            "pinyin": "Y",
+            "city_id": 131,
+            "pre_plate_no": "吉"
+          },
+          {
+            "name": "阳泉市",
+            "en_name": "yangquan",
+            "car_prefix": "晋C",
+            "openEconomy": true,
+            "pinyin": "Y",
+            "city_id": 126,
+            "pre_plate_no": "晋"
+          },
+          {
+            "name": "宜宾市",
+            "en_name": "yibin",
+            "car_prefix": "川Q",
+            "openEconomy": true,
+            "pinyin": "Y",
+            "city_id": 118,
+            "pre_plate_no": "川"
+          },
+          {
+            "name": "运城市",
+            "en_name": "yuncheng",
+            "car_prefix": "晋M",
+            "openEconomy": true,
+            "pinyin": "Y",
+            "city_id": 104,
+            "pre_plate_no": "晋"
+          },
+          {
+            "name": "盐城市",
+            "en_name": "yancheng",
+            "car_prefix": "苏J",
+            "openEconomy": true,
+            "pinyin": "Y",
+            "city_id": 94,
+            "pre_plate_no": "苏"
+          },
+          {
+            "name": "扬州市",
+            "en_name": "yangzhou",
+            "car_prefix": "苏K",
+            "openEconomy": true,
+            "pinyin": "Y",
+            "city_id": 91,
+            "pre_plate_no": "苏"
+          },
+          {
+            "name": "营口市",
+            "en_name": "yingkou",
+            "car_prefix": "辽H",
+            "openEconomy": true,
+            "pinyin": "Y",
+            "city_id": 76,
+            "pre_plate_no": "辽"
+          },
+          {
+            "name": "岳阳市",
+            "en_name": "yueyang",
+            "car_prefix": "湘F",
+            "openEconomy": true,
+            "pinyin": "Y",
+            "city_id": 56,
+            "pre_plate_no": "湘"
+          },
+          {
+            "name": "宜昌市",
+            "en_name": "yichang",
+            "car_prefix": "鄂E",
+            "openEconomy": true,
+            "pinyin": "Y",
+            "city_id": 51,
+            "pre_plate_no": "鄂"
+          },
+          {
+            "name": "银川市",
+            "en_name": "yinchuan",
+            "car_prefix": "宁A",
+            "openEconomy": true,
+            "pinyin": "Y",
+            "city_id": 49,
+            "pre_plate_no": "宁"
+          },
+          {
+            "name": "烟台市",
+            "en_name": "yantai",
+            "car_prefix": "鲁F,鲁Y",
+            "openEconomy": true,
+            "pinyin": "Y",
+            "city_id": 29,
+            "pre_plate_no": "鲁"
+          }
+        ]
+      },
+      {
+        "pinyin": "Z",
+        "lists": [
+          {
+            "name": "中卫市",
+            "en_name": "zhongwei",
+            "car_prefix": "宁E",
+            "openEconomy": true,
+            "pinyin": "Z",
+            "city_id": 337,
+            "pre_plate_no": "宁"
+          },
+          {
+            "name": "张掖市",
+            "en_name": "zhangye",
+            "car_prefix": "甘G",
+            "openEconomy": true,
+            "pinyin": "Z",
+            "city_id": 326,
+            "pre_plate_no": "甘"
+          },
+          {
+            "name": "昭通市",
+            "en_name": "zhaotong",
+            "car_prefix": "云C",
+            "openEconomy": true,
+            "pinyin": "Z",
+            "city_id": 302,
+            "pre_plate_no": "云"
+          },
+          {
+            "name": "资阳市",
+            "en_name": "ziyang",
+            "car_prefix": "川M",
+            "openEconomy": true,
+            "pinyin": "Z",
+            "city_id": 289,
+            "pre_plate_no": "川"
+          },
+          {
+            "name": "自贡市",
+            "en_name": "zigong",
+            "car_prefix": "川C",
+            "openEconomy": true,
+            "pinyin": "Z",
+            "city_id": 279,
+            "pre_plate_no": "川"
+          },
+          {
+            "name": "驻马店市",
+            "en_name": "zhumadian",
+            "car_prefix": "豫Q",
+            "openEconomy": true,
+            "pinyin": "Z",
+            "city_id": 251,
+            "pre_plate_no": "豫"
+          },
+          {
+            "name": "张家界市",
+            "en_name": "zhangjiajie",
+            "car_prefix": "湘G",
+            "openEconomy": true,
+            "pinyin": "Z",
+            "city_id": 241,
+            "pre_plate_no": "湘"
+          },
+          {
+            "name": "枣庄市",
+            "en_name": "zaozhuang",
+            "car_prefix": "鲁D",
+            "openEconomy": true,
+            "pinyin": "Z",
+            "city_id": 168,
+            "pre_plate_no": "鲁"
+          },
+          {
+            "name": "肇庆市",
+            "en_name": "zhaoqing",
+            "car_prefix": "粤H",
+            "openEconomy": true,
+            "pinyin": "Z",
+            "city_id": 160,
+            "pre_plate_no": "粤"
+          },
+          {
+            "name": "湛江市",
+            "en_name": "zhanjiang",
+            "car_prefix": "粤G",
+            "openEconomy": true,
+            "pinyin": "Z",
+            "city_id": 159,
+            "pre_plate_no": "粤"
+          },
+          {
+            "name": "舟山市",
+            "en_name": "zhoushan",
+            "car_prefix": "浙L",
+            "openEconomy": true,
+            "pinyin": "Z",
+            "city_id": 146,
+            "pre_plate_no": "浙"
+          },
+          {
+            "name": "漳州市",
+            "en_name": "zhangzhou",
+            "car_prefix": "闽E",
+            "openEconomy": true,
+            "pinyin": "Z",
+            "city_id": 142,
+            "pre_plate_no": "闽"
+          },
+          {
+            "name": "中山市",
+            "en_name": "zhongshan",
+            "car_prefix": "粤T",
+            "openEconomy": true,
+            "pinyin": "Z",
+            "city_id": 132,
+            "pre_plate_no": "粤"
+          },
+          {
+            "name": "周口市",
+            "en_name": "zhoukou",
+            "car_prefix": "豫P",
+            "openEconomy": true,
+            "pinyin": "Z",
+            "city_id": 114,
+            "pre_plate_no": "豫"
+          },
+          {
+            "name": "镇江市",
+            "en_name": "zhenjiang",
+            "car_prefix": "苏L",
+            "openEconomy": true,
+            "pinyin": "Z",
+            "city_id": 93,
+            "pre_plate_no": "苏"
+          },
+          {
+            "name": "珠海市",
+            "en_name": "zhuhai",
+            "car_prefix": "粤C",
+            "openEconomy": true,
+            "pinyin": "Z",
+            "city_id": 84,
+            "pre_plate_no": "粤"
+          },
+          {
+            "name": "张家口市",
+            "en_name": "zhangjiakou",
+            "car_prefix": "冀P,冀G",
+            "openEconomy": true,
+            "pinyin": "Z",
+            "city_id": 78,
+            "pre_plate_no": "冀"
+          },
+          {
+            "name": "淄博市",
+            "en_name": "zibo",
+            "car_prefix": "鲁C",
+            "openEconomy": true,
+            "pinyin": "Z",
+            "city_id": 57,
+            "pre_plate_no": "鲁"
+          },
+          {
+            "name": "株洲市",
+            "en_name": "zhuzhou",
+            "car_prefix": "湘B",
+            "openEconomy": true,
+            "pinyin": "Z",
+            "city_id": 54,
+            "pre_plate_no": "湘"
+          },
+          {
+            "name": "遵义市",
+            "en_name": "zunyi",
+            "car_prefix": "贵C",
+            "openEconomy": true,
+            "pinyin": "Z",
+            "city_id": 44,
+            "pre_plate_no": "贵"
+          },
+          {
+            "name": "郑州市",
+            "en_name": "zhengzhou",
+            "car_prefix": "豫A",
+            "openEconomy": true,
+            "pinyin": "Z",
+            "city_id": 9,
+            "pre_plate_no": "豫"
+          }
+        ]
+      }
+    ]}

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:id="@+id/llMenu"
+    android:layout_gravity="left"
+    android:background="#ffffff"
+    android:layout_height="match_parent">
+    <View
+        android:background="#f2f2f2"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"/>
+    <View
+        android:background="#f2f2f2"
+        android:layout_width="match_parent"
+        android:layout_marginTop="100dp"
+        android:layout_height="3dp"/>
+    <TextView
+        android:id="@+id/tv_home"
+        android:text="@string/home"
+        android:padding="10dp"
+        android:gravity="center"
+        android:textColor="#aa000000"
+        android:textSize="18sp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <View
+        android:background="#f2f2f2"
+        android:layout_width="match_parent"
+        android:layout_height="3dp"/>
+    <TextView
+        android:id="@+id/tv_nearby_dealership"
+        android:text="@string/nearby_dealership"
+        android:padding="10dp"
+        android:gravity="center"
+        android:textColor="#aa000000"
+        android:textSize="18sp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <View
+        android:background="#f2f2f2"
+        android:layout_width="match_parent"
+        android:layout_height="3dp"/>
+    <TextView
+        android:id="@+id/tv_td_market"
+        android:text="@string/td_market"
+        android:padding="10dp"
+        android:gravity="center"
+        android:textColor="#aa000000"
+        android:textSize="18sp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <View
+        android:background="#f2f2f2"
+        android:layout_width="match_parent"
+        android:layout_height="3dp"/>
+    <TextView
+        android:id="@+id/tv_history"
+        android:text="@string/show_history_track"
+        android:padding="10dp"
+        android:gravity="center"
+        android:textColor="#aa000000"
+        android:textSize="18sp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <View
+        android:background="#f2f2f2"
+        android:layout_width="match_parent"
+        android:layout_height="3dp"/>
+</LinearLayout>

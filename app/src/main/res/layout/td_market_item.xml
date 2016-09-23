@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="wrap_content"
+    >
+    <TextView
+        android:id="@+id/tv_td_name"
+        android:textColor="#aa000000"
+        android:textSize="26sp"
+        android:text="广告1"
+        android:padding="20dp"
+        android:gravity="center"
+        android:background="#e7e7e7"
+        android:layout_width="match_parent"
+        android:layout_margin="10dp"
+        android:layout_height="wrap_content" />
+</LinearLayout>

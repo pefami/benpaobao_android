@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">奔跑宝</string>
+    <string name="username">手机号：</string>
+    <string name="password">密　码：</string>
+    <string name="login">登录</string>
+    <string name="to_regist">新跑手注册</string>
+    <string name="regist">注册</string>
+    <string name="input_verify">请输入验证码</string>
+    <string name="input_phone">请输入手机号</string>
+    <string name="get_verify">获取验证码</string>
+    <string name="input_passwd">请输入密码</string>
+    <string name="input_repasswd">请确认输入密码</string>
+    <string name="check_agreement">我同意奔跑宝服务协议</string>
+    <string name="regist_next">下一步</string>
+    <string name="checkin_car">登记车辆</string>
+    <string name="city">城市</string>
+    <string name="select_city">请选择城市</string>
+    <string name="car_number">车牌号</string>
+    <string name="car_type">车型</string>
+    <string name="select_car_type">请选择车型</string>
+    <string name="input_car_number">请输入6位车牌号</string>
+    <string name="car_owner">车辆所有人</string>
+    <string name="car_owner_hint">请填写行驶证所有人姓名</string>
+    <string name="car_date">车辆注册日期</string>
+    <string name="car_owner_info_hint">准确填写个人信息</string>
+    <string name="car_owner_name">司机姓名</string>
+    <string name="car_owner_idcard">身份证</string>
+    <string name="licence_date">初次领取驾照日期</string>
+    <string name="nearby_dealership">附近车行</string>
+    <string name="td_market">广告商场</string>
+    <string name="activate">激活</string>
+    <string name="start_run">开始奔跑</string>
+    <string name="stop_run">结束奔跑</string>
+    <string name="pasue_run">暂停</string>
+    <string name="resume_run">启动</string>
+    <string name="map">地图</string>
+    <string name="home">首页</string>
+    <string name="phone_illegality">手机号码不合法</string>
+    <string name="phone_dont_null">手机号码不能为空</string>
+    <string name="open">打开</string>
+    <string name="close">关闭</string>
+    <string name="show_history_track">显示历史轨迹</string>
+    <string name="hide_history_track">隐藏历史轨迹</string>
+
+
+</resources>
