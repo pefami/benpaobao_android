@@ -75,6 +75,8 @@
         <activity android:name=".BaseActivity" />
         <activity android:name=".login.car.CarActivity" />
         <activity android:name=".home.HistoryActivity"></activity>
+
+        <service android:name=".service.LocService"/>
     </application>
 
 </manifest>

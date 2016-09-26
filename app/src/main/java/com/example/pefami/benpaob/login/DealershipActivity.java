@@ -58,7 +58,6 @@ public class DealershipActivity extends BaseActivity {
         lv_detail = (ListView) findViewById(R.id.lv_detail);
         Intent intent = getIntent();
         tdInfo = intent.getStringExtra("tdInfo");
-//        Toast.makeText(this,"您查看的是："+ tdInfo,Toast.LENGTH_SHORT).show();
         initMyLocation();
         overlayUtils = new OverlayUtils(getApplicationContext());
         lv_detail.setOnItemClickListener(new AdapterView.OnItemClickListener() {

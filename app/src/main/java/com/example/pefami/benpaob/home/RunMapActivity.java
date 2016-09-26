@@ -1,8 +1,11 @@
 package com.example.pefami.benpaob.home;
 
+import android.content.ComponentName;
 import android.content.ContentValues;
 import android.content.Intent;
+import android.content.ServiceConnection;
 import android.os.Bundle;
+import android.os.IBinder;
 import android.support.v4.widget.DrawerLayout;
 import android.support.v7.app.ActionBarDrawerToggle;
 import android.support.v7.widget.Toolbar;
@@ -31,6 +34,8 @@ import com.example.pefami.benpaob.R;
 import com.example.pefami.benpaob.dao.TrackDao;
 import com.example.pefami.benpaob.login.DealershipActivity;
 import com.example.pefami.benpaob.login.SelectTdActivity;
+import com.example.pefami.benpaob.service.LocListener;
+import com.example.pefami.benpaob.service.LocService;
 import com.example.pefami.benpaob.tool.UIUtils;
 import com.example.pefami.benpaob.track.OverlayUtils;
 import com.example.pefami.benpaob.track.TrackDraw;
@@ -74,13 +79,42 @@ public class RunMapActivity extends BaseActivity implements View.OnClickListener
         tv_totaldis = (TextView) findViewById(R.id.tv_totaldis);
         tv_speed = (TextView) findViewById(R.id.tv_speed);
         iv_map = (ImageView) findViewById(R.id.iv_map);
-        tv_pause_run= (TextView) findViewById(R.id.tv_pause_run);
+        tv_pause_run = (TextView) findViewById(R.id.tv_pause_run);
         tv_start_run.setOnClickListener(this);
         iv_map.setOnClickListener(this);
         tv_pause_run.setOnClickListener(this);
         initSlidingMenu();
-        initMyLocation();
+//        initMyLocation();
+        //开启定位服务
+        startService();
     }
+
+    private void startService() {
+        Intent locService=new Intent(getApplicationContext(), LocService.class);
+        //启用全局服务，完全后台进行
+        startService(locService);
+        //启用绑定服务，操作服务流程
+        bindService(locService,conn,BIND_AUTO_CREATE);
+        //设置定位回调监听
+        LocService.addLocListener(locListener);
+    }
+    //百度定位回调监听器
+    private LocListener locListener=new LocListener() {
+        @Override
+        public void onReceiveLocation(BDLocation location) {
+
+        }
+    };
+    private LocService.LocBinder locBinder;
+    private ServiceConnection conn=new ServiceConnection() {
+        @Override
+        public void onServiceConnected(ComponentName name, IBinder service) {
+            locBinder= (LocService.LocBinder) service;
+        }
+        @Override
+        public void onServiceDisconnected(ComponentName name) {
+        }
+    };
 
     private TextView tv_nearby_dealership;
     private TextView tv_td_market;
@@ -115,13 +149,11 @@ public class RunMapActivity extends BaseActivity implements View.OnClickListener
             public void onDrawerOpened(View drawerView) {
                 super.onDrawerOpened(drawerView);
             }
-
             @Override
             public void onDrawerClosed(View drawerView) {
                 super.onDrawerClosed(drawerView);
             }
         };
-  /*mMyDrawable.setDrawerListener(mToggle);不推荐*/
         mMyDrawable.addDrawerListener(mToggle);
         mToggle.syncState();/*同步状态*/
     }
@@ -178,7 +210,7 @@ public class RunMapActivity extends BaseActivity implements View.OnClickListener
 
             //获取当前计算的行程
             if (trackDraw != null) {
-                String distance = "当前行程：" +UIUtils.getDistaceUnit ((long) trackDraw.distanceTotal());
+                String distance = "当前行程：" + UIUtils.getDistaceUnit((long) trackDraw.distanceTotal());
                 tv_totaldis.setText(distance);
             }
             if (trackid != null && isRun)
@@ -262,13 +294,14 @@ public class RunMapActivity extends BaseActivity implements View.OnClickListener
     }
 
     private boolean isPause;
+
     private void clickPause() {
-        if(!isPause){
+        if (!isPause) {
             tv_pause_run.setText(UIUtils.getString(R.string.resume_run));
-            isPause=true;
-        }else{
+            isPause = true;
+        } else {
             tv_pause_run.setText(UIUtils.getString(R.string.pasue_run));
-            isPause=false;
+            isPause = false;
         }
         trackDraw.setIsPause(isPause);
     }
@@ -342,7 +375,7 @@ public class RunMapActivity extends BaseActivity implements View.OnClickListener
                 new Thread() {
                     @Override
                     public void run() {
-                        overlayUtils.showHistoryTrack(trackDao, baiduMap,start);
+                        overlayUtils.showHistoryTrack(trackDao, baiduMap, start);
                     }
                 }.start();
                 isShowHistory = true;
