@@ -11,12 +11,12 @@ import com.baidu.location.BDLocation;
 import com.baidu.location.BDLocationListener;
 import com.baidu.location.LocationClient;
 import com.baidu.location.LocationClientOption;
-import com.baidu.mapapi.model.LatLng;
 import com.example.pefami.benpaob.BaseApplication;
 import com.example.pefami.benpaob.dao.TrackDao;
 
 import java.util.ArrayList;
 import java.util.List;
+import java.util.UUID;
 
 /**
  * Created by Administrator on 2016/9/26.
@@ -108,11 +108,13 @@ public class LocService extends Service implements  ILocationManger{
     @Override
     public void startRun() {
         isRun=true;
+        trackid= UUID.randomUUID().toString();
     }
 
     @Override
     public void stopRun() {
         isRun=false;
+        trackid=null;
     }
 
     /**
@@ -123,8 +125,6 @@ public class LocService extends Service implements  ILocationManger{
         public void onReceiveLocation(BDLocation location) {
             if (location == null)
                 return;
-            LatLng ll = new LatLng(location.getLatitude(),
-                    location.getLongitude());
             for(LocListener listener:locListeners){
                 listener.onReceiveLocation(location);
             }

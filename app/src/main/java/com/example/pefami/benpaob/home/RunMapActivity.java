@@ -1,7 +1,6 @@
 package com.example.pefami.benpaob.home;
 
 import android.content.ComponentName;
-import android.content.ContentValues;
 import android.content.Intent;
 import android.content.ServiceConnection;
 import android.os.Bundle;
@@ -16,9 +15,6 @@ import android.widget.LinearLayout;
 import android.widget.TextView;
 
 import com.baidu.location.BDLocation;
-import com.baidu.location.BDLocationListener;
-import com.baidu.location.LocationClient;
-import com.baidu.location.LocationClientOption;
 import com.baidu.mapapi.SDKInitializer;
 import com.baidu.mapapi.map.BaiduMap;
 import com.baidu.mapapi.map.MapStatus;
@@ -43,7 +39,6 @@ import com.example.pefami.benpaob.track.TrackDraw;
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.Date;
-import java.util.UUID;
 
 public class RunMapActivity extends BaseActivity implements View.OnClickListener {
     private MapView mapView;
@@ -58,8 +53,6 @@ public class RunMapActivity extends BaseActivity implements View.OnClickListener
     private DrawerLayout mMyDrawable;
     private ActionBarDrawerToggle mToggle;
 
-    private LocationClient mLocationClient;//定位客户端
-    public MyLocationListener mMyLocationListener;//定位的监听器
     private boolean isFristLocation = true;
     private boolean isRun;
     private TrackDao trackDao;
@@ -84,7 +77,6 @@ public class RunMapActivity extends BaseActivity implements View.OnClickListener
         iv_map.setOnClickListener(this);
         tv_pause_run.setOnClickListener(this);
         initSlidingMenu();
-//        initMyLocation();
         //开启定位服务
         startService();
     }
@@ -100,86 +92,6 @@ public class RunMapActivity extends BaseActivity implements View.OnClickListener
     }
     //百度定位回调监听器
     private LocListener locListener=new LocListener() {
-        @Override
-        public void onReceiveLocation(BDLocation location) {
-
-        }
-    };
-    private LocService.LocBinder locBinder;
-    private ServiceConnection conn=new ServiceConnection() {
-        @Override
-        public void onServiceConnected(ComponentName name, IBinder service) {
-            locBinder= (LocService.LocBinder) service;
-        }
-        @Override
-        public void onServiceDisconnected(ComponentName name) {
-        }
-    };
-
-    private TextView tv_nearby_dealership;
-    private TextView tv_td_market;
-    private TextView tv_home;
-    private TextView tv_history;
-
-    private void initSlidingMenu() {
-        mLlMenu = (LinearLayout) findViewById(R.id.llMenu);
-        mTbHeadBar = (Toolbar) findViewById(R.id.tbHeadBar);
-        mMyDrawable = (DrawerLayout) findViewById(R.id.dlMenu);
-        tv_nearby_dealership = (TextView) findViewById(R.id.tv_nearby_dealership);
-        tv_td_market = (TextView) findViewById(R.id.tv_td_market);
-        tv_home = (TextView) findViewById(R.id.tv_home);
-        tv_history = (TextView) findViewById(R.id.tv_history);
-        tv_nearby_dealership.setOnClickListener(this);
-        tv_td_market.setOnClickListener(this);
-        tv_home.setOnClickListener(this);
-        tv_history.setOnClickListener(this);
-        initToolBarAndDrawableLayout();
-    }
-
-    private void initToolBarAndDrawableLayout() {
-        setSupportActionBar(mTbHeadBar);
-        /*以下俩方法设置返回键可用*/
-        getSupportActionBar().setHomeButtonEnabled(true);
-        getSupportActionBar().setDisplayHomeAsUpEnabled(true);
-        /*设置标题文字不可显示*/
-        getSupportActionBar().setDisplayShowTitleEnabled(false);
-
-        mToggle = new ActionBarDrawerToggle(this, mMyDrawable, mTbHeadBar, R.string.open, R.string.close) {
-            @Override
-            public void onDrawerOpened(View drawerView) {
-                super.onDrawerOpened(drawerView);
-            }
-            @Override
-            public void onDrawerClosed(View drawerView) {
-                super.onDrawerClosed(drawerView);
-            }
-        };
-        mMyDrawable.addDrawerListener(mToggle);
-        mToggle.syncState();/*同步状态*/
-    }
-
-    /**
-     * 初始化定位相关代码
-     */
-    private void initMyLocation() {
-        // 定位初始化
-        mLocationClient = new LocationClient(getApplicationContext());
-        mMyLocationListener = new MyLocationListener();
-        mLocationClient.registerLocationListener(mMyLocationListener);
-        // 设置定位的相关配置
-        LocationClientOption option = new LocationClientOption();
-        option.setOpenGps(true);// 打开gps
-        option.setCoorType("bd09ll"); // 设置坐标类型
-        option.setIsNeedAddress(true);
-        option.setScanSpan(2000);
-        option.setIsNeedLocationDescribe(true);
-        mLocationClient.setLocOption(option);
-    }
-
-    /**
-     * 实现实位回调监听
-     */
-    public class MyLocationListener implements BDLocationListener {
         @Override
         public void onReceiveLocation(BDLocation location) {
             // map view 销毁后不在处理新接收的位置
@@ -213,8 +125,6 @@ public class RunMapActivity extends BaseActivity implements View.OnClickListener
                 String distance = "当前行程：" + UIUtils.getDistaceUnit((long) trackDraw.distanceTotal());
                 tv_totaldis.setText(distance);
             }
-            if (trackid != null && isRun)
-                addLocationToDB(location);
             // 第一次定位时，将地图位置移动到当前位置
             if (isFristLocation) {
                 isFristLocation = false;
@@ -226,28 +136,18 @@ public class RunMapActivity extends BaseActivity implements View.OnClickListener
                 }
             }
         }
-    }
-
-    //将坐标保存到数据库中
-    private void addLocationToDB(BDLocation location) {
-        ContentValues contentValues = new ContentValues();
-        contentValues.put(TrackDao.TRACKID, trackid);
-        contentValues.put(TrackDao.LANTITUDE, location.getLatitude());
-        contentValues.put(TrackDao.LONGITUDE, location.getLongitude());
-        contentValues.put(TrackDao.SPEED, location.getSpeed());
-        contentValues.put(TrackDao.TIME, System.currentTimeMillis());
-        trackDao.addTrackPoint(contentValues);
-    }
-
-    @Override
-    public boolean onKeyDown(int keyCode, KeyEvent event) {
-        if (keyCode == KeyEvent.KEYCODE_BACK) {
-            moveTaskToBack(false);
-            return true;
+    };
+    private LocService.LocBinder locBinder;
+    private ServiceConnection conn=new ServiceConnection() {
+        @Override
+        public void onServiceConnected(ComponentName name, IBinder service) {
+            locBinder= (LocService.LocBinder) service;
+            startLocation();
         }
-        return super.onKeyDown(keyCode, event);
-    }
-
+        @Override
+        public void onServiceDisconnected(ComponentName name) {
+        }
+    };
     private boolean isShowMap = true;
 
     @Override
@@ -297,22 +197,22 @@ public class RunMapActivity extends BaseActivity implements View.OnClickListener
 
     private void clickPause() {
         if (!isPause) {
-            tv_pause_run.setText(UIUtils.getString(R.string.resume_run));
             isPause = true;
         } else {
-            tv_pause_run.setText(UIUtils.getString(R.string.pasue_run));
             isPause = false;
         }
+        tv_pause_run.setText(!isPause?UIUtils.getString(R.string.pasue_run):UIUtils.getString(R.string.resume_run));
         trackDraw.setIsPause(isPause);
     }
 
     private TrackDraw trackDraw;
-    private String trackid;
-
     /**
      * 点击开启奔跑执行方法
      */
     private void clickRun() {
+        if(locBinder==null){
+            return;
+        }
         if (!isRun) {
             isRun = true;
             BaseApplication.isStart = true;
@@ -326,17 +226,23 @@ public class RunMapActivity extends BaseActivity implements View.OnClickListener
             }
             trackDraw.initRoadData(mapView, mCurrentLantitude, mCurrentLongitude);
             trackDraw.moveLooper();
-            //生成当前轨迹ID
-            trackid = UUID.randomUUID().toString();
-            tv_pause_run.setVisibility(View.VISIBLE);
+            showPause(true);
+            locBinder.startRun();
         } else {
             isRun = false;
             BaseApplication.isStart = false;
             tv_start_run.setText(UIUtils.getString(R.string.start_run));
             trackDraw.stopMoveLooper();
-            trackid = null;
-            tv_pause_run.setVisibility(View.GONE);
+            showPause(false);
+            locBinder.stopRun();
         }
+    }
+
+    private void showPause(boolean b) {
+        tv_pause_run.setVisibility(b?View.VISIBLE:View.GONE);
+        tv_pause_run.setText(b?UIUtils.getString(R.string.pasue_run):UIUtils.getString(R.string.resume_run));
+        isPause=!b;
+        trackDraw.setIsPause(isPause);
     }
 
     private boolean isShowHistory;
@@ -386,13 +292,65 @@ public class RunMapActivity extends BaseActivity implements View.OnClickListener
         }
     }
 
+    private TextView tv_nearby_dealership;
+    private TextView tv_td_market;
+    private TextView tv_home;
+    private TextView tv_history;
+
+    private void initSlidingMenu() {
+        mLlMenu = (LinearLayout) findViewById(R.id.llMenu);
+        mTbHeadBar = (Toolbar) findViewById(R.id.tbHeadBar);
+        mMyDrawable = (DrawerLayout) findViewById(R.id.dlMenu);
+        tv_nearby_dealership = (TextView) findViewById(R.id.tv_nearby_dealership);
+        tv_td_market = (TextView) findViewById(R.id.tv_td_market);
+        tv_home = (TextView) findViewById(R.id.tv_home);
+        tv_history = (TextView) findViewById(R.id.tv_history);
+        tv_nearby_dealership.setOnClickListener(this);
+        tv_td_market.setOnClickListener(this);
+        tv_home.setOnClickListener(this);
+        tv_history.setOnClickListener(this);
+        initToolBarAndDrawableLayout();
+    }
+
+    private void initToolBarAndDrawableLayout() {
+        setSupportActionBar(mTbHeadBar);
+        /*以下俩方法设置返回键可用*/
+        getSupportActionBar().setHomeButtonEnabled(true);
+        getSupportActionBar().setDisplayHomeAsUpEnabled(true);
+        /*设置标题文字不可显示*/
+        getSupportActionBar().setDisplayShowTitleEnabled(false);
+
+        mToggle = new ActionBarDrawerToggle(this, mMyDrawable, mTbHeadBar, R.string.open, R.string.close) {
+            @Override
+            public void onDrawerOpened(View drawerView) {
+                super.onDrawerOpened(drawerView);
+            }
+            @Override
+            public void onDrawerClosed(View drawerView) {
+                super.onDrawerClosed(drawerView);
+            }
+        };
+        mMyDrawable.addDrawerListener(mToggle);
+        mToggle.syncState();/*同步状态*/
+    }
+    @Override
+    public boolean onKeyDown(int keyCode, KeyEvent event) {
+        if (keyCode == KeyEvent.KEYCODE_BACK) {
+            moveTaskToBack(false);
+            return true;
+        }
+        return super.onKeyDown(keyCode, event);
+    }
+    private void startLocation(){
+        if(locBinder!=null&&!locBinder.isStartLocation()){
+            locBinder.startLocation();
+        }
+    }
     @Override
     protected void onStart() {
         // 开启图层定位
         baiduMap.setMyLocationEnabled(isShowMap);
-        if (!mLocationClient.isStarted()) {
-            mLocationClient.start();
-        }
+        startLocation();
         if (mCurrentLantitude != 0 || mCurrentLongitude != 0) {
             if ((BaseApplication.isStart && !isRun) || (!BaseApplication.isStart && isRun)) {
                 clickRun();
