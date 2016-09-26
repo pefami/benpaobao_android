@@ -141,6 +141,7 @@ public class RunMapActivity extends BaseActivity implements View.OnClickListener
     private ServiceConnection conn=new ServiceConnection() {
         @Override
         public void onServiceConnected(ComponentName name, IBinder service) {
+            if(service!=null)
             locBinder= (LocService.LocBinder) service;
             startLocation();
         }

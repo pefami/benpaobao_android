@@ -1,6 +1,7 @@
 package com.example.pefami.benpaob.login;
 
 import android.content.Intent;
+import android.graphics.Color;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.EditText;
@@ -68,6 +69,7 @@ public class LoginActivity extends BaseActivity implements View.OnClickListener 
         BmobUser user=new BmobUser();
         user.setUsername(phone);
         user.setPassword(passwd);
+        login_disable();
         //登录成功
         user.login( new SaveListener<BmobUser>() {
             @Override
@@ -93,10 +95,23 @@ public class LoginActivity extends BaseActivity implements View.OnClickListener 
                             ToastUtils.show("用户名或密码不正确");
                             break;
                     }
-
+                    login_enable();
                 }
             }
         });
 
+    }
+
+    private void login_enable() {
+        tv_login.setText(UIUtils.getString(R.string.login));
+        tv_login.setTextColor(Color.WHITE);
+        tv_login.setBackgroundResource(R.drawable.btn_blue_bg);
+        tv_login.setClickable(true);
+    }
+    private void login_disable() {
+        tv_login.setText("登录中...");
+        tv_login.setTextColor(Color.BLACK);
+        tv_login.setBackgroundResource(R.drawable.btn_gray_bg);
+        tv_login.setClickable(false);
     }
 }

@@ -1,9 +1,11 @@
 package com.example.pefami.benpaob.service;
 
+import android.app.Notification;
 import android.app.Service;
 import android.content.ContentValues;
 import android.content.Intent;
 import android.os.Binder;
+import android.os.Build;
 import android.os.IBinder;
 import android.support.annotation.Nullable;
 
@@ -12,6 +14,7 @@ import com.baidu.location.BDLocationListener;
 import com.baidu.location.LocationClient;
 import com.baidu.location.LocationClientOption;
 import com.example.pefami.benpaob.BaseApplication;
+import com.example.pefami.benpaob.R;
 import com.example.pefami.benpaob.dao.TrackDao;
 
 import java.util.ArrayList;
@@ -22,6 +25,7 @@ import java.util.UUID;
  * Created by Administrator on 2016/9/26.
  */
 public class LocService extends Service implements  ILocationManger{
+
     public class LocBinder extends Binder implements ILocationManger{
         @Override
         public void startLocation() {
@@ -46,6 +50,23 @@ public class LocService extends Service implements  ILocationManger{
             LocService.this.stopRun();
         }
     }
+
+    @Override
+    public void onCreate() {
+        Notification notification;
+        if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.JELLY_BEAN_MR2) {
+            Notification.Builder builder = new Notification.Builder(this);
+            builder.setSmallIcon(R.mipmap.ic_launcher)
+                    .setContentTitle("奔跑宝")
+                    .setContentText("正在进行位置定位服务");
+            notification=builder.build();
+
+        } else {
+            notification=new Notification();
+        }
+        startForeground(250, notification);
+    }
+
     @Override
     public int onStartCommand(Intent intent, int flags, int startId) {
         initMyLocation();

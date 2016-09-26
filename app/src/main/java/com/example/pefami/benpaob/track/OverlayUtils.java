@@ -169,15 +169,15 @@ public class OverlayUtils {
             }
         }
         //显示有效轨迹
-        showValidTrack(trackPoints,baiduMap);
+//        showValidTrack(trackPoints,baiduMap);
         if(historyTrack.size()==0) {
             UIUtils.runingOnUiThread(new Runnable() {
-                @Override
-                public void run() {
-                    ToastUtils.show("该日没有行程记录");
-                }
-            });
-        }
+            @Override
+            public void run() {
+                ToastUtils.show("该日没有行程记录");
+            }
+        });
+    }
     }
     //隐藏历史轨迹
     public  void hideHistoryTrack(){
